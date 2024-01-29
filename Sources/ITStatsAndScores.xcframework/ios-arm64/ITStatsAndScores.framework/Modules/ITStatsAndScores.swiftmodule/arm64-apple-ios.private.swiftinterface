@@ -17,6 +17,7 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+  public func getUIViewForLineupsScreen(fixtureId: Swift.String) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLineupsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
@@ -24,6 +25,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentStatisticsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+  public func getUIViewForStatisticsScreen(fixtureId: Swift.String) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentStatisticsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
@@ -48,6 +50,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+  public func getUIViewForLiveUpdatesScreen(fixtureId: Swift.String) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLiveUpdatesScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
@@ -56,6 +59,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 #warning("JH - This is not a good solution - should be from Server")
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+  public func getUIViewForHead2HeadScreen(fixtureId: Swift.String) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable

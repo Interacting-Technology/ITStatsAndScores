@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.34
+- 0.1.35
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is now available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -17,11 +17,11 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Select a day with the Day Picker to show matches on that day
 - [x] Jump to past or future matches with a Date Picker
 - [x] Filter to focus only on live matches
-- [x] Filter by Top Competitions 
+- [x] Filter by Top Competitions
 - [x] Filter by Followings
 - [x] Filter by All
 - [x] Set Reminders for select matches
-- [x] Click on a match to see the Fixture Pages (Head to Head comparison, Lineups, Commentaries, Statistics)
+- [x] Click on a match to see the Fixture Pages (Head to Head/comparison, Lineups, Commentaries/Live updates, Statistics)
 
 ## Fixture Pages Features
 - [x] LiteFixture access by clicking on a match in Score Center Screen
@@ -37,16 +37,26 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 ## Limitations
 - [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
 
-## Endpoints and Delegates
-- [x] ITStatsAndScoresDelegate has been deprecated. It has been renamed ITScoresDelegate
+## Main Public classes/structs, API Calls and Delegates
+- [x] Initialization and Configuration:
+- [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
+- [x] ITConfiguration(userId: String, language: String, country: String)
+- [x] Score Center:
+- [x] NOTE: ITStatsAndScoresDelegate has been deprecated. It has been renamed ITScoresDelegate
 - [x] presentScoresScreen(in viewController: UIViewController, delegate: ITScoresDelegate)
+- [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor'
+- [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
+- [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
+- [x] Stand alone Fixture Pages:
 - [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController)
-- [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor'
-- [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
-- [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
+- [x] Stand alone Fixture Pages - UIView versions:
+- [x] getUIViewForHead2HeadScreen(fixtureId: String) -> UIView
+- [x] getUIViewForLineupsScreen(fixtureId: String) -> UIView
+- [x] getUIViewForLiveUpdatesScreen(fixtureId: String) -> UIView
+- [x] getUIViewForStatisticsScreen(fixtureId: String) -> UIView
 
 ## Known Issues
 - [x] None
@@ -70,7 +80,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.34)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.35)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -187,7 +197,7 @@ extension StatsAndScoresViewController: ITScoresDelegate {
 
 ## Implementation of single - Stand alone Fixture screens
 - presentHead2HeadScreen, presentLineupsScreen, presentLiveUpdatesScreen, presentStatisticsScreen.
-- It is a similar process to present a single stand alone Fixture screens as it is for presentScoresScreen 
+- It is a similar process to present a single stand alone Fixture screen as it is for presentScoresScreen 
 - You must provide a real fixtureId in the method, Here is an example implementation of one of the screens In UIKit:
 ```
 import UIKit

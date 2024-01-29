@@ -1348,6 +1348,34 @@
           },
           {
             "kind": "Function",
+            "name": "getUIViewForLineupsScreen",
+            "printedName": "getUIViewForLineupsScreen(fixtureId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC25getUIViewForLineupsScreen9fixtureIdSo0F0CSS_tF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC25getUIViewForLineupsScreen9fixtureIdSo0F0CSS_tF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "presentLineupsScreenView",
             "printedName": "presentLineupsScreenView(fixtureId:in:)",
             "children": [
@@ -1419,6 +1447,34 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUIViewForStatisticsScreen",
+            "printedName": "getUIViewForStatisticsScreen(fixtureId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC28getUIViewForStatisticsScreen9fixtureIdSo0F0CSS_tF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC28getUIViewForStatisticsScreen9fixtureIdSo0F0CSS_tF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1502,6 +1558,34 @@
           },
           {
             "kind": "Function",
+            "name": "getUIViewForLiveUpdatesScreen",
+            "printedName": "getUIViewForLiveUpdatesScreen(fixtureId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC29getUIViewForLiveUpdatesScreen9fixtureIdSo0F0CSS_tF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC29getUIViewForLiveUpdatesScreen9fixtureIdSo0F0CSS_tF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "presentLiveUpdatesScreenView",
             "printedName": "presentLiveUpdatesScreenView(fixtureId:in:)",
             "children": [
@@ -1573,6 +1657,34 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUIViewForHead2HeadScreen",
+            "printedName": "getUIViewForHead2HeadScreen(fixtureId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureIdSo0F0CSS_tF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureIdSo0F0CSS_tF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -5145,7 +5257,21 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentLineupsScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2930,
+      "offset": 2409,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentLineupsScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 2419,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentLineupsScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 3587,
       "length": 76,
       "value": "\"Could not presentLineupsScreen as there is no stored lineupsViewController\""
     },
@@ -7105,7 +7231,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentStatisticsScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2784,
+      "offset": 3412,
       "length": 82,
       "value": "\"Could not presentStatisticsScreen as there is no stored statisticsViewController\""
     },
@@ -11193,7 +11319,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentLiveUpdatesScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2797,
+      "offset": 3430,
       "length": 84,
       "value": "\"Could not presentLiveUpdatesScreen as there is no stored liveUpdatesViewController\""
     },
@@ -11935,7 +12061,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess_Screens\/ITStatsAndScoresAccess+PresentHead2HeadScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2763,
+      "offset": 3378,
       "length": 84,
       "value": "\"Could not presentHead2HeadScreenView as there is no stored head2HeadViewController\""
     },
