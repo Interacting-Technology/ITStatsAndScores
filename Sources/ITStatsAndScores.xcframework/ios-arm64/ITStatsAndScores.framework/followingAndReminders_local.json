@@ -1,0 +1,165 @@
+{
+    "message": {
+        "competitors": [
+            {
+                "id": "2pw6m0ywlwxrovknhcem4jpe9",
+                "imageId": "66495a2c-938a-49d8-a22a-345f1e8630ec",
+                "name": "Amanda Serrano",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": true,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "rail": false,
+                "sportId": "2x2oqzx60orpoeugkd754ga17",
+                "sportName": "Boxing"
+            },
+            {
+                "id": "bl53jk6zlfe5f583pil7xzwi5",
+                "imageId": "5855818e-588c-49ef-852b-f06efa81ef68",
+                "name": "OL Reign",
+                "notificationPreferences": {
+                    "lineups": true,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": true,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            }
+        ],
+        "competitions": [
+            {
+                "id": "dm927pgm7tfwim95mztp71zxg",
+                "imageId": "2677a13a-c048-4806-ac8d-6582b7636841",
+                "name": "NFL's Greatest Games",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": true,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "rail": true,
+                "sportId": "bv9zk8knpqhdm2mw39z5r24bx",
+                "sportName": "Other"
+            },
+            {
+                "id": "djkvh1luqdkdixpoe653lzixg",
+                "imageId": "43e9631a-3fcf-4339-9d37-73c759208f36",
+                "name": "NWSL",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": true
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            },
+            {
+                "id": "55hcphd1ccc6eai1ms77460on",
+                "imageId": "994b7db3-e00b-41ef-9d27-65eedac0bb03",
+                "name": "UEFA Women's Champions League",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": true,
+                    "halfTime": true,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            }
+        ],
+        "events": [
+            {
+                "id": "8mm35z3ihj2wh53ik92p0isr8",
+                "title": "Serrano vs. Ramos: Fight Night",
+                "sportId": "2x2oqzx60orpoeugkd754ga17",
+                "competitionId": null,
+                "imageId": "1en8yohwjfrnx1mp056fou5du1_image-header_pRow_1694508054000",
+                "startDate": "2023-10-13T17:26:00.000Z",
+                "endDate": "2023-10-13T17:26:00.000Z",
+                "source": "competitor",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": true,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "8kcoiclofj6o7ezjtdx9eb310",
+                "title": "OL Reign vs. Angel City",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "djkvh1luqdkdixpoe653lzixg",
+                "competitionName": "NWSL",
+                "imageId": "1c6ktxwzixbzk10uuxe92und3x_image-header_pRow_1697481440000",
+                "startDate": "2023-10-21T02:00:00.000Z",
+                "endDate": "2023-10-21T02:00:00.000Z",
+                "source": "competitor",
+                "notificationPreferences": {
+                    "lineups": true,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": true,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "2nn5ycsf3l1bvqlx5s8rvwzdg",
+                "title": "North Carolina Courage vs. Gotham FC",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "djkvh1luqdkdixpoe653lzixg",
+                "competitionName": "NWSL",
+                "imageId": "1650tsl4cfur61ubvvxztdtfr3_image-header_pRow_1697534178000",
+                "startDate": "2023-10-22T23:00:00.000Z",
+                "endDate": "2023-10-22T23:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": true
+                }
+            }
+        ]
+    }
+}

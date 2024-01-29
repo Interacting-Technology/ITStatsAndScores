@@ -1,0 +1,40 @@
+{
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+    "roundId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "competitionId": "87de6b6e-44c2-11ee-be56-0242ac120002",
+    "competitionTitle": "English Premier League",
+    "competitionRoundTitle": "Matchday 1",
+    "startsAt": "2023-08-11T14:01:14.973Z",
+    "contestants": [{
+            "id": "87de7398-44c2-11ee-be56-0242ac120002",
+            "name": "Burnley"
+        },
+        {
+            "id": "87de7d66-44c2-11ee-be56-0242ac120002",
+            "name": "Manchester City"
+        }
+    ],
+    "periods": [{
+
+            "title": "HT",
+            "scores": {
+                "87de7d66-44c2-11ee-be56-0242ac120002": 2,
+                "87de7398-44c2-11ee-be56-0242ac120002": 0
+            }
+        },
+        {
+
+            "title": "FT",
+            "scores": {
+                "87de7d66-44c2-11ee-be56-0242ac120002": 3,
+                "87de7398-44c2-11ee-be56-0242ac120002": 1
+            }
+        }
+    ],
+    "state": 10,
+    "scores": {
+        "87de7d66-44c2-11ee-be56-0242ac120002": 3,
+        "87de7398-44c2-11ee-be56-0242ac120002": 1
+    },
+    "currentTime": "90 + 5"
+}

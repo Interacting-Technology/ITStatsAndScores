@@ -1,0 +1,11 @@
+framework module ITStatsAndScores {
+  umbrella header "ITStatsAndScores.h"
+  export *
+
+  module * { export * }
+}
+
+module ITStatsAndScores.Swift {
+  header "ITStatsAndScores-Swift.h"
+  requires objc
+}

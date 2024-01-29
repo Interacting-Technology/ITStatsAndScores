@@ -1,0 +1,125 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ITStatsAndScores
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+import CoreGraphics
+import CoreText
+import DeveloperToolsSupport
+import Foundation
+@_exported import ITStatsAndScores
+import OSLog
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLineupsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentStatisticsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentStatisticsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+#warning("JH - This is not a good solution - should be from Server")
+@_Concurrency.MainActor(unsafe) public struct PublicTestView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public init()
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores14PublicTestViewV4bodyQrvp", 0) __
+}
+@_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
+  public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
+  public var disableLogs: Swift.Bool {
+    get
+    set
+  }
+  public func configure(with configuration: ITStatsAndScores.ITConfiguration)
+  @objc deinit
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLiveUpdatesScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+#warning("JH - This is not a good solution - should be from Server")
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentHead2HeadScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentScoresScreen(in viewController: UIKit.UIViewController, delegate: any ITStatsAndScores.ITScoresDelegate)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentScoresScreenView(in viewController: UIKit.UIViewController, delegate: any ITStatsAndScores.ITScoresDelegate) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+@frozen public struct ITConfiguration {
+  @usableFromInline
+  internal let userId: Swift.String
+  @usableFromInline
+  internal var language: Swift.String
+  @usableFromInline
+  internal var country: Swift.String
+  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String) {
+        self.userId = userId
+        
+        let lowercasedCountry = country.lowercased()
+        let lowercasedLanguage = language.lowercased()
+        
+        /*
+        if lowercasedLanguage != "en" && lowercasedLanguage != "es" {
+        #warning("HARD CODED CONFIGURATION language normalized to \"en\" or \"es\" as they are the only languages supported")
+            if lowercasedCountry == "es" {
+                self.language = "es"
+            } else {
+                self.language = "en"
+            }
+        } else {
+            self.language = lowercasedLanguage
+        }
+         */
+        
+        self.language = lowercasedLanguage
+        self.country = lowercasedCountry
+    }
+}
+extension UIKit.UIWindow {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func motionEnded(_ motion: UIKit.UIEvent.EventSubtype, with event: UIKit.UIEvent?)
+}
+public typealias FollowingListJSONString = Swift.String
+public protocol ITScoresDelegate : ITStatsAndScores.ITNavigationBridgeDelegate {
+  func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ())
+  func setReminderButtonTappedFor(fixtureId: Swift.String, setReminderTurnOn: @escaping (Swift.Bool) -> ())
+}
+public protocol ITStatsDelegate : ITStatsAndScores.ITNavigationBridgeDelegate {
+}
+public protocol ITNavigationBridgeDelegate : AnyObject {
+  func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType)
+}
+public enum ITNavigationType : Swift.String {
+  case fixture
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
+extension ITStatsAndScores.ITNavigationType : Swift.Equatable {}
+extension ITStatsAndScores.ITNavigationType : Swift.Hashable {}
+extension ITStatsAndScores.ITNavigationType : Swift.RawRepresentable {}
