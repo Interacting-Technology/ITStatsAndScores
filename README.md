@@ -5,43 +5,51 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 ## Version
 - 0.1.34
 
-## Important changes, additions and notices
+## What's New/Fixed & Important changes, additions and notices
+- [x] The SDK is now available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
 - [x] Since server is https NOW then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
+- [x] FirebaseAnalytics NOT embedded for now
+
+## Score Center Screen Features
+- [x] See scores of past matches
+- [x] See scores of live matches updating at near real time
+- [x] See times for future matches
+- [x] Select a day with the Day Picker to show matches on that day
+- [x] Jump to past or future matches with a Date Picker
+- [x] Filter to focus only on live matches
+- [x] Filter by Top Competitions 
+- [x] Filter by Followings
+- [x] Filter by All
+- [x] Set Reminders for select matches
+- [x] Click on a match to see the Fixture Pages (Head to Head comparison, Lineups, Commentaries, Statistics)
+
+## Fixture Pages Features
+- [x] LiteFixture access by clicking on a match in Score Center Screen
+- [x] Fixture page Head to Head: Positions, Historic Rates charts, Momentum, Historic Matches
+- [x] Fixture page Line Ups: Formations, Substitutions, Substitutes, Coaches
+- [x] Fixture page Live Updates: Commentaries
+- [x] Fixture page Statistics: Possession chart, Performance charts, Radar chart
+- [x] Stand alone access to Fixture page Head to Head via API (see Endpoints and Delegates section)
+- [x] Stand alone access to Fixture page Lineups via API (see Endpoints and Delegates section)
+- [x] Stand alone access to Fixture page Commentaries via API (see Endpoints and Delegates section)
+- [x] Stand alone access to Fixture page Statistics via API (see Endpoints and Delegates section)
+
+## Limitations
+- [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
+
+## Endpoints and Delegates
 - [x] ITStatsAndScoresDelegate has been deprecated. It has been renamed ITScoresDelegate
 - [x] presentScoresScreen(in viewController: UIViewController, delegate: ITScoresDelegate)
 - [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController)
 - [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController)
-
-## What's New/Fixed
-- [x] Changed and new API calls to show stand alone Fixture pages Head to Head/Line Ups/Live Updates/Stats (see Important changes, additions and notices)
-- [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor' (see #Implementation for more details)
-- [x] 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
-- [x] Click on set reminder bell will trigger delegate 'setReminderButtonTappedFor'
-- [x] LiteFixture screen Head to Head/Line Ups/Live Updates/Stats
-- [x] FirebaseAnalytics NOT embedded for now
-
-## Scores Screen Features
-- [x] Live updates of matches
-- [x] Filter by Followings
-- [x] Filter by All
-- [x] Filter by Live
-
-## Fixture Pages Features
-- [x] LiteFixture access by clicking on a match in Scores Screen -> Match events and 4 Tabs: Head to Head/Line Ups/Live Updates/Stats 
-- [x] Stand alone access to Fixture page Head to Head
-- [x] Stand alone access to Fixture page Lineups
-- [x] Stand alone access to Fixture page Statistics
-- [x] Fixture page Head to Head: Positions, Historic Rates charts, Momentum, Historic Matches
-- [x] Fixture page Line Ups: Formations, Substitutions, Substitutes, Coaches
-- [x] Fixture page Live Updates: Commentaries
-- [x] Fixture page Statistics: Possession chart, Performance charts, Radar chart
-
-## Disabled for this version
-- [x] Scores screen Sports Picker. Shows only Football/Soccer. No bottom sheet selection for sports.
+- [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor'
+- [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
+- [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
 
 ## Known Issues
+- [x] None
 
 ## Dependencies and ThirdParty sdks/libraries/frameworks
 - [x] MQTT-NIO. https://swiftpackageindex.com/sroebert/mqtt-nio
@@ -56,22 +64,18 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 ## Installation
 
 ### Manually
+You may integrate ITStatsAndScores into your project as a package dependency (Swift Package) available on GitHub:
 
-Currently you may only integrate ITStatsAndScores into your project manually as a package dependency (Swift Package)
-
-- Unzip the ITStatsAndScores.zip file and place the unzipped folder in a permanent location
-- Open your Xcode project 
-- In the Navigator -> click on your Project
-- Select -> Package Dependencies
-- Click the plus button to add a dependency
-- In the "search or enter Package URL" field, enter the file PATH to the unzipped folder. (It will not work if you click "Add Local...")
-- Example file PATH: file:///Users/admin/Development/SwiftPackages/ITStatsAndScores
-- Set -> Dependency Rule: Up to Next Major Version 0.1.34 < 
+- Open your Xcode project
+- In Xcode Project Navigator click on the Project -> Package Dependencies
+- Click the plus button
+- In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.34)
+- Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
 - You should see in the Navigator under Package Dependencies -> ITStatsAndScores
 - Build project
-- Since matches/fixtures server is http, you must set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
 
 ## Implementation
 - ITConfiguration properties are: userId, language (ISO 639 alpha-2 code, i.e. 2 letter “en”/”es”/”pt”), country (to letters like "ES"/"UK")
@@ -181,7 +185,7 @@ extension StatsAndScoresViewController: ITScoresDelegate {
 }
 ```
 
-## Implementation of Single Fixture screens
+## Implementation of single - Stand alone Fixture screens
 - presentHead2HeadScreen, presentLineupsScreen, presentLiveUpdatesScreen, presentStatisticsScreen.
 - It is a similar process to present a single stand alone Fixture screens as it is for presentScoresScreen 
 - You must provide a real fixtureId in the method, Here is an example implementation of one of the screens In UIKit:
