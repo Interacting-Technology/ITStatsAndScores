@@ -3,11 +3,11 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.35
+- 0.1.36
 
 ## What's New/Fixed & Important changes, additions and notices
-- [x] The SDK is now available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
-- [x] Since server is https NOW then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
+- [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
+- [x] Since server is https then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
 - [x] FirebaseAnalytics NOT embedded for now
 
 ## Score Center Screen Features
@@ -48,15 +48,15 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
 - [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
 - [x] Stand alone Fixture Pages:
-- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController)
-- [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController)
-- [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController)
-- [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController)
+- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] Stand alone Fixture Pages - UIView versions:
-- [x] getUIViewForHead2HeadScreen(fixtureId: String) -> UIView
-- [x] getUIViewForLineupsScreen(fixtureId: String) -> UIView
-- [x] getUIViewForLiveUpdatesScreen(fixtureId: String) -> UIView
-- [x] getUIViewForStatisticsScreen(fixtureId: String) -> UIView
+- [x] getUIViewForHead2HeadScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 
 ## Known Issues
 - [x] None
@@ -80,7 +80,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.35)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.36)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -208,6 +208,6 @@ class Head2HeadViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        ITStatsAndScoresAccess.shared.presentHead2HeadScreen(fixtureId: "<someFixtureId>", in: self)
+        ITStatsAndScoresAccess.shared.presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
     }
 }
