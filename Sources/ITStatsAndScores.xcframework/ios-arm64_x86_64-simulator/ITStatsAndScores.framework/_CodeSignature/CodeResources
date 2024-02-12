@@ -12,69 +12,13 @@
 		<data>
 		IcjB4JuPaNvrW5N3RoweGhq5Htk=
 		</data>
-		<key>DAZNTrim-BoldItalic.otf</key>
-		<data>
-		3wrpnKv2xNmoApElmeuanVzYmLA=
-		</data>
-		<key>DAZNTrim-ExtraBold.otf</key>
-		<data>
-		diLzJetBBPVI7yJ2ikcJ5sK/13s=
-		</data>
-		<key>DAZNTrim-ExtraBoldItalic.otf</key>
-		<data>
-		9AnhopNO0T1IsqzQ6gn9sN4WcRE=
-		</data>
-		<key>DAZNTrim-Italic.otf</key>
-		<data>
-		6KIzjgimLHQaGDwrPVdNfOO8Wp0=
-		</data>
-		<key>DAZNTrim-Light.otf</key>
-		<data>
-		ldVI0J4I6M3HkYKnUvYu/PO4T7U=
-		</data>
-		<key>DAZNTrim-LightItalic.otf</key>
-		<data>
-		xDMTzrbQraotWdylzt/ueWzNl9E=
-		</data>
-		<key>DAZNTrim-Medium.otf</key>
-		<data>
-		M4gp356excpRa5FyFusk/ot+6PI=
-		</data>
-		<key>DAZNTrim-MediumItalic.otf</key>
-		<data>
-		TyMOv8gldkrIVUwczvRJwg2/VPE=
-		</data>
-		<key>DAZNTrim-Regular.otf</key>
-		<data>
-		KLi65hN2JdNwESQ9l7vzlfXKFKM=
-		</data>
 		<key>DAZNTrim-SemiBold.otf</key>
 		<data>
 		MlLA3kuoNlmwzuwRdl0HR5/WUGQ=
 		</data>
-		<key>DAZNTrim-SemiBoldItalic.otf</key>
-		<data>
-		zzvlIaViA5a+zFYVpZwMJriiZ+s=
-		</data>
 		<key>DAZN_Oscine_Bd.ttf</key>
 		<data>
 		Gp/4Cd13FKfjxPz3Stp/tJl3Tp0=
-		</data>
-		<key>DAZN_Oscine_BdIt.ttf</key>
-		<data>
-		s6JHh2P/W61RhnxL3Lv/ZcF47NA=
-		</data>
-		<key>DAZN_Oscine_It.ttf</key>
-		<data>
-		ZEVooRzIyr92lCAjCF7OMaS1Dlg=
-		</data>
-		<key>DAZN_Oscine_Lt.ttf</key>
-		<data>
-		b3vJwyloUBhbLh6ZLUXWncgjqVE=
-		</data>
-		<key>DAZN_Oscine_LtIt.ttf</key>
-		<data>
-		6e1mRKZNim2OA75oPJs1KSJT+mw=
 		</data>
 		<key>DAZN_Oscine_Rg.ttf</key>
 		<data>
@@ -84,17 +28,13 @@
 		<data>
 		Avh1H/iug3rOm0sREdt2K/KUdg8=
 		</data>
-		<key>DAZN_Oscine_XBdIt.ttf</key>
-		<data>
-		mmtzId6haXfxMfmE4BewntWDMxY=
-		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
 		4fcvUZm9VEFv24j8hEQo5BtM0m4=
 		</data>
 		<key>Headers/ITStatsAndScores-Swift.h</key>
 		<data>
-		nMuTLu2dtVHDmLC9jOA75y3/SXs=
+		N3LuBjEbuCohVP+W7JwKovDOCNg=
 		</data>
 		<key>Headers/ITStatsAndScores.h</key>
 		<data>
@@ -106,11 +46,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ajknezKax1wmR5q7ex7P1V92Fxk=
+		g25Eg3PwlTlGoNTq+wIqzAKow0s=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xwEf+lb6Xi4KNTFTkd83E0Qwfy8=
+		1ST7qPEfb5JTidDCSD/VdG7grjw=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -118,19 +58,19 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xwEf+lb6Xi4KNTFTkd83E0Qwfy8=
+		1ST7qPEfb5JTidDCSD/VdG7grjw=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NgkgjcAK+Tc0LLfCJuVNz6G8OEI=
+		VLfg90xDQ0izAEne0DkgRwQBgzI=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ajknezKax1wmR5q7ex7P1V92Fxk=
+		g25Eg3PwlTlGoNTq+wIqzAKow0s=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		waCLFO/n+Zw+7lUXJbXcRUNWwWM=
+		2a01CgkcV3uKlVBNcH0vnodKCpo=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -138,11 +78,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		waCLFO/n+Zw+7lUXJbXcRUNWwWM=
+		2a01CgkcV3uKlVBNcH0vnodKCpo=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oQ2C2JqG2Xm6CvZ6rBNil/qe79o=
+		KcfeRzFWKCMtFcej9AKAs63Fuzk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -197,69 +137,6 @@
 			iJRdrnSP63afCb+DlpI4NFRH2WT1vX+SkB56cqmRoKI=
 			</data>
 		</dict>
-		<key>DAZNTrim-BoldItalic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gecOUHaipXdediNXL7Aj+SuCVYxaTuKhLoZXNY19Va0=
-			</data>
-		</dict>
-		<key>DAZNTrim-ExtraBold.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4LJVccq5rN7if0b0E6STuCvyDq040gGXvHzQql64Mg4=
-			</data>
-		</dict>
-		<key>DAZNTrim-ExtraBoldItalic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xLw8TRBAlijCEHd2rfihM8Wc3VgVLfUrMRb+hrkB2D0=
-			</data>
-		</dict>
-		<key>DAZNTrim-Italic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8MqOS56TFDj2q04ppG1D3Hx/EOeBykH8RZppAdogkqs=
-			</data>
-		</dict>
-		<key>DAZNTrim-Light.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5e+zHe8bp3FmSWK2iVxDqnUAzg9ygg42rVKcIcHnhhw=
-			</data>
-		</dict>
-		<key>DAZNTrim-LightItalic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PHHKFbjNJIJhnfNa4rzyp9bH2ZNS0Lah02zEN7b+JH0=
-			</data>
-		</dict>
-		<key>DAZNTrim-Medium.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+6twuaX11Ygaf9LyiGvSIAcLLesQI85yh4mOScILxWg=
-			</data>
-		</dict>
-		<key>DAZNTrim-MediumItalic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E1/NwHySBODPLel7JUGtvjrYUo4/9HQTaP353cnlNtc=
-			</data>
-		</dict>
-		<key>DAZNTrim-Regular.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5iPBVkJgw9KB7Zt9brM1irGC2VSlZAzFepyi65OmbA0=
-			</data>
-		</dict>
 		<key>DAZNTrim-SemiBold.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -267,46 +144,11 @@
 			NeCbNytNyg8IAwWAmnQ8VM74QrqotRy5ZNB/U7oAh+Q=
 			</data>
 		</dict>
-		<key>DAZNTrim-SemiBoldItalic.otf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ufSaP4bXtd1zkedv4MzfJsZNsMklb5S9cYRzsu/fOhU=
-			</data>
-		</dict>
 		<key>DAZN_Oscine_Bd.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			5abrYTRkBtSnmo6NKUtMbLPa0/tVwYgYnHdCAbfhC9c=
-			</data>
-		</dict>
-		<key>DAZN_Oscine_BdIt.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pjXW9NPT8WjZ4OlCn4sUbD52MQxx0d64utotBq6jbV8=
-			</data>
-		</dict>
-		<key>DAZN_Oscine_It.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GlTo8pg59JkeeLW/qg+fmL0HPqhIVOrEr6t9HajJUCo=
-			</data>
-		</dict>
-		<key>DAZN_Oscine_Lt.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eedkKs/wMZl3y1Y2CiUff4/Oh5NcVIt9rY9Wgbrdau4=
-			</data>
-		</dict>
-		<key>DAZN_Oscine_LtIt.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2PTv7+OnPOOTFw6lI2AoVO/eMBFKl4KkoUiQvuu4G+U=
 			</data>
 		</dict>
 		<key>DAZN_Oscine_Rg.ttf</key>
@@ -323,13 +165,6 @@
 			vbr8zCHZ/LR6BPxDRmufuVnMccWrfvKJ6sVWQZSB47s=
 			</data>
 		</dict>
-		<key>DAZN_Oscine_XBdIt.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GyZEOjiSmwXy6G1Jmm6OWt7hRve+H2KCvxy83DSvhhc=
-			</data>
-		</dict>
 		<key>GoogleService-Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -341,7 +176,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ypsketz4GbOLHemXIWas3G91HCfKaY1bmmbjJ2tyc/s=
+			8lFhjckfnx12Yc+vNzEpBf25i1uVlPHpRHDFhToJETk=
 			</data>
 		</dict>
 		<key>Headers/ITStatsAndScores.h</key>
@@ -355,14 +190,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qgTnTR791RKC4NOEmWlr8q7RSRAAJDQ1N+WM9TzkYDo=
+			1Z4t6y1E3O54I7HIHWUlBWtcRPt7uodpL7WVmURszMk=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4MfOqjU9kWaDdbpkaEj9WL5B8N4QzOAKx45t4uWUN6A=
+			r4Q4IyDpN8Xh+uxwLlhGdYXkCkWF6VTFW/x07zBE210=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -376,28 +211,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4MfOqjU9kWaDdbpkaEj9WL5B8N4QzOAKx45t4uWUN6A=
+			r4Q4IyDpN8Xh+uxwLlhGdYXkCkWF6VTFW/x07zBE210=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XtjV54Ac3LuMDYr50ka2QM4vCszqTviUU/IGNjoiRH0=
+			GVyB1SLuBRXXx7bNp2AhZBgG9xh5o0tT1MY69bToMf8=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qgTnTR791RKC4NOEmWlr8q7RSRAAJDQ1N+WM9TzkYDo=
+			1Z4t6y1E3O54I7HIHWUlBWtcRPt7uodpL7WVmURszMk=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiz6GNs+6urCj6SX5ctl8G5UnZ6l+KNcGSPYiCDFYoc=
+			EHnEl2eJ1O4wDSrk95BeJ+DhsxMkq6MRk/jwXw9N3YI=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -411,14 +246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiz6GNs+6urCj6SX5ctl8G5UnZ6l+KNcGSPYiCDFYoc=
+			EHnEl2eJ1O4wDSrk95BeJ+DhsxMkq6MRk/jwXw9N3YI=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VTWVu2pomIksseHOTXEOCY6MBXdMkz8HGWOFk7Xw+U=
+			2L6UfO8sam9cV08LIMAEH+N5CM0yEimTk7fI1Ay32M4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

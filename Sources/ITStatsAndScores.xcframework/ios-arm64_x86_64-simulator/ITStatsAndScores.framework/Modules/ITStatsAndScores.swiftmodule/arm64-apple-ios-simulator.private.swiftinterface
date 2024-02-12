@@ -23,6 +23,19 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLineupsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+public enum AnalyticsEvent : Swift.String {
+  case page_load
+  case filter_change
+  case date_change
+  case set_reminder
+  case navigate
+  case live_click
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentStatisticsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForStatisticsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
@@ -41,16 +54,13 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
+  public var analyticsDelegate: (any ITStatsAndScores.ITAnalyticsDelegate)?
   public var disableLogs: Swift.Bool {
     get
     set
   }
   public func configure(with configuration: ITStatsAndScores.ITConfiguration)
   @objc deinit
-}
-extension UIKit.UIApplication : UIKit.UIGestureRecognizerDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func gestureRecognizer(_ gestureRecognizer: UIKit.UIGestureRecognizer, shouldReceive touch: UIKit.UITouch) -> Swift.Bool
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func gestureRecognizer(_ gestureRecognizer: UIKit.UIGestureRecognizer, shouldRecognizeSimultaneouslyWith otherGestureRecognizer: UIKit.UIGestureRecognizer) -> Swift.Bool
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -127,6 +137,12 @@ public enum ITNavigationType : Swift.String {
     get
   }
 }
+public protocol ITAnalyticsDelegate {
+  func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Swift.String])
+}
+extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
+extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
+extension ITStatsAndScores.AnalyticsEvent : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Equatable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Hashable {}
