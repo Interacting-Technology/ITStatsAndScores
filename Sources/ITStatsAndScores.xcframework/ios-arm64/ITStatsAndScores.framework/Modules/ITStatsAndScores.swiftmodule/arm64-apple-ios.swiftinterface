@@ -24,7 +24,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 public enum AnalyticsEvent : Swift.String {
-  case page_load
+  case screen_view
   case filter_change
   case date_change
   case set_reminder
@@ -138,7 +138,7 @@ public enum ITNavigationType : Swift.String {
   }
 }
 public protocol ITAnalyticsDelegate {
-  func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Swift.String])
+  func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Any])
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
