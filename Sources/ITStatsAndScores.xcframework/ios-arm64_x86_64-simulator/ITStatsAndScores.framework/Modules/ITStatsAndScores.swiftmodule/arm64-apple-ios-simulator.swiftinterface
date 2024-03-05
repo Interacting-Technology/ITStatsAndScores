@@ -8,6 +8,7 @@ import CoreText
 import DeveloperToolsSupport
 import Foundation
 @_exported import ITStatsAndScores
+import MessageUI
 import OSLog
 import Swift
 import SwiftUI
@@ -24,12 +25,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 public enum AnalyticsEvent : Swift.String {
+  case page_load
+  case user_Interaction
   case screen_view
-  case filter_change
-  case date_change
-  case set_reminder
-  case navigate
-  case live_click
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
