@@ -3,12 +3,12 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.40
+- 0.1.41
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
 - [x] Since server is https then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
-- [x] FirebaseAnalytics NOT embedded for now
+- [x] ITAnalyticsDelegate. (see: Main Public classes/structs, API Calls and Delegates) (See: Implementation of ITAnalyticsDelegate - Analytics)
 
 ## Score Center Screen Features
 - [x] See scores of past matches
@@ -29,10 +29,10 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Fixture page Line Ups: Formations, Substitutions, Substitutes, Coaches
 - [x] Fixture page Live Updates: Commentaries
 - [x] Fixture page Statistics: Possession chart, Performance charts, Radar chart
-- [x] Stand alone access to Fixture page Head to Head via API (see Endpoints and Delegates section)
-- [x] Stand alone access to Fixture page Lineups via API (see Endpoints and Delegates section)
-- [x] Stand alone access to Fixture page Commentaries via API (see Endpoints and Delegates section)
-- [x] Stand alone access to Fixture page Statistics via API (see Endpoints and Delegates section)
+- [x] Stand alone access to Fixture page Head to Head via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Lineups via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Commentaries via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Statistics via API (see: Main Public classes/structs, API Calls and Delegates)
 
 ## Limitations
 - [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
@@ -57,13 +57,14 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] Analytics - ITAnalyticsDelegate:
+- [x] report(event: AnalyticsEvent, parameters: [String: Any])
 
 ## Known Issues
 - [x] None
 
 ## Dependencies and ThirdParty sdks/libraries/frameworks
 - [x] MQTT-NIO. https://swiftpackageindex.com/sroebert/mqtt-nio
-- [x] FirebaseAnalytics NOT embedded for now. https://firebase.google.com/docs/analytics / https://github.com/firebase/firebase-ios-sdk
 
 ## Requirements
 
@@ -73,14 +74,14 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 
 ## Installation
 
-### Manually
+### Via Swift Package Manager (SPM)
 You may integrate ITStatsAndScores into your project as a package dependency (Swift Package) available on GitHub:
 
 - Open your Xcode project
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.40)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.41)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -88,7 +89,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - Build project
 
 ## Implementation
-- ITConfiguration properties are: userId, language (ISO 639 alpha-2 code, i.e. 2 letter “en”/”es”/”pt”), country (to letters like "ES"/"UK")
+- ITConfiguration properties are: userId, language (ISO 639 alpha-2 code, i.e. 2 letter “en”/”es”/”fr”), country (2 letters like "ES"/"US"/"FR")
 - In UIKit AppDelegate:
 ```
 import UIKit
@@ -211,3 +212,34 @@ class Head2HeadViewController: UIViewController {
         ITStatsAndScoresAccess.shared.presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
     }
 }
+```
+
+## Implementation of ITAnalyticsDelegate - Analytics
+- Create a conforming class/struct and create an instance of it or use an existing appropriate class an conform to ITAnalyticsDelegate)
+- In UIKit AppDelegate (or other appropriate place) add:
+```
+import UIKit
+import ITStatsAndScores
+
+struct ITAnalytics: ITAnalyticsDelegate {
+    
+    func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [String : Any]) {
+        // To log in Firebase Analytics use your firebase class like so:
+        yourFBanalyticsService.logEvent(event.rawValue, parameters: parameters)
+    }
+}
+
+@main
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    let itAnalytics = ITAnalytics()
+
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
+        ...
+        ITStatsAndScoresAccess.shared.analyticsDelegate = itAnalytics
+        
+        return true
+    }
+}
+```
