@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		a80KvjItam2iCqoXgKWHUAHDfck=
+		mkjyIdMybjLf0syVDWD8Q+lra6U=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mkaYyrmVtqyUiQPJ7JEEqYMZmR0=
+		JOwZeLYHsa1YxaPcyHFB1msUW0M=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bvNx33njuy0b9FjoE3i7olVtgd4=
+		d/G3BWtGJZMoCoJ+JYRhwO1jJwI=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mkaYyrmVtqyUiQPJ7JEEqYMZmR0=
+		JOwZeLYHsa1YxaPcyHFB1msUW0M=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w9nCdsE/x+n+k5IpJhjpNhvzV68=
+		Xs36zA54ydbgvhreFJix0meuXWw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FOwty2xAKzaEWE1tvg36B6D0+AQHqYDmakpBOvSY/b4=
+			k5Gzo0DOsVBUqITvTO7K5NrYbZ187aFmqHxC0llOfUQ=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9UiNi0WQYP/Zq3iJjrcYpPy9VmGmndqp9RUBAC7T8yE=
+			mHrJx8HaqcLRKFz9nIZ0g8C2yWrLp9mdJx490ntQayU=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYxhRAh2LZHPSoyer3obDyoT27ANQjR1lzrKjO7lfnA=
+			FxxxOSM8S5mEFzzlT+RmKpsgEzvQUomZcq16SFsqORo=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9UiNi0WQYP/Zq3iJjrcYpPy9VmGmndqp9RUBAC7T8yE=
+			mHrJx8HaqcLRKFz9nIZ0g8C2yWrLp9mdJx490ntQayU=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -253,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EKhIB5Vip3FDpl/swuzni07ozJ6sp525dm2gV0qxHLQ=
+			uMIFWzVKnaqaN2HZpVMaSxfMt/LtBmOTFbyOD1HOAhI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
