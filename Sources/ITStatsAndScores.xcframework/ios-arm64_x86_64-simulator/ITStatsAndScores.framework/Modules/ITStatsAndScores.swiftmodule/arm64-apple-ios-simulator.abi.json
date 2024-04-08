@@ -5753,238 +5753,238 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14546,
+      "offset": 14548,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14664,
+      "offset": 14678,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14834,
+      "offset": 14800,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 14931,
+      "offset": 14897,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15612,
+      "offset": 15578,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15798,
+      "offset": 15764,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 15861,
+      "offset": 15827,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16149,
+      "offset": 16115,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 16274,
+      "offset": 16240,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16315,
+      "offset": 16281,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16807,
+      "offset": 16773,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17110,
+      "offset": 17076,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17286,
+      "offset": 17252,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17332,
+      "offset": 17298,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17500,
+      "offset": 17466,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17613,
+      "offset": 17579,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17658,
+      "offset": 17624,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17822,
+      "offset": 17788,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18161,
+      "offset": 18127,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18217,
+      "offset": 18183,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19458,
+      "offset": 19424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19895,
+      "offset": 19861,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 20850,
+      "offset": 20816,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 21317,
+      "offset": 21283,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 21583,
+      "offset": 21549,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21624,
+      "offset": 21590,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21768,
+      "offset": 21734,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21789,
+      "offset": 21755,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21865,
+      "offset": 21831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21885,
+      "offset": 21851,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21961,
+      "offset": 21927,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21982,
+      "offset": 21948,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 23605,
+      "offset": 23571,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 26613,
+      "offset": 26579,
       "length": 1,
       "value": "0"
     },
@@ -7909,133 +7909,133 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6844,
+      "offset": 6923,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7174,
+      "offset": 7253,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7337,
+      "offset": 7416,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7354,
+      "offset": 7433,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7934,
+      "offset": 8013,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7972,
+      "offset": 8051,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7979,
+      "offset": 8058,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8095,
+      "offset": 8174,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8133,
+      "offset": 8212,
       "length": 3,
       "value": "-40"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8141,
+      "offset": 8220,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8436,
+      "offset": 8515,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8512,
+      "offset": 8591,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8586,
+      "offset": 8665,
       "length": 2,
       "value": "88"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "Array",
-      "offset": 8819,
+      "offset": 8898,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8860,
+      "offset": 8939,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "Array",
-      "offset": 9038,
+      "offset": 9117,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9079,
+      "offset": 9158,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "StringLiteral",
-      "offset": 9869,
+      "offset": 9948,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureScoreBoxView.swift",
       "kind": "StringLiteral",
-      "offset": 10388,
+      "offset": 10467,
       "length": 4,
       "value": "\": \""
     },
@@ -8063,63 +8063,63 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1954,
+      "offset": 2037,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3920,
+      "offset": 4003,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4339,
+      "offset": 4422,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4781,
+      "offset": 4864,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5545,
+      "offset": 5628,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5658,
+      "offset": 5741,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5829,
+      "offset": 5912,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6063,
+      "offset": 6221,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6388,
+      "offset": 6546,
       "length": 2,
       "value": "24"
     },
@@ -8133,14 +8133,14 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ImageFromUrl\/ImageKinds\/ITImageKind.swift",
       "kind": "StringLiteral",
-      "offset": 1076,
+      "offset": 1107,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ImageFromUrl\/ImageKinds\/ITImageKind.swift",
       "kind": "IntegerLiteral",
-      "offset": 1089,
+      "offset": 1120,
       "length": 2,
       "value": "70"
     },
@@ -9897,42 +9897,42 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 926,
+      "offset": 1006,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1426,
+      "offset": 1506,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "StringLiteral",
-      "offset": 1514,
+      "offset": 1594,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "StringLiteral",
-      "offset": 1552,
+      "offset": 1632,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "StringLiteral",
-      "offset": 1555,
+      "offset": 1635,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/CompetitionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1668,
+      "offset": 1748,
       "length": 1,
       "value": "1"
     },
@@ -11542,77 +11542,77 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9303,
+      "offset": 9334,
       "length": 2,
       "value": "77"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9315,
+      "offset": 9346,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9610,
+      "offset": 9641,
       "length": 2,
       "value": "77"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9622,
+      "offset": 9653,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9759,
+      "offset": 9790,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10022,
+      "offset": 10053,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10280,
+      "offset": 10311,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10385,
+      "offset": 10416,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10691,
+      "offset": 10722,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11151,
+      "offset": 11182,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 11201,
+      "offset": 11232,
       "length": 3,
       "value": "103"
     },
@@ -14118,21 +14118,21 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ImageFromUrl\/ITImage.swift",
       "kind": "StringLiteral",
-      "offset": 875,
+      "offset": 906,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ImageFromUrl\/ITImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1068,
+      "offset": 1099,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ImageFromUrl\/ITImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1266,
+      "offset": 1297,
       "length": 2,
       "value": "40"
     },
@@ -14881,224 +14881,224 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1665,
+      "offset": 1768,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1947,
+      "offset": 2050,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2500,
+      "offset": 2706,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3067,
+      "offset": 3273,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3169,
+      "offset": 3375,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3174,
+      "offset": 3380,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3503,
+      "offset": 3709,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3817,
+      "offset": 4023,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3870,
+      "offset": 4076,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4306,
+      "offset": 4512,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4592,
+      "offset": 4798,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4910,
+      "offset": 5116,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5273,
+      "offset": 5479,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5400,
+      "offset": 5606,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5839,
+      "offset": 6045,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6125,
+      "offset": 6331,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6446,
+      "offset": 6652,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6809,
+      "offset": 7015,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6885,
+      "offset": 7091,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "Array",
-      "offset": 6983,
+      "offset": 7189,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "Array",
-      "offset": 7076,
+      "offset": 7282,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7134,
+      "offset": 7340,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7201,
+      "offset": 7407,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7499,
+      "offset": 7705,
       "length": 3,
       "value": "-18"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7585,
+      "offset": 7791,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7764,
+      "offset": 7970,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7825,
+      "offset": 8031,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7898,
+      "offset": 8104,
       "length": 3,
       "value": "304"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "Array",
-      "offset": 8063,
+      "offset": 8269,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8462,
+      "offset": 8668,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8559,
+      "offset": 8765,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatRadarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8696,
+      "offset": 8902,
       "length": 1,
       "value": "0"
     },
@@ -17534,93 +17534,177 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2397,
+      "offset": 2406,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3371,
+      "offset": 3111,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3513,
+      "offset": 3253,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4031,
+      "offset": 3771,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4241,
+      "offset": 3981,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4426,
+      "offset": 4166,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4816,
+      "offset": 4556,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5004,
+      "offset": 4744,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 5026,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5352,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5219,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5434,
+      "offset": 5567,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 5977,
+      "offset": 6181,
       "length": 67,
       "value": "\"https:\/\/stats-scores-bucket.s3.eu-central-1.amazonaws.com\/assets\/\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 6109,
+      "offset": 6313,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 6119,
+      "offset": 6323,
       "length": 1,
       "value": "\"%@\/primary.png\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9057,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9144,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9224,
+      "length": 12,
+      "value": "\"public.png\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9250,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9547,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9737,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9826,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9908,
+      "length": 13,
+      "value": "\"public.jpeg\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9935,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Views\/FixtureLineupsSubstitutesView.swift",
@@ -20312,24 +20396,17 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/MatchesScrollView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2449,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/MatchesScrollView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1913,
+      "offset": 2719,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/MatchesScrollView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2193,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/MatchesScrollView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2433,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/Debug\/BottomSheetConsole\/ShakeDetector.swift",
@@ -21181,70 +21258,70 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5745,
+      "offset": 5776,
       "length": 2,
       "value": "77"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5757,
+      "offset": 5788,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6052,
+      "offset": 6083,
       "length": 2,
       "value": "77"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6064,
+      "offset": 6095,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6195,
+      "offset": 6226,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6724,
+      "offset": 6755,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6829,
+      "offset": 6860,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7135,
+      "offset": 7166,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7595,
+      "offset": 7626,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Cells\/FixtureCompareHistoricMatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7645,
+      "offset": 7676,
       "length": 3,
       "value": "103"
     },
@@ -21370,581 +21447,581 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2265,
+      "offset": 2344,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2485,
+      "offset": 2564,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2656,
+      "offset": 2735,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2672,
+      "offset": 2751,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2960,
+      "offset": 3118,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3151,
+      "offset": 3309,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3220,
+      "offset": 3378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3229,
+      "offset": 3387,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3233,
+      "offset": 3391,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3360,
+      "offset": 3518,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3376,
+      "offset": 3534,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3416,
+      "offset": 3574,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3565,
+      "offset": 3723,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4818,
+      "offset": 4976,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4834,
+      "offset": 4992,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4941,
+      "offset": 5099,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5010,
+      "offset": 5168,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5018,
+      "offset": 5176,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5022,
+      "offset": 5180,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5558,
+      "offset": 5791,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6356,
+      "offset": 6664,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6843,
+      "offset": 7151,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7122,
+      "offset": 7430,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7218,
+      "offset": 7526,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 7399,
+      "offset": 7707,
       "length": 28,
       "value": "\"Really Matrid Championship\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7546,
+      "offset": 7854,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7607,
+      "offset": 7915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 7766,
+      "offset": 8074,
       "length": 28,
       "value": "\"Really Matrid Championship\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7913,
+      "offset": 8221,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7976,
+      "offset": 8284,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 8135,
+      "offset": 8443,
       "length": 28,
       "value": "\"Really Matrid Championship\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8289,
+      "offset": 8597,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8352,
+      "offset": 8660,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 8540,
+      "offset": 8848,
       "length": 15,
       "value": "\"Really Matrid\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8676,
+      "offset": 8984,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8739,
+      "offset": 9047,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 8898,
+      "offset": 9206,
       "length": 15,
       "value": "\"Really Matrid\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9032,
+      "offset": 9340,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9095,
+      "offset": 9403,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 9254,
+      "offset": 9562,
       "length": 15,
       "value": "\"Really Matrid\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9395,
+      "offset": 9703,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9458,
+      "offset": 9766,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 9813,
+      "offset": 10121,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10141,
+      "offset": 10449,
       "length": 6,
       "value": "\" · \""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10275,
+      "offset": 10583,
       "length": 5,
       "value": "\"111\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10328,
+      "offset": 10636,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10397,
+      "offset": 10705,
       "length": 3,
       "value": "\"a\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10408,
+      "offset": 10716,
       "length": 6,
       "value": "\"aaaa\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10499,
+      "offset": 10807,
       "length": 3,
       "value": "\"b\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10510,
+      "offset": 10818,
       "length": 6,
       "value": "\"bbbb\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10597,
+      "offset": 10905,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "Dictionary",
-      "offset": 10611,
+      "offset": 10919,
       "length": 18,
       "value": "[(\"a\", \"3\"), (\"b\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "Dictionary",
-      "offset": 10800,
+      "offset": 11108,
       "length": 18,
       "value": "[(\"a\", \"3\"), (\"b\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10869,
+      "offset": 11177,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10923,
+      "offset": 11231,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 10974,
+      "offset": 11282,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11079,
+      "offset": 11387,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11137,
+      "offset": 11445,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11256,
+      "offset": 11564,
       "length": 5,
       "value": "\"222\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11307,
+      "offset": 11615,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11374,
+      "offset": 11682,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11385,
+      "offset": 11693,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11474,
+      "offset": 11782,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11485,
+      "offset": 11793,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11577,
+      "offset": 11885,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "Dictionary",
-      "offset": 11591,
+      "offset": 11899,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "Dictionary",
-      "offset": 11768,
+      "offset": 12076,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11835,
+      "offset": 12143,
       "length": 5,
       "value": "\"47'\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11888,
+      "offset": 12196,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 11937,
+      "offset": 12245,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12038,
+      "offset": 12346,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12094,
+      "offset": 12402,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12220,
+      "offset": 12528,
       "length": 5,
       "value": "\"333\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12278,
+      "offset": 12586,
       "length": 7,
       "value": "\"16:00\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12357,
+      "offset": 12665,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12368,
+      "offset": 12676,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12464,
+      "offset": 12772,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12475,
+      "offset": 12783,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12799,
+      "offset": 13107,
       "length": 7,
       "value": "\"16:00\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12861,
+      "offset": 13169,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "StringLiteral",
-      "offset": 12917,
+      "offset": 13225,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13032,
+      "offset": 13340,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/ITFixtureOverviewScreen\/Views\/FixtureNavBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13095,
+      "offset": 13403,
       "length": 4,
       "value": "true"
     },
@@ -22189,7 +22266,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/Views\/FixtureStatPossessionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2795,
+      "offset": 2870,
       "length": 2,
       "value": "24"
     },
@@ -27978,63 +28055,63 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 857,
+      "offset": 1000,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1708,
+      "offset": 1851,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1777,
+      "offset": 1920,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2198,
+      "offset": 2341,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2401,
+      "offset": 2544,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2748,
+      "offset": 2891,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2783,
+      "offset": 2926,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2938,
+      "offset": 3081,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2982,
+      "offset": 3125,
       "length": 3,
       "value": "160"
     },
@@ -29455,21 +29532,21 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Views\/FixtureCompareHistoricRatesView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4604,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Views\/FixtureCompareHistoricRatesView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4653,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Views\/FixtureCompareHistoricRatesView.swift",
-      "kind": "IntegerLiteral",
       "offset": 4679,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Views\/FixtureCompareHistoricRatesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4728,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureCompareScreen\/Views\/FixtureCompareHistoricRatesView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4754,
       "length": 2,
       "value": "40"
     },
@@ -29882,28 +29959,28 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ContestantLogoAndNameView.swift",
       "kind": "IntegerLiteral",
-      "offset": 604,
+      "offset": 679,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ContestantLogoAndNameView.swift",
       "kind": "FloatLiteral",
-      "offset": 763,
+      "offset": 838,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ContestantLogoAndNameView.swift",
       "kind": "IntegerLiteral",
-      "offset": 796,
+      "offset": 871,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/ContestantLogoAndNameView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1132,
+      "offset": 1207,
       "length": 2,
       "value": "16"
     },
