@@ -17660,205 +17660,219 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 1202,
+      "offset": 1200,
       "length": 23,
       "value": "\"contestantPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 1280,
+      "offset": 1278,
       "length": 24,
       "value": "\"competitionPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 1353,
+      "offset": 1351,
       "length": 31,
       "value": "\"liveMatchThumbnailPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 1476,
+      "offset": 1474,
       "length": 19,
       "value": "\"playerPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2406,
+      "offset": 2723,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3111,
+      "offset": 3709,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3253,
+      "offset": 3851,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3771,
+      "offset": 4369,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3981,
+      "offset": 4579,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4166,
+      "offset": 4764,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4556,
+      "offset": 5154,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4744,
+      "offset": 5342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "FloatLiteral",
-      "offset": 5126,
+      "offset": 5724,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5452,
+      "offset": 6050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5667,
+      "offset": 6582,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 6281,
+      "offset": 7196,
       "length": 67,
       "value": "\"https:\/\/stats-scores-bucket.s3.eu-central-1.amazonaws.com\/assets\/\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 6413,
+      "offset": 7328,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 6423,
+      "offset": 7338,
       "length": 1,
       "value": "\"%@\/primary.png\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9136,
+      "offset": 10051,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9538,
+      "offset": 10453,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10122,
+      "offset": 11037,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10209,
+      "offset": 11124,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 10289,
+      "offset": 11204,
       "length": 12,
       "value": "\"public.png\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10315,
+      "offset": 11230,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10612,
+      "offset": 11527,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 10802,
+      "offset": 11717,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 10891,
+      "offset": 11806,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 10973,
+      "offset": 11888,
       "length": 13,
       "value": "\"public.jpeg\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 11000,
+      "offset": 11915,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12564,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12715,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITStatFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Views\/FixtureLineupsSubstitutesView.swift",
