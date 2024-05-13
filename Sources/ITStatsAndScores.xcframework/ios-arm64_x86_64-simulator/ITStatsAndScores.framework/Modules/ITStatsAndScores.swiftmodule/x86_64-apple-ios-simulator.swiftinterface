@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ITStatsAndScores
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name ITStatsAndScores
 import Combine
 import CoreGraphics
 import CoreText
@@ -84,6 +83,14 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentScoresScreenView(in viewController: UIKit.UIViewController, delegate: any ITStatsAndScores.ITScoresDelegate) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionLeagueStatsScreen(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForCompetitionLeagueStatsScreen(competitionId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionLeagueStatsScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
 @frozen public struct ITConfiguration {
   @usableFromInline
   internal let userId: Swift.String
@@ -114,6 +121,14 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
         self.country = lowercasedCountry
     }
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionMatchesScreen(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForCompetitionMatchesScreen(competitionId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionMatchesScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
 extension UIKit.UIWindow {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func motionEnded(_ motion: UIKit.UIEvent.EventSubtype, with event: UIKit.UIEvent?)
 }
@@ -137,6 +152,22 @@ public enum ITNavigationType : Swift.String {
 }
 public protocol ITAnalyticsDelegate {
   func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Any])
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionPlayersStatsScreen(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForCompetitionPlayersStatsScreen(competitionId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionPlayersStatsScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionTableScreen(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForCompetitionTableScreen(competitionId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentCompetitionTableScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}

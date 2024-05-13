@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.50
+- 0.1.51
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -22,6 +22,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Filter by All
 - [x] Set Reminders for select matches
 - [x] Click on a match to see the Fixture Pages (Head to Head/comparison, Lineups, Commentaries/Live updates, Statistics)
+- [x] Click on a competition to see the Competition Pages (Matches, Table, League Stats, Player Stats)
 
 ## Fixture Pages Features
 - [x] LiteFixture access by clicking on a match in Score Center Screen
@@ -33,6 +34,17 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Stand alone access to Fixture page Lineups via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Commentaries via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Statistics via API (see: Main Public classes/structs, API Calls and Delegates)
+
+## Competition Pages Features
+- [x] LiteCompetition access by clicking on a competition in Score Center Screen
+- [x] Competition page Matches: See all matches for the competition based on year and days
+- [x] Competition page Table: Team Positions and comparisons chart table
+- [x] Competition page League Stats
+- [x] Competition page Players Stats
+- [x] Stand alone access to Competition page Matches via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Competition page Table via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Competition page League Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Competition page Players Stats via API (see: Main Public classes/structs, API Calls and Delegates)
 
 ## Limitations
 - [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
@@ -57,6 +69,16 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] Stand alone Competition Pages:
+- [x] presentCompetitionMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentCompetitionTableScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentCompetitionLeagueStatsScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentCompetitionPlayersStatsScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] Stand alone Competition Pages - UIView versions:
+- [x] getUIViewForCompetitionMatchesScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForCompetitionTableScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForCompetitionLeagueStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForCompetitionPlayersStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] Analytics - ITAnalyticsDelegate:
 - [x] report(event: AnalyticsEvent, parameters: [String: Any])
 
@@ -81,7 +103,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.50)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.51)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -210,6 +232,24 @@ class Head2HeadViewController: UIViewController {
         super.viewDidLoad()
 
         ITStatsAndScoresAccess.shared.presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+    }
+}
+```
+
+## Implementation of single - Stand alone Competition screens
+- presentCompetitionMatchesScreen, presentCompetitionTableScreen, presentCompetitionLeagueStatsScreen, presentCompetitionPlayersStatsScreen.
+- It is a similar process to present a single stand alone Competition screen as it is for presentScoresScreen 
+- You must provide a real competitionId in the method, Here is an example implementation of one of the screens In UIKit:
+```
+import UIKit
+import ITStatsAndScores
+
+class CompetitionMatchesViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        ITStatsAndScoresAccess.shared.presentCompetitionMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
     }
 }
 ```
