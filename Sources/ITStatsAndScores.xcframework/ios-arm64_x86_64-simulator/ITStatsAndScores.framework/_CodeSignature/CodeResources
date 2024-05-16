@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rpR0a9a4i40T84AzSfqP0KCrw0U=
+		oLw07d+jNjUW2mFp0tYMAdYhhRo=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		gXMo3J2IoQoW3LDyi0npSzguc9c=
+		HInT51yN4azvsLHZ1rspLU6sUGc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7UJmFrnPixCaSPFHankyTqWbSkw=
+		zvtQ47eonfjcauXai5Af5urS+WM=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		gXMo3J2IoQoW3LDyi0npSzguc9c=
+		HInT51yN4azvsLHZ1rspLU6sUGc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u8D5r+h8oxRNBDX4Thd9Ds7+l/4=
+		CSA5ZsqSQIRoiWwFSsNNqk62jJc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,6 +100,18 @@
 		<data>
 		lM+AMK0MxDzH2gud5MFgc3D9DOE=
 		</data>
+		<key>laliga_scores.json</key>
+		<data>
+		ZD/XfWqs3/Yhy8+Si/Mb/wUmRMI=
+		</data>
+		<key>laliga_stats.json</key>
+		<data>
+		Ne1M1fWPuXSFM5bM/Zig1bPtllw=
+		</data>
+		<key>laliga_table.json</key>
+		<data>
+		GI4ivs21sMhCpZ5PXH5SfKiSYUM=
+		</data>
 		<key>match.json</key>
 		<data>
 		NrAIdwZe0dygSRcVcUZ3wum86s0=
@@ -116,6 +128,10 @@
 		<data>
 		iad26jQJzzkJAIiW80GCClW2ITY=
 		</data>
+		<key>topCompetitions.json</key>
+		<data>
+		7uD0ZI2H9c4cnyWCk0PjL3oRY28=
+		</data>
 		<key>translations.json</key>
 		<data>
 		o1Wu84fmCx3y5zdYW6Tw7FC4++I=
@@ -127,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gTxxzaWRdTsMe/BJifJZPrNi4YzVqgXSwRnBX/K47U=
+			ufhSe0C488mIcD/BZk3klyFNsm9MmYKnpHDIEnWNboY=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -190,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FnV13dfMdFeFbaNnFo/pL0nz2xGdqpD+qnTX9B+ELC8=
+			JB0UJCgGuQGIi4E+IpHJ6jdo7laHeaCpwlfw/HLqxUg=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -218,14 +234,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TeYBPqAYvH5xRWkUOVYkgCDmrejacp59ZifWkL1YsUY=
+			VCfUNDvQPuLMg7EYZCh5pIc68+cQypIGPa8/wj2r7/E=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FnV13dfMdFeFbaNnFo/pL0nz2xGdqpD+qnTX9B+ELC8=
+			JB0UJCgGuQGIi4E+IpHJ6jdo7laHeaCpwlfw/HLqxUg=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -253,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HKeYQv/IKw1NvMdxJcxgYeTjR/imOr1Gsv5L44NxZuY=
+			QCtVXU/OSA4YY0wx2PtamEojf9cDiG+nSblW29ylDi0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -284,6 +300,27 @@
 			9qJhZbHp9QlX33IxcgFLANkVqqmb5FzX5VR4lSwDUAM=
 			</data>
 		</dict>
+		<key>laliga_scores.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mv0cY1+MWUSDYs7ueRb/SpPU1rzX6y8YcFCdNTscAs4=
+			</data>
+		</dict>
+		<key>laliga_stats.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mt2SSlSvjMJyZvU2oVaAOyBiSi5wSwfujGQrh5+J2co=
+			</data>
+		</dict>
+		<key>laliga_table.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jkKtuUkbTm1ieUUz9zYJXQZRldnJM+pDMT0EYVcwIZc=
+			</data>
+		</dict>
 		<key>match.json</key>
 		<dict>
 			<key>hash2</key>
@@ -310,6 +347,13 @@
 			<key>hash2</key>
 			<data>
 			DOpP1SO+tDqWEopAffd36jwfk6xT6l/+G6WifRRYh5A=
+			</data>
+		</dict>
+		<key>topCompetitions.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pWcj21R1E5AYbQ9FqylP5LWkJd7N+lPzNZrHolF+75U=
 			</data>
 		</dict>
 		<key>translations.json</key>
