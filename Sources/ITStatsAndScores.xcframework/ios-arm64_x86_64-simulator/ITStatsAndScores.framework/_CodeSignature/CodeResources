@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		oLw07d+jNjUW2mFp0tYMAdYhhRo=
+		FT6qBUWdAH3R2AfV4UtcPPggyMA=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -46,43 +46,43 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HInT51yN4azvsLHZ1rspLU6sUGc=
+		RnvCvD0O2Jv3MTBIAN56oASGMEc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		R9Z+tb3FY5oXkCcWoMn1ZrSEmIo=
+		eG0qvbIgmbu2BNS5q20+U2baQrU=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		FwpVK97scrUj4ZzIQ8Dm6CnhkvU=
+		Gn1dQCcbqDq6G6o4uC4AwGaJh2I=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R9Z+tb3FY5oXkCcWoMn1ZrSEmIo=
+		eG0qvbIgmbu2BNS5q20+U2baQrU=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zvtQ47eonfjcauXai5Af5urS+WM=
+		iYSMsTtFxOCFe6U6XTMZDZCEq+M=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HInT51yN4azvsLHZ1rspLU6sUGc=
+		RnvCvD0O2Jv3MTBIAN56oASGMEc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2w0gUnHLpQcfOxwK/qV2o4X+77A=
+		WTh0FQecFr+l/QFSAgFNe3EjQNo=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RF6PHOR2R6B4/6cFzUKBF2mSFEU=
+		A3nRoAY+QpDC5jv5na4bSy5jNRQ=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2w0gUnHLpQcfOxwK/qV2o4X+77A=
+		WTh0FQecFr+l/QFSAgFNe3EjQNo=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CSA5ZsqSQIRoiWwFSsNNqk62jJc=
+		i+htZGziuFlWWwYpVL+FCs3s7z4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,6 +91,10 @@
 		<key>awsiot-identity.p12</key>
 		<data>
 		7whTsXSUO1atelT7VNfJnO4nJOY=
+		</data>
+		<key>barcelona_scores.json</key>
+		<data>
+		+ezGvVC+ZeP+3PCfSIUY/bYAIQ8=
 		</data>
 		<key>days_local.json</key>
 		<data>
@@ -115,6 +119,18 @@
 		<key>match.json</key>
 		<data>
 		NrAIdwZe0dygSRcVcUZ3wum86s0=
+		</data>
+		<key>matches_barcelona.json</key>
+		<data>
+		vz8uxPDwUOP7fUrctZMuapStpNw=
+		</data>
+		<key>nextMatch_barcelona.json</key>
+		<data>
+		TGsLC6/UYMwc3XaF2Dk52BkYk+Q=
+		</data>
+		<key>positions_barcelona.json</key>
+		<data>
+		lmrTmveK7udrQyQVb1DuGxmnog4=
 		</data>
 		<key>private_Amazon-Root-CA-1.der</key>
 		<data>
@@ -143,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ufhSe0C488mIcD/BZk3klyFNsm9MmYKnpHDIEnWNboY=
+			Kt5wIIpDxAFFSbNIqXQMurUhuZmvs453e6fyj6N+nto=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -206,70 +222,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JB0UJCgGuQGIi4E+IpHJ6jdo7laHeaCpwlfw/HLqxUg=
+			4cULf0KZwP4rzOKSDkW0fRhPEJOk/BOi98ZdEaSjlks=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b7FZ41nppjABlTfOAsQSN1Zf5xtMMBc3VJkDvOjXLXM=
+			DgYmmjhBlSxPRSvMIqmkihqyYCVxJr07CfX+GW84BJU=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JiCeZprUzFDrGqGXzvvAYAt3cqShdtOIpxqUPEyspao=
+			xiy3bBJi3wTci3mw8BrW2nyF72roeGeTxxdy9HzC0TU=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b7FZ41nppjABlTfOAsQSN1Zf5xtMMBc3VJkDvOjXLXM=
+			DgYmmjhBlSxPRSvMIqmkihqyYCVxJr07CfX+GW84BJU=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VCfUNDvQPuLMg7EYZCh5pIc68+cQypIGPa8/wj2r7/E=
+			Hhspo1CtVgR11Kr0mETy4Uu6ny3t8whcu0kUyIOvnCs=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JB0UJCgGuQGIi4E+IpHJ6jdo7laHeaCpwlfw/HLqxUg=
+			4cULf0KZwP4rzOKSDkW0fRhPEJOk/BOi98ZdEaSjlks=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJWJxVX8mFADsS99+20RzcOYE5Gq/dL8VTP3XnaEehs=
+			eGbt8CyIP4BDPhpR0oKNORTXB0X5XRSwHHcdnnuGLxY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8K6awwUtsw8H05/Fsmp10L2uMACMFXQv+L6GSVW+Qw=
+			bwQcBeQkPYa+IsHZj5WwjP/9VR9/SCTFPbRRwQN3NjY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJWJxVX8mFADsS99+20RzcOYE5Gq/dL8VTP3XnaEehs=
+			eGbt8CyIP4BDPhpR0oKNORTXB0X5XRSwHHcdnnuGLxY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QCtVXU/OSA4YY0wx2PtamEojf9cDiG+nSblW29ylDi0=
+			FUPJT8maejjuFunKPPMR9TXqBthdRObOc75WeHyBstk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -284,6 +300,13 @@
 			<key>hash2</key>
 			<data>
 			apd6rJ1n2V/5pt9h89J1Z/4ErBjvIJY2F6cNGU/Ih+M=
+			</data>
+		</dict>
+		<key>barcelona_scores.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EsOGeSyAEGXrfJtwnXesWl18gW7gmToFb6qPVOHhgI0=
 			</data>
 		</dict>
 		<key>days_local.json</key>
@@ -326,6 +349,27 @@
 			<key>hash2</key>
 			<data>
 			rnURM5//FBqDPp92tgPp/ZSibfT9MyEU8reMVdySoNg=
+			</data>
+		</dict>
+		<key>matches_barcelona.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eBm8Dsu0HIHVBms3/5JpChJd4gBPIfNGFC4uvarX+OU=
+			</data>
+		</dict>
+		<key>nextMatch_barcelona.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nIENIOeZMVwtQ8suO5imzn6ZhRX5co+8qN5SQh+SBYM=
+			</data>
+		</dict>
+		<key>positions_barcelona.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2NsN9zOHE1vBEONEDxVPsEpZNgzS6B3N3+01HX7HaLI=
 			</data>
 		</dict>
 		<key>private_Amazon-Root-CA-1.der</key>

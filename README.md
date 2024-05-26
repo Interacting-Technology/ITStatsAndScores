@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.52
+- 0.1.53
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -22,7 +22,10 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Filter by All
 - [x] Set Reminders for select matches
 - [x] Click on a match to see the Fixture Pages (Head to Head/comparison, Lineups, Commentaries/Live updates, Statistics)
-- [x] Click on a competition to see the Competition Pages (Matches, Table, League Stats, Player Stats)
+- [x] (IN Development):
+- [x] Click on a competition to see the Competition Pages (Matches, Table, League Stats, Player Stats) (IN Development) 
+- [x] Click on Top Competitions Selector to jump to a Competition Page (IN Development) 
+- [x] Click on Search to search for Competitions, Teams or Players (IN Development) 
 
 ## Fixture Pages Features
 - [x] LiteFixture access by clicking on a match in Score Center Screen
@@ -34,17 +37,41 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Stand alone access to Fixture page Lineups via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Commentaries via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Statistics via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] (IN Development):
+- [x] Click on Team name/logo in some places to jump to a Team Page (IN Development) 
 
-## Competition Pages Features
+## Competition Pages Features (IN Development)
 - [x] LiteCompetition access by clicking on a competition in Score Center Screen
-- [x] Competition page Matches: See all matches for the competition based on year and days
-- [x] Competition page Table: Team Positions and comparisons chart table
+- [x] LiteCompetition - Switch between different years of the competition 
+- [x] Competition page Matches: See all matches for the competition based on year and match days
+- [x] Competition page Table: Team Positions and comparisons chart table (Summary/Complete/Form)
 - [x] Competition page League Stats
 - [x] Competition page Players Stats
+- [x] Click on Team name/logo in some places to jump to a Team Page (IN Development)
 - [x] Stand alone access to Competition page Matches via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page Table via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page League Stats via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page Players Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+
+## Team Pages Features (IN Development)
+- [x] LiteTeam access by clicking on a team in some places - select between competitions and years
+- [x] LiteTeam - Switch between competitions in different years 
+- [x] Team page Matches: See all matches for the team based on year and match days
+- [x] Team page Overview: See last match, positions and last 5 matches
+- [x] Team page Table: Team Positions and comparisons chart table (Summary/Complete/Form)
+- [x] Team page Squad
+- [x] Team page Team Stats
+- [x] Team page Players Stats
+- [x] Stand alone access to Team page Matches via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Team page Overview via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Team page Table Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Team page Squad Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Team page Team Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Team page Players Stats via API (see: Main Public classes/structs, API Calls and Delegates)
+
+## Search Page (IN Development)
+- [x] Search for Competitions, Teams or Players
+- [x] Select from previous/recent searches
 
 ## Limitations
 - [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
@@ -53,13 +80,27 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Initialization and Configuration:
 - [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
 - [x] ITConfiguration(userId: String, language: String, country: String)
+- [x] Delegates:
+
+- [x] Navigation - ITNavigationBridgeDelegate:
+- [x] navigateTo(destinationDetails jsonString: String, navigationType: ITNavigationType)
+
+- [x] FollowingAndReminders - ITFollowingAndRemindersDelegate:
+- [x] getFollowingAndReminders(followingListJSON: @escaping (FollowingListJSONString) ->())
+- [x] setReminderButtonTappedFor(fixtureId: String, setReminderTurnOn: @escaping (Bool)->())
+- [x] setFollowButtonTappedFor(id: String, followType: ITFollowType, setFollowTurnOn: @escaping (Bool) -> ())
+
+- [x] Analytics - ITAnalyticsDelegate:
+- [x] report(event: AnalyticsEvent, parameters: [String: Any])
+
 - [x] Score Center:
-- [x] NOTE: ITStatsAndScoresDelegate has been deprecated. It has been renamed ITScoresDelegate
-- [x] presentScoresScreen(in viewController: UIViewController, delegate: ITScoresDelegate)
+- [x] presentScoresScreen(in viewController: UIViewController)
 - [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor'
 - [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
 - [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
+
 - [x] Stand alone Fixture Pages:
+- [x] presentLiteFixtureScreen(fixtureId: String, selectedTab: LiteFixtureTab)
 - [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
@@ -69,6 +110,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+
 - [x] Stand alone Competition Pages:
 - [x] presentCompetitionMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentCompetitionTableScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
@@ -79,8 +121,45 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForCompetitionTableScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForCompetitionLeagueStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForCompetitionPlayersStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] Analytics - ITAnalyticsDelegate:
-- [x] report(event: AnalyticsEvent, parameters: [String: Any])
+
+- [x] Stand alone Team Pages:
+- [x] presentTeamMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentTeamOverviewScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentTeamTableScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentTeamSquadScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentTeamStatsTeamScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentTeamPlayersStatsScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] Stand alone Team Pages - UIView versions:
+- [x] getUIViewForTeamMatchesScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForTeamOverviewScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForTeamTableScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForTeamSquadScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForTeamStatsTeamScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForTeamPlayersStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+
+
+```
+public enum ITNavigationType: String {
+    case fixture
+    case competition
+    case contestant //Team
+    
+    var jsonParameterKey: String {
+        switch self {
+        case .fixture: return "fixtureId"
+        case .competition: return "competitionId"
+        case .contestant: return "contestantId"
+        }
+    }
+}
+```
+
+```
+public enum ITFollowType: String {
+    case competition
+    case contestant //Team
+}
+```
 
 ## Known Issues
 - [x] None
@@ -103,7 +182,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.52)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.53)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -124,10 +203,55 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         ITStatsAndScoresAccess.shared.configure(with: .init(userId: "<UserId>", language: "<example: \"en\">", country: "<example: \"ES\">"))
         
+        // Add delegates:
+        ITStatsAndScoresAccess.shared.followingAndRemindersDelegate = itFollowingAndRemindersManager
+        ITStatsAndScoresAccess.shared.navigationDelegate = itNavigationBridgeManager
+        ITStatsAndScoresAccess.shared.analyticsDelegate = itAnalytics
+        
         return true
     }
 }
+
+// Recommend to make separate classes to conform to the delegates: 
+
+import ITStatsAndScores
+
+class ITNavigationBridgeManager: ITNavigationBridgeDelegate {
+    
+    func navigateTo(destinationDetails jsonString: String, navigationType: ITStatsAndScores.ITNavigationType) {
+        // print(jsonString)
+        // Perform app navigation
+    }
+}
+
+struct ITFollowingAndRemindersManager: ITFollowingAndRemindersDelegate {
+    
+    func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ()) {
+        let jsonString = "" // Provide appropriate JSON String (See example file FollowingList.json)
+        // print(jsonString)
+        followingListJSON(jsonString)
+    }
+    
+    func setReminderButtonTappedFor(fixtureId: String, setReminderTurnOn: @escaping (Bool) -> ()) {
+        // Do what you need and then either
+        setReminderTurnOn(true) // OR setReminderTurnOn(false)
+    }
+    
+    func setFollowButtonTappedFor(id: String, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Bool) -> ()) {
+        // Do what you need and then either
+        setFollowTurnOn(true) // OR setFollowTurnOn(false)
+    }
+}
+
+struct ITAnalyticsManager: ITAnalyticsDelegate {
+    
+    func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [String : Any]) {
+        // To log in Firebase Analytics
+        //FBAnalyticsService.logEvent(event.rawValue, parameters: parameters)
+    }
+}
 ```
+
 - Then in a UIViewController you use to present in Navigation or Tab:
 ```
 import UIKit
@@ -138,19 +262,10 @@ class StatsAndScoresViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        ITStatsAndScoresAccess.shared.presentScoresScreen(in: self, delegate: self)
-    }
-}
-
-extension StatsAndScoresViewController: ITStatsAndScoresDelegate {
-    
-    func navigateTo(destinationDetails jsonString: String, navigationType: ITStatsAndScores.ITNavigationType) {
-        // print(jsonString)
-        // Perform app navigation
+        ITStatsAndScoresAccess.shared.presentScoresScreen(in: self)
     }
 }
 ```
-
 
 - OR, in a SwiftUI in @main App struct
 ```
@@ -162,6 +277,11 @@ struct ITStatsAndScoresInternalBuildApp: App {
     
     init() {
         ITStatsAndScoresAccess.shared.configure(with: .init(userId: "<UserId>", language: "<example: \"en\">", country: "<example: \"ES\">"))
+        
+        // Add delegates:
+        ITStatsAndScoresAccess.shared.followingAndRemindersDelegate = itFollowingAndRemindersManager
+        ITStatsAndScoresAccess.shared.navigationDelegate = itNavigationBridgeManager
+        ITStatsAndScoresAccess.shared.analyticsDelegate = itAnalytics
     }
     
     var body: some Scene {
@@ -171,8 +291,7 @@ struct ITStatsAndScoresInternalBuildApp: App {
     }
 }
 ```
-- View And Delegate... 
-- Then in the (Navigation/Tab) View you wish to present - (Provide a ViewController and Delegate)
+- Then in the (Navigation/Tab) View you wish to present - (Provide a ViewController)
 ```
 
 import SwiftUI
@@ -180,7 +299,7 @@ import ITStatsAndScores
 
 struct MainTabView: View {
     var body: some View {
-        ITStatsAndScoresAccess.shared.presentScoresScreenView(in: statsAndScoresVC, delegate: statsAndScoresVC)
+        ITStatsAndScoresAccess.shared.presentScoresScreenView(in: statsAndScoresVC)
     }
 }
 
@@ -194,26 +313,7 @@ class StatsAndScoresViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        ITStatsAndScoresAccess.shared.presentScoresScreen(in: self, delegate: self)
-    }
-}
-
-extension StatsAndScoresViewController: ITScoresDelegate {
-    
-    func navigateTo(destinationDetails jsonString: String, navigationType: ITNavigationType) {
-        // print(jsonString)
-        // Perform app navigation
-    }
-    
-    func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ()) {
-        let jsonString = "" // Provide appropriate JSON String (See example file FollowingList.json)
-        // print(jsonString)
-        followingListJSON(jsonString)
-    }
-    
-    func setReminderButtonTappedFor(fixtureId: String, setReminderTurnOn: @escaping (Bool) -> ()) {
-        // Do what you need and then either
-            setReminderTurnOn(true) // OR setReminderTurnOn(false)
+        ITStatsAndScoresAccess.shared.presentScoresScreen(in: self)
     }
 }
 ```
@@ -254,32 +354,20 @@ class CompetitionMatchesViewController: UIViewController {
 }
 ```
 
-## Implementation of ITAnalyticsDelegate - Analytics
-- Create a conforming class/struct and create an instance of it or use an existing appropriate class an conform to ITAnalyticsDelegate)
-- In UIKit AppDelegate (or other appropriate place) add:
+## Implementation of single - Stand alone Team screens
+- presentTeamMatchesScreen, presentTeamOverviewScreen, getUIViewForTeamTableScreen, presentTeamSquadScreen, presentTeamStatsTeamScreen, presentTeamPlayersStatsScreen.
+- It is a similar process to present a single stand alone Competition screen as it is for presentScoresScreen 
+- You must provide a real contestantId in the method, Here is an example implementation of one of the screens In UIKit:
 ```
 import UIKit
 import ITStatsAndScores
 
-struct ITAnalytics: ITAnalyticsDelegate {
-    
-    func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [String : Any]) {
-        // To log in Firebase Analytics use your firebase class like so:
-        yourFBanalyticsService.logEvent(event.rawValue, parameters: parameters)
-    }
-}
+class CompetitionMatchesViewController: UIViewController {
 
-@main
-class AppDelegate: UIResponder, UIApplicationDelegate {
+    override func viewDidLoad() {
+        super.viewDidLoad()
 
-    let itAnalytics = ITAnalytics()
-
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        
-        ...
-        ITStatsAndScoresAccess.shared.analyticsDelegate = itAnalytics
-        
-        return true
+        ITStatsAndScoresAccess.shared.presentTeamMatchesScreen(contestantId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
     }
 }
 ```

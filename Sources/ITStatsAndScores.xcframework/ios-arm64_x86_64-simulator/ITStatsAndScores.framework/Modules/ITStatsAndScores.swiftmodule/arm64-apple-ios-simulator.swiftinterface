@@ -42,6 +42,25 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 #warning("JH - This is not a good solution - should be from Server")
+public enum LiteFixtureTab : Swift.Int {
+  case compare_h2h
+  case lineups
+  case liveUpdates_commentaries
+  case statistics
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamPlayersStatsScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamPlayersStatsScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamPlayersStatsScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
 public struct PublicTestView : SwiftUI.View {
   public init()
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
@@ -51,6 +70,8 @@ public struct PublicTestView : SwiftUI.View {
 }
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
+  public var navigationDelegate: (any ITStatsAndScores.ITNavigationBridgeDelegate)?
+  public var followingAndRemindersDelegate: (any ITStatsAndScores.ITFollowingAndRemindersDelegate)?
   public var analyticsDelegate: (any ITStatsAndScores.ITAnalyticsDelegate)?
   public var disableLogs: Swift.Bool {
     get
@@ -77,10 +98,10 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentScoresScreen(in viewController: UIKit.UIViewController, delegate: any ITStatsAndScores.ITScoresDelegate)
+  public func presentScoresScreen(in viewController: UIKit.UIViewController)
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentScoresScreenView(in viewController: UIKit.UIViewController, delegate: any ITStatsAndScores.ITScoresDelegate) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentScoresScreenView(in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
@@ -129,21 +150,50 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionMatchesScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamTableScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamTableScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamTableScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamOverviewScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamOverviewScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamOverviewScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
 extension UIKit.UIWindow {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func motionEnded(_ motion: UIKit.UIEvent.EventSubtype, with event: UIKit.UIEvent?)
 }
 public typealias FollowingListJSONString = Swift.String
-public protocol ITScoresDelegate : ITStatsAndScores.ITNavigationBridgeDelegate {
+public protocol ITFollowingAndRemindersDelegate {
   func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ())
   func setReminderButtonTappedFor(fixtureId: Swift.String, setReminderTurnOn: @escaping (Swift.Bool) -> ())
-}
-public protocol ITStatsDelegate : ITStatsAndScores.ITNavigationBridgeDelegate {
+  func setFollowButtonTappedFor(id: Swift.String, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
   func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType)
 }
 public enum ITNavigationType : Swift.String {
   case fixture
+  case competition
+  case contestant
+  public var jsonParameterKey: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum ITFollowType : Swift.String {
+  case competition
+  case contestant
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -162,6 +212,22 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamSquadScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamSquadScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamSquadScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamStatsTeamScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamStatsTeamScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamStatsTeamScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionTableScreen(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForCompetitionTableScreen(competitionId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
@@ -169,10 +235,27 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionTableScreenView(competitionId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamMatchesScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForTeamMatchesScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentTeamMatchesScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLiteFixtureScreen(fixtureId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab)
+}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.RawRepresentable {}
+extension ITStatsAndScores.LiteFixtureTab : Swift.Equatable {}
+extension ITStatsAndScores.LiteFixtureTab : Swift.Hashable {}
+extension ITStatsAndScores.LiteFixtureTab : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Equatable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Hashable {}
 extension ITStatsAndScores.ITNavigationType : Swift.RawRepresentable {}
+extension ITStatsAndScores.ITFollowType : Swift.Equatable {}
+extension ITStatsAndScores.ITFollowType : Swift.Hashable {}
+extension ITStatsAndScores.ITFollowType : Swift.RawRepresentable {}
