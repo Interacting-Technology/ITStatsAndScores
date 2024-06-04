@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.54
+- 0.1.55
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -80,36 +80,34 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Initialization and Configuration:
 - [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
 - [x] ITConfiguration(userId: String, language: String, country: String)
+
 - [x] Delegates:
+- [x] ITNavigationBridgeDelegate:
+- [x] navigateTo(idAndSource: ExternalIdSource, navigationType: ITNavigationType)
 
-- [x] Navigation - ITNavigationBridgeDelegate:
-- [x] navigateTo(destinationDetails jsonString: String, navigationType: ITNavigationType)
-
-- [x] FollowingAndReminders - ITFollowingAndRemindersDelegate:
+- [x] ITFollowingAndRemindersDelegate:
 - [x] getFollowingAndReminders(followingListJSON: @escaping (FollowingListJSONString) ->())
-- [x] setReminderButtonTappedFor(fixtureId: String, setReminderTurnOn: @escaping (Bool)->())
-- [x] setFollowButtonTappedFor(id: String, followType: ITFollowType, setFollowTurnOn: @escaping (Bool) -> ())
+- [x] setReminderButtonTappedFor(fixtureIdAndSource: ExternalIdSource, setReminderTurnOn: @escaping (Bool)->())
+- [x] setFollowButtonTappedFor(idAndSource: ExternalIdSource, followType: ITFollowType, setFollowTurnOn: @escaping (Bool) -> ())
 
-- [x] Analytics - ITAnalyticsDelegate:
+- [x] ITAnalyticsDelegate:
 - [x] report(event: AnalyticsEvent, parameters: [String: Any])
 
 - [x] Score Center:
 - [x] presentScoresScreen(in viewController: UIViewController)
-- [x] Delegates 'getFollowingAndReminders' and 'setReminderButtonTappedFor'
-- [x] Delegate: 'getFollowingAndReminders' is triggered when configuring - ITStatsAndScoresAccess.shared.configure
-- [x] Delegate: 'setReminderButtonTappedFor' is triggered when clicking on set reminder bell of a match in Score Center
 
+- [x] LiteFixture Page:
+- [x] presentLiteFixtureScreen(fixtureIdAndSource: ExternalIdSource, selectedTab: LiteFixtureTab)
 - [x] Stand alone Fixture Pages:
-- [x] presentLiteFixtureScreen(fixtureId: String, selectedTab: LiteFixtureTab)
-- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentHead2HeadScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLineupsScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLiveUpdatesScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentStatisticsScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] Stand alone Fixture Pages - UIView versions:
-- [x] getUIViewForHead2HeadScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] presentHead2HeadScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] getUIViewForLineupsScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForLiveUpdatesScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForStatisticsScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 
 - [x] Stand alone Competition Pages:
 - [x] presentCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat)
@@ -161,6 +159,30 @@ public enum ITFollowType: String {
 }
 ```
 
+```
+/// externalId Source either for competition/cup, fixture/match, contestant/team, participant/player/athlete, season (competition season)
+public enum ExternalIdSource {
+    case opta(externalId: String)
+    case sr(externalId: String) // sportRadar
+    
+    public var externalId: String {
+        switch self {
+        case .opta(let externalId), .sr(let externalId):
+            return externalId
+        }
+    }
+    
+    public var sourceName: String {
+        switch self {
+        case .opta(_):
+            return "opta"
+        case .sr(_):
+            return "sr"
+        }
+    }
+}
+```
+
 ## Known Issues
 - [x] None
 
@@ -182,7 +204,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.54)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.55)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package

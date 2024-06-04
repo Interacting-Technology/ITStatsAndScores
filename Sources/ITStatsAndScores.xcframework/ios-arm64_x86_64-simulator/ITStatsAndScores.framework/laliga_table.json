@@ -1,364 +1,226 @@
 {
+  "id": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+  "competitionType": 1,
+  "groups": [
+    {
+      "name": "\"Group A\"",
+      "positions": [
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "058915ae-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Barcelona",
+          "position": 1,
+          "points": 82,
+          "matchesPlayed": 28,
+          "matchesWon": 27,
+          "matchesLost": 0,
+          "matchesDrawn": 1,
+          "goalsFor": 129,
+          "goalsAgainst": 9,
+          "goalDifference": 120,
+          "lastSix": "WWWWWW",
+          "successPercent": 0.964
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "b09befaf-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Real Madrid",
+          "position": 2,
+          "points": 67,
+          "matchesPlayed": 28,
+          "matchesWon": 22,
+          "matchesLost": 5,
+          "matchesDrawn": 1,
+          "goalsFor": 69,
+          "goalsAgainst": 32,
+          "goalDifference": 37,
+          "lastSix": "WLWWWW",
+          "successPercent": 0.786
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "b092cf61-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Atl. Madrid",
+          "position": 3,
+          "points": 57,
+          "matchesPlayed": 28,
+          "matchesWon": 17,
+          "matchesLost": 5,
+          "matchesDrawn": 6,
+          "goalsFor": 51,
+          "goalsAgainst": 21,
+          "goalDifference": 30,
+          "lastSix": "WWWWWL",
+          "successPercent": 0.607
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "056e4ac5-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Levante",
+          "position": 4,
+          "points": 54,
+          "matchesPlayed": 28,
+          "matchesWon": 15,
+          "matchesLost": 4,
+          "matchesDrawn": 9,
+          "goalsFor": 53,
+          "goalsAgainst": 28,
+          "goalDifference": 25,
+          "lastSix": "WDWWLD",
+          "successPercent": 0.536
+        }
+      ]
+    },
+    {
+      "name": "\"Group B\"",
+      "positions": [
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "058915ae-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Barcelona",
+          "position": 1,
+          "points": 82,
+          "matchesPlayed": 28,
+          "matchesWon": 27,
+          "matchesLost": 0,
+          "matchesDrawn": 1,
+          "goalsFor": 129,
+          "goalsAgainst": 9,
+          "goalDifference": 120,
+          "lastSix": "WWWWWW",
+          "successPercent": 0.964
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "b09befaf-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Real Madrid",
+          "position": 2,
+          "points": 67,
+          "matchesPlayed": 28,
+          "matchesWon": 22,
+          "matchesLost": 5,
+          "matchesDrawn": 1,
+          "goalsFor": 69,
+          "goalsAgainst": 32,
+          "goalDifference": 37,
+          "lastSix": "WLWWWW",
+          "successPercent": 0.786
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "b092cf61-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Atl. Madrid",
+          "position": 3,
+          "points": 57,
+          "matchesPlayed": 28,
+          "matchesWon": 17,
+          "matchesLost": 5,
+          "matchesDrawn": 6,
+          "goalsFor": 51,
+          "goalsAgainst": 21,
+          "goalDifference": 30,
+          "lastSix": "WWWWWL",
+          "successPercent": 0.607
+        },
+        {
+          "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+          "teamId": "056e4ac5-87d9-11ee-bd71-00090faa0001",
+          "teamName": "Levante",
+          "position": 4,
+          "points": 54,
+          "matchesPlayed": 28,
+          "matchesWon": 15,
+          "matchesLost": 4,
+          "matchesDrawn": 9,
+          "goalsFor": 53,
+          "goalsAgainst": 28,
+          "goalDifference": 25,
+          "lastSix": "WDWWLD",
+          "successPercent": 0.536
+        }
+      ]
+    }
+  ],
   "positions": [
     {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "52",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "87",
-        "#": "1",
-        "BACKGROUND_COLOR": "0072C2"
-      },
+      "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+      "teamId": "058915ae-87d9-11ee-bd71-00090faa0001",
+      "teamName": "Barcelona",
       "position": 1,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21966c46-878e-11ee-bd71-00090faa0001",
-      "name": "Real Madrid",
-      "externalId": "3kq9cckrnlogidldtdie2fkbl",
-      "formation": null
+      "points": 82,
+      "matchesPlayed": 28,
+      "matchesWon": 27,
+      "matchesLost": 0,
+      "matchesDrawn": 1,
+      "goalsFor": 129,
+      "goalsAgainst": 9,
+      "goalDifference": 120,
+      "lastSix": "WWWWWW",
+      "successPercent": 0.964
     },
     {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "31",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "74",
-        "#": "2",
-        "BACKGROUND_COLOR": "0072C2"
-      },
+      "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+      "teamId": "b09befaf-87d9-11ee-bd71-00090faa0001",
+      "teamName": "Real Madrid",
       "position": 2,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219d9f8c-878e-11ee-bd71-00090faa0001",
-      "name": "Girona",
-      "externalId": "7h7eg7q7dbwvzww78h9d5eh0h",
-      "formation": null
+      "points": 67,
+      "matchesPlayed": 28,
+      "matchesWon": 22,
+      "matchesLost": 5,
+      "matchesDrawn": 1,
+      "goalsFor": 69,
+      "goalsAgainst": 32,
+      "goalDifference": 37,
+      "lastSix": "WLWWWW",
+      "successPercent": 0.786
     },
     {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "27",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "73",
-        "#": "3",
-        "BACKGROUND_COLOR": "0072C2"
-      },
+      "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+      "teamId": "b092cf61-87d9-11ee-bd71-00090faa0001",
+      "teamName": "Atl. Madrid",
       "position": 3,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21a0c101-878e-11ee-bd71-00090faa0001",
-      "name": "Barcelona",
-      "externalId": "agh9ifb2mw3ivjusgedj7c3fe",
-      "formation": null
+      "points": 57,
+      "matchesPlayed": 28,
+      "matchesWon": 17,
+      "matchesLost": 5,
+      "matchesDrawn": 6,
+      "goalsFor": 51,
+      "goalsAgainst": 21,
+      "goalDifference": 30,
+      "lastSix": "WWWWWL",
+      "successPercent": 0.607
     },
     {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "24",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "67",
-        "#": "4",
-        "BACKGROUND_COLOR": "0072C2"
-      },
+      "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+      "teamId": "056e4ac5-87d9-11ee-bd71-00090faa0001",
+      "teamName": "Levante",
       "position": 4,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219b3bc5-878e-11ee-bd71-00090faa0001",
-      "name": "Atlético",
-      "externalId": "4ku8o6uf87yd8iecdalipo6wd",
-      "formation": null
+      "points": 54,
+      "matchesPlayed": 28,
+      "matchesWon": 15,
+      "matchesLost": 4,
+      "matchesDrawn": 9,
+      "goalsFor": 53,
+      "goalsAgainst": 28,
+      "goalDifference": 25,
+      "lastSix": "WDWWLD",
+      "successPercent": 0.536
     },
     {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "22",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "61",
-        "#": "5",
-        "BACKGROUND_COLOR": "0072C2"
-      },
+      "competitionSeasonId": "d4c1c4c9-78d8-11ee-a5ea-00090faa0001",
+      "teamId": "b08e2b93-87d9-11ee-bd71-00090faa0001",
+      "teamName": "Madrid",
       "position": 5,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21975eb0-878e-11ee-bd71-00090faa0001",
-      "name": "Athletic Club",
-      "externalId": "3czravw89omgc9o4s0w3l1bg5",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "13",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "54",
-        "#": "6",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 6,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219b7a8d-878e-11ee-bd71-00090faa0001",
-      "name": "Real Sociedad",
-      "externalId": "63f5h8t5e9qm1fqmvfkb23ghh",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "4",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "52",
-        "#": "7",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 7,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21a08727-878e-11ee-bd71-00090faa0001",
-      "name": "Betis",
-      "externalId": "ah8dala7suqqkj04n2l8xz4zd",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-2",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "47",
-        "#": "8",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 8,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21a15290-878e-11ee-bd71-00090faa0001",
-      "name": "Valencia",
-      "externalId": "ba5e91hjacvma2sjvixn00pjo",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-2",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "45",
-        "#": "9",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 9,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219c6315-878e-11ee-bd71-00090faa0001",
-      "name": "Villarreal",
-      "externalId": "74mcjsm72vr3l9pw2i4qfjchj",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-6",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "43",
-        "#": "10",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 10,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219267cb-878e-11ee-bd71-00090faa0001",
-      "name": "Getafe",
-      "externalId": "1n1j0wsl763lq7ee1k0c11c02",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-6",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "41",
-        "#": "11",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 11,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219b2bc4-878e-11ee-bd71-00090faa0001",
-      "name": "Alavés",
-      "externalId": "4dtdjgnpdq9uw4sdutti0vaar",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-1",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "41",
-        "#": "12",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 12,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "2190aff7-878e-11ee-bd71-00090faa0001",
-      "name": "Sevilla",
-      "externalId": "10eyb18v5puw4ez03ocaug09m",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-14",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "39",
-        "#": "13",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 13,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21965866-878e-11ee-bd71-00090faa0001",
-      "name": "Osasuna",
-      "externalId": "2l0ldgiwsgb8d6y3z0sfgjzyj",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-13",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "37",
-        "#": "14",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 14,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "2194686d-878e-11ee-bd71-00090faa0001",
-      "name": "Las Palmas",
-      "externalId": "1ae3awgwm3i1jds5tfct5441j",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-12",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "34",
-        "#": "15",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 15,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219c696d-878e-11ee-bd71-00090faa0001",
-      "name": "Celta Vigo",
-      "externalId": "6f27yvbqcngegwsg2ozxxdj4",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-16",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "34",
-        "#": "16",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 16,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21975eb1-878e-11ee-bd71-00090faa0001",
-      "name": "Vallecano",
-      "externalId": "3budh3j9xivsid3ptm8ptpy4k",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-13",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "32",
-        "#": "17",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 17,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219baf97-878e-11ee-bd71-00090faa0001",
-      "name": "Mallorca",
-      "externalId": "50x1m4u58lffhq6v6ga1hbxmy",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-26",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "26",
-        "#": "18",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 18,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "219e4764-878e-11ee-bd71-00090faa0001",
-      "name": "Cádiz",
-      "externalId": "82q9159y2u7mkfn3z6hy75r4o",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-28",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "21",
-        "#": "19",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 19,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "2194747b-878e-11ee-bd71-00090faa0001",
-      "name": "Granada",
-      "externalId": "26fes5ubaeq0fk1nay2pj2ob2",
-      "formation": null
-    },
-    {
-      "competitionSeasonId": "00000000-0000-0000-0000-000000000000",
-      "properties": {
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_PLAY": "34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_GOALS_DIFERENCE": "-34",
-        "STATIC_SAS_STATS_COMPARE_POSITIONS_POINTS": "17",
-        "#": "20",
-        "BACKGROUND_COLOR": "0072C2"
-      },
-      "position": 20,
-      "shortName": null,
-      "description": null,
-      "abbreviation": null,
-      "id": "21a0bc3e-878e-11ee-bd71-00090faa0001",
-      "name": "Almería",
-      "externalId": "cobffe32r7g4skka9m19qib63",
-      "formation": null
+      "points": 50,
+      "matchesPlayed": 28,
+      "matchesWon": 15,
+      "matchesLost": 8,
+      "matchesDrawn": 5,
+      "goalsFor": 59,
+      "goalsAgainst": 48,
+      "goalDifference": 11,
+      "lastSix": "DWLLWD",
+      "successPercent": 0.536
     }
   ]
 }

@@ -16,11 +16,11 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForLineupsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentLineupsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForLineupsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLineupsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentLineupsScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 public enum AnalyticsEvent : Swift.String {
@@ -34,11 +34,11 @@ public enum AnalyticsEvent : Swift.String {
   }
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentStatisticsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForStatisticsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentStatisticsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForStatisticsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentStatisticsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentStatisticsScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 #warning("JH - This is not a good solution - should be from Server")
@@ -81,20 +81,20 @@ public struct PublicTestView : SwiftUI.View {
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForLiveUpdatesScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentLiveUpdatesScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForLiveUpdatesScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiveUpdatesScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentLiveUpdatesScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 #warning("JH - This is not a good solution - should be from Server")
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForHead2HeadScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentHead2HeadScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForHead2HeadScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentHead2HeadScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentHead2HeadScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
@@ -172,19 +172,16 @@ extension UIKit.UIWindow {
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {
   func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ())
-  func setReminderButtonTappedFor(fixtureId: Swift.String, setReminderTurnOn: @escaping (Swift.Bool) -> ())
-  func setFollowButtonTappedFor(id: Swift.String, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
+  func setReminderButtonTappedFor(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, setReminderTurnOn: @escaping (Swift.Bool) -> ())
+  func setFollowButtonTappedFor(idAndSource: ITStatsAndScores.ExternalIdSource, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
-  func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType)
+  func navigateTo(idAndSource: ITStatsAndScores.ExternalIdSource, navigationType: ITStatsAndScores.ITNavigationType)
 }
 public enum ITNavigationType : Swift.String {
   case fixture
   case competition
   case contestant
-  public var jsonParameterKey: Swift.String {
-    get
-  }
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -197,6 +194,16 @@ public enum ITFollowType : Swift.String {
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
+    get
+  }
+}
+public enum ExternalIdSource {
+  case opta(externalId: Swift.String)
+  case sr(externalId: Swift.String)
+  public var externalId: Swift.String {
+    get
+  }
+  public var sourceName: Swift.String {
     get
   }
 }
@@ -244,7 +251,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiteFixtureScreen(fixtureId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab)
+  public func presentLiteFixtureScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, selectedTab: ITStatsAndScores.LiteFixtureTab)
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
