@@ -172,16 +172,19 @@ extension UIKit.UIWindow {
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {
   func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ())
-  func setReminderButtonTappedFor(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, setReminderTurnOn: @escaping (Swift.Bool) -> ())
-  func setFollowButtonTappedFor(idAndSource: ITStatsAndScores.ExternalIdSource, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
+  func setReminderButtonTappedFor(fixtureId: Swift.String, sourceName: Swift.String?, setReminderTurnOn: @escaping (Swift.Bool) -> ())
+  func setFollowButtonTappedFor(id: Swift.String, sourceName: Swift.String?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
-  func navigateTo(idAndSource: ITStatsAndScores.ExternalIdSource, navigationType: ITStatsAndScores.ITNavigationType)
+  func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType)
 }
 public enum ITNavigationType : Swift.String {
   case fixture
   case competition
   case contestant
+  public var jsonParameterKey: Swift.String {
+    get
+  }
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -197,7 +200,7 @@ public enum ITFollowType : Swift.String {
     get
   }
 }
-public enum ExternalIdSource {
+public enum ExternalIdSource : Swift.Codable {
   case opta(externalId: Swift.String)
   case sr(externalId: Swift.String)
   public var externalId: Swift.String {
@@ -206,6 +209,8 @@ public enum ExternalIdSource {
   public var sourceName: Swift.String {
     get
   }
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public protocol ITAnalyticsDelegate {
   func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Any])
