@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.56
+- 0.1.57
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -97,17 +97,17 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] presentScoresScreen(in viewController: UIViewController)
 
 - [x] LiteFixture Page:
-- [x] presentLiteFixtureScreen(fixtureIdAndSource: ExternalIdSource, selectedTab: LiteFixtureTab)
+- [x] presentLiteFixtureScreen(fixtureId: String, selectedTab: LiteFixtureTab)
 - [x] Stand alone Fixture Pages:
-- [x] presentHead2HeadScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLineupsScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLiveUpdatesScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentStatisticsScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] Stand alone Fixture Pages - UIView versions:
-- [x] presentHead2HeadScreen(fixtureIdAndSource: ExternalIdSource, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] getUIViewForLineupsScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForLiveUpdatesScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForStatisticsScreen(fixtureIdAndSource: ExternalIdSource, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 
 - [x] Stand alone Competition Pages:
 - [x] presentCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat)
@@ -204,7 +204,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.56)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.57)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package

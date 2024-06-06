@@ -16,11 +16,11 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLineupsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForLineupsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForLineupsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLineupsScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentLineupsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 public enum AnalyticsEvent : Swift.String {
@@ -34,11 +34,11 @@ public enum AnalyticsEvent : Swift.String {
   }
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentStatisticsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForStatisticsScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentStatisticsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForStatisticsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentStatisticsScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentStatisticsScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 #warning("JH - This is not a good solution - should be from Server")
@@ -81,20 +81,20 @@ public struct PublicTestView : SwiftUI.View {
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiveUpdatesScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForLiveUpdatesScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForLiveUpdatesScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiveUpdatesScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentLiveUpdatesScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 #warning("JH - This is not a good solution - should be from Server")
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentHead2HeadScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForHead2HeadScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForHead2HeadScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentHead2HeadScreenView(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentHead2HeadScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
