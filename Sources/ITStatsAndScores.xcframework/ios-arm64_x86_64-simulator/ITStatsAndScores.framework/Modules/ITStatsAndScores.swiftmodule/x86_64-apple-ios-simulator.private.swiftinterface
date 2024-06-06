@@ -68,6 +68,17 @@ public struct PublicTestView : SwiftUI.View {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores14PublicTestViewV4bodyQrvp", 0) __
 }
+public enum LiteCompetitionInfo : Swift.Int {
+  case matches
+  case table
+  case leagueStats
+  case playersStats
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
   public var navigationDelegate: (any ITStatsAndScores.ITNavigationBridgeDelegate)?
@@ -89,6 +100,10 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 #warning("JH - This is not a good solution - should be from Server")
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentLiteCompetitionScreen(competitionId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo)
+  public func getUIViewForLiteCompetitionScreen(competitionId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo) -> UIKit.UIView
+}
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForHead2HeadScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
@@ -256,13 +271,17 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentLiteFixtureScreen(fixtureIdAndSource: ITStatsAndScores.ExternalIdSource, selectedTab: ITStatsAndScores.LiteFixtureTab)
+  public func presentLiteFixtureScreen(fixtureId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab)
+  public func getUIViewForLiteFixtureScreen(fixtureId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab) -> UIKit.UIView
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.RawRepresentable {}
 extension ITStatsAndScores.LiteFixtureTab : Swift.Equatable {}
 extension ITStatsAndScores.LiteFixtureTab : Swift.Hashable {}
+extension ITStatsAndScores.LiteCompetitionInfo : Swift.Equatable {}
+extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
+extension ITStatsAndScores.LiteCompetitionInfo : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Equatable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Hashable {}

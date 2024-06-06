@@ -1510,6 +1510,279 @@
         "moduleName": "ITStatsAndScores"
       },
       {
+        "kind": "TypeDecl",
+        "name": "LiteCompetitionInfo",
+        "printedName": "LiteCompetitionInfo",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "matches",
+            "printedName": "matches",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.LiteCompetitionInfo.Type) -> ITStatsAndScores.LiteCompetitionInfo",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LiteCompetitionInfo",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                    "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LiteCompetitionInfo",
+                        "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                        "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO7matchesyA2CmF",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO7matchesyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Var",
+            "name": "table",
+            "printedName": "table",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.LiteCompetitionInfo.Type) -> ITStatsAndScores.LiteCompetitionInfo",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LiteCompetitionInfo",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                    "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LiteCompetitionInfo",
+                        "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                        "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO5tableyA2CmF",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO5tableyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Var",
+            "name": "leagueStats",
+            "printedName": "leagueStats",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.LiteCompetitionInfo.Type) -> ITStatsAndScores.LiteCompetitionInfo",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LiteCompetitionInfo",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                    "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LiteCompetitionInfo",
+                        "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                        "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO11leagueStatsyA2CmF",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO11leagueStatsyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Var",
+            "name": "playersStats",
+            "printedName": "playersStats",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.LiteCompetitionInfo.Type) -> ITStatsAndScores.LiteCompetitionInfo",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LiteCompetitionInfo",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                    "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LiteCompetitionInfo",
+                        "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                        "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO12playersStatsyA2CmF",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO12playersStatsyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ITStatsAndScores.LiteCompetitionInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LiteCompetitionInfo",
+                    "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                    "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO8rawValueACSgSi_tcfc",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO8rawValueACSgSi_tcfc",
+            "moduleName": "ITStatsAndScores",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO8rawValueSivp",
+            "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO8rawValueSivp",
+            "moduleName": "ITStatsAndScores",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO8rawValueSivg",
+                "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO8rawValueSivg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO",
+        "mangledName": "$s16ITStatsAndScores19LiteCompetitionInfoO",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
@@ -2861,6 +3134,74 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentLiteCompetitionScreen",
+            "printedName": "presentLiteCompetitionScreen(competitionId:selectedTab:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LiteCompetitionInfo",
+                "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC28presentLiteCompetitionScreen13competitionId11selectedTabySS_AA0fG4InfoOtF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC28presentLiteCompetitionScreen13competitionId11selectedTabySS_AA0fG4InfoOtF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUIViewForLiteCompetitionScreen",
+            "printedName": "getUIViewForLiteCompetitionScreen(competitionId:selectedTab:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LiteCompetitionInfo",
+                "printedName": "ITStatsAndScores.LiteCompetitionInfo",
+                "usr": "s:16ITStatsAndScores19LiteCompetitionInfoO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC33getUIViewForLiteCompetitionScreen13competitionId11selectedTabSo0F0CSS_AA0hI4InfoOtF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC33getUIViewForLiteCompetitionScreen13competitionId11selectedTabSo0F0CSS_AA0hI4InfoOtF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -4768,7 +5109,7 @@
           {
             "kind": "Function",
             "name": "presentLiteFixtureScreen",
-            "printedName": "presentLiteFixtureScreen(fixtureIdAndSource:selectedTab:)",
+            "printedName": "presentLiteFixtureScreen(fixtureId:selectedTab:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4777,9 +5118,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "ExternalIdSource",
-                "printedName": "ITStatsAndScores.ExternalIdSource",
-                "usr": "s:16ITStatsAndScores16ExternalIdSourceO"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               },
               {
                 "kind": "TypeNominal",
@@ -4789,12 +5130,46 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC24presentLiteFixtureScreen09fixtureIdB6Source11selectedTabyAA08ExternaljK0O_AA0fgM0OtF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC24presentLiteFixtureScreen09fixtureIdB6Source11selectedTabyAA08ExternaljK0O_AA0fgM0OtF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC24presentLiteFixtureScreen9fixtureId11selectedTabySS_AA0fgL0OtF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC24presentLiteFixtureScreen9fixtureId11selectedTabySS_AA0fgL0OtF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUIViewForLiteFixtureScreen",
+            "printedName": "getUIViewForLiteFixtureScreen(fixtureId:selectedTab:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "LiteFixtureTab",
+                "printedName": "ITStatsAndScores.LiteFixtureTab",
+                "usr": "s:16ITStatsAndScores14LiteFixtureTabO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC29getUIViewForLiteFixtureScreen9fixtureId11selectedTabSo0F0CSS_AA0hiN0OtF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC29getUIViewForLiteFixtureScreen9fixtureId11selectedTabSo0F0CSS_AA0hiN0OtF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -5018,6 +5393,16 @@
         "printedName": "Combine",
         "declKind": "Import",
         "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -11867,84 +12252,84 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11616,
+      "offset": 11623,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11627,
+      "offset": 11634,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11642,
+      "offset": 11649,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11663,
+      "offset": 11670,
       "length": 12,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11616,
+      "offset": 11623,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11627,
+      "offset": 11634,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11642,
+      "offset": 11649,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11663,
+      "offset": 11670,
       "length": 12,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11616,
+      "offset": 11623,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11627,
+      "offset": 11634,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11642,
+      "offset": 11649,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11663,
+      "offset": 11670,
       "length": 12,
       "value": "3"
     },
