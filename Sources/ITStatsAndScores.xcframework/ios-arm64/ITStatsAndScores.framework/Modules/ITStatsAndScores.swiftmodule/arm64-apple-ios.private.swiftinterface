@@ -197,6 +197,7 @@ public enum ITNavigationType : Swift.String {
   case fixture
   case competition
   case contestant
+  public static let jsonParameterKey_externalId: Swift.String
   public var jsonParameterKey: Swift.String {
     get
   }
@@ -214,18 +215,6 @@ public enum ITFollowType : Swift.String {
   public var rawValue: Swift.String {
     get
   }
-}
-public enum ExternalIdSource : Swift.Codable {
-  case opta(externalId: Swift.String)
-  case sr(externalId: Swift.String)
-  public var externalId: Swift.String {
-    get
-  }
-  public var sourceName: Swift.String {
-    get
-  }
-  public func encode(to encoder: any Swift.Encoder) throws
-  public init(from decoder: any Swift.Decoder) throws
 }
 public protocol ITAnalyticsDelegate {
   func report(event: ITStatsAndScores.AnalyticsEvent, parameters: [Swift.String : Any])
