@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2/nJTQ8YBxMpVJZaiKG5YOyGyL0=
+		38JpRllmWrvoFlyEJdxM7hoP/84=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kZekoVLJHZnaTyh4l7jB0o4UBxo=
+		55lHSKcjPXpetH70VU6f6O6RRjU=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2/nJTQ8YBxMpVJZaiKG5YOyGyL0=
+		38JpRllmWrvoFlyEJdxM7hoP/84=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,11 +82,15 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NU5KRsImXxb8/3oK5kQR9RszIXU=
+		C7+AzmPEIvCbA9yoFxCCvxCfXv4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		PjXSPHIXGlO/Qsv+tqjjOyWeUOs=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		6PyG/Sn5jh81qqGDYJ701GSxHBw=
 		</data>
 		<key>awsiot-identity.p12</key>
 		<data>
@@ -222,7 +226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iU+B5GdQ7C2+cMRNTO+WgGjp1nskIjgAHbrOQ4323Io=
+			XIGzeYoz1pvg7YWj44IzLMJd1FBn0frS26gFksmJEZc=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -250,14 +254,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			azd20RVQfrbFoaY8lx/z0YHMTZRfrEcwOb+scIqkjm8=
+			4vPNtcNUTty0vtD0RLzpuZ7fpvDlNELQREL9TQzIeCQ=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iU+B5GdQ7C2+cMRNTO+WgGjp1nskIjgAHbrOQ4323Io=
+			XIGzeYoz1pvg7YWj44IzLMJd1FBn0frS26gFksmJEZc=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -285,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jU33gCsw2MjBDIc5AUkWfgWPQQ26Qt4VMTaQ9U2jeFY=
+			PRVJ5xvAGCvkr6s9KV89McKtcU5IxO8yT/NvcsSt2yI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -293,6 +297,13 @@
 			<key>hash2</key>
 			<data>
 			IWwBAWhIznc9IhW4zO3BZpaSL8pD/3cGK67tUY2+SXg=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3I1+H5p9p/M4HzB0a1kgbuYs4iW2n+O8u2YjT4RZvjU=
 			</data>
 		</dict>
 		<key>awsiot-identity.p12</key>

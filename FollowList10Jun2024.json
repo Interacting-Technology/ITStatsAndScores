@@ -1,0 +1,100 @@
+{
+    "message": {
+        "competitors": [
+            {
+                "imageId": "d385ddec-1813-4425-9b37-bca65d4d0555",
+                "notificationPreferences": {
+                    "reminder": true,
+                    "fullTime": true,
+                    "halfTime": false,
+                    "lineups": true,
+                    "goals": true,
+                    "kickOff": false,
+                    "penalties": false,
+                    "redCards": true
+                },
+                "id": "c9swyor08g9pedxpe3n321svu",
+                "name": "Al Hilal",
+                "sportId": "289u5typ3vp4ifwh5thalohmq"
+            },
+        ],
+        "events": [
+            {
+                "title": "São José RS - CSA",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "startDate": "2024-06-11T04:30:00.000000+0530",
+                "imageId": "its_default",
+                "competitionName": "Brazilian Série C",
+                "id": "er3wqm4avy2nm2zdlx31ln5sk",
+                "competitionId": "cfesxhzb83yl8b779uv3revz1",
+                "source": "event",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "goals": false,
+                    "penalties": false,
+                    "halfTime": false,
+                    "reminder": true,
+                    "kickOff": false,
+                    "fullTime": false,
+                    "redCards": false
+                },
+                "endDate": "2024-06-11T06:30:00.000000+0530"
+            },
+            {
+                "title": "My Exampple",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "startDate": "2024-06-11T04:30:00.000000+0530",
+                "imageId": "its_default",
+                "competitionName": "UEFA Nations League",
+                "id": "czpwm4ggv0gyahdgsag3gh9g4",
+                "competitionId": "cfesxhzb83yl8b779uv3revz1",
+                "source": "event",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "goals": false,
+                    "penalties": false,
+                    "halfTime": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "fullTime": false,
+                    "redCards": false
+                },
+                "endDate": "2024-06-11T06:30:00.000000+0530"
+            }
+        ],
+        "competitions": [
+            {
+                "notificationPreferences": {
+                    "redCards": false,
+                    "lineups": false,
+                    "kickOff": false,
+                    "penalties": false,
+                    "halfTime": false,
+                    "goals": false,
+                    "fullTime": false,
+                    "reminder": true
+                },
+                "id": "wy3kluvb4efae1of0d8146c1",
+                "name": "NFL Game Pass",
+                "imageId": "126c21ae-0095-472f-8288-5cfddc84909f",
+                "sportId": "9ita1e50vxttzd1xll3iyaulu"
+            },
+            {
+                "id": "595nsvo7ykvoe690b1e4u5n56",
+                "name": "UEFA Nations League",
+                "notificationPreferences": {
+                    "kickOff": false,
+                    "halfTime": false,
+                    "lineups": false,
+                    "redCards": false,
+                    "reminder": true,
+                    "penalties": false,
+                    "goals": false,
+                    "fullTime": false
+                },
+                "sportId": "289u5typ3vp4ifwh5thalohmq"
+            }
+        ],
+        "followsLimit": 100
+    }
+}

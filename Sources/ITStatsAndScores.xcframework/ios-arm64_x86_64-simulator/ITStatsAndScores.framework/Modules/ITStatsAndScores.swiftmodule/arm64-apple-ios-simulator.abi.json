@@ -9545,126 +9545,126 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 178,
+      "offset": 264,
       "length": 34,
       "value": "\"\/stats_scores\/Sports\/GetInitData\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 358,
+      "offset": 444,
       "length": 37,
       "value": "\"\/stats_scores\/Matches\/GetScoresFeed\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 463,
+      "offset": 549,
       "length": 32,
       "value": "\"\/stats_scores\/Matches\/GetMatch\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 635,
+      "offset": 721,
       "length": 48,
       "value": "\"\/stats_scores\/Matches\/GetMatchCompareByMatchId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 729,
+      "offset": 815,
       "length": 51,
       "value": "\"\/stats_scores\/Matches\/GetMatchCompareByExternalId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 828,
+      "offset": 914,
       "length": 48,
       "value": "\"\/stats_scores\/Matches\/GetMatchLineupsByMatchId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 922,
+      "offset": 1008,
       "length": 51,
       "value": "\"\/stats_scores\/Matches\/GetMatchLineupsByExternalId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1025,
+      "offset": 1111,
       "length": 49,
       "value": "\"\/stats_scores\/Matches\/GetMatchCommentsByMatchId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1124,
+      "offset": 1210,
       "length": 52,
       "value": "\"\/stats_scores\/Matches\/GetMatchCommentsByExternalId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1222,
+      "offset": 1308,
       "length": 46,
       "value": "\"\/stats_scores\/Matches\/GetMatchStatsByMatchId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1312,
+      "offset": 1398,
       "length": 49,
       "value": "\"\/stats_scores\/Matches\/GetMatchStatsByExternalId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1443,
+      "offset": 1529,
       "length": 47,
       "value": "\"\/stats_scores\/Competitions\/GetTopCompetitions\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1533,
+      "offset": 1619,
       "length": 53,
       "value": "\"\/stats_scores\/Competitions\/GetCompetitionAndSeasons\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1637,
+      "offset": 1723,
       "length": 51,
       "value": "\"\/stats_scores\/Matches\/GetCompetitionSeasonMatches\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1732,
+      "offset": 1818,
       "length": 54,
       "value": "\"\/stats_scores\/Competitions\/GetCompetitionSeasonTable\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1840,
+      "offset": 1926,
       "length": 53,
       "value": "\"\/stats_scores\/Competitions\/GetSeasonContestantStats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1944,
+      "offset": 2030,
       "length": 50,
       "value": "\"\/stats_scores\/Competitions\/GetSeasonAthleteStats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 2074,
+      "offset": 2160,
       "length": 22,
       "value": "\"\/stats_scores\/search\""
     },
@@ -12135,7 +12135,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Competition.swift",
       "kind": "StringLiteral",
-      "offset": 3627,
+      "offset": 3619,
       "length": 2,
       "value": "\"\""
     },
