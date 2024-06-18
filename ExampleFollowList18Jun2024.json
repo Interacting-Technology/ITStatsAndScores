@@ -1,0 +1,382 @@
+{
+    "message": {
+        "competitors": [
+            {
+                "id": "6eafkwa8gyra2lmnn1855986d",
+                "ids": [
+                    {
+                        "sourceName": "Opta",
+                        "sourceId": "6eafkwa8gyra2lmnn1855986d"
+                    }
+                ],
+                "imageId": null,
+                "name": "Zweigen Kanazawa",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": true,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            }
+        ],
+        "competitions": [
+            {
+                "id": "8ey0ww2zsosdmwr8ehsorh6t7",
+                "ids": [
+                    {
+                        "sourceName": "Opta",
+                        "sourceId": "8ey0ww2zsosdmwr8ehsorh6t7"
+                    }
+                ],
+                "imageId": "84d24358-1dd6-475f-b723-a857f846926c",
+                "name": "Serie BKT",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": true,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            },
+            {
+                "id": "b1rveez5u792gess9w3e7v5le",
+                "ids": [
+                    {
+                        "sourceName": "Opta",
+                        "sourceId": "b1rveez5u792gess9w3e7v5le"
+                    }
+                ],
+                "imageId": null,
+                "name": "J3 League",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
+            }
+        ],
+        "events": [
+            {
+                "id": "d8mnc6jijmwihcfenpukfu2ac",
+                "ids": [
+                    {
+                        "sourceId": "d8mnc6jijmwihcfenpukfu2ac",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Parceiro - Toyama",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T09:00:00.000Z",
+                "endDate": "2024-06-22T11:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d87ac6oiorszb5vms11znkh04",
+                "ids": [
+                    {
+                        "sourceId": "d87ac6oiorszb5vms11znkh04",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Sagamihara - Matsumoto",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T09:00:00.000Z",
+                "endDate": "2024-06-22T11:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d7rsf2hmxjz6e2jj30w8gopas",
+                "ids": [
+                    {
+                        "sourceId": "d7rsf2hmxjz6e2jj30w8gopas",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Grulla - Imabari",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T09:00:00.000Z",
+                "endDate": "2024-06-22T11:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d9yqyixcdgamnaman8z2l2y38",
+                "ids": [
+                    {
+                        "sourceId": "d9yqyixcdgamnaman8z2l2y38",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Kamatamare - Tegevajaro",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T10:00:00.000Z",
+                "endDate": "2024-06-22T12:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d9jdd6xoeabcv36b922kcdr10",
+                "ids": [
+                    {
+                        "sourceId": "d9jdd6xoeabcv36b922kcdr10",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Gainare - Gifu",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T10:00:00.000Z",
+                "endDate": "2024-06-22T12:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d941j3drs3zg4xn55yz5vu1hw",
+                "ids": [
+                    {
+                        "sourceId": "d941j3drs3zg4xn55yz5vu1hw",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Omiya - Ryūkyū",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-22T10:00:00.000Z",
+                "endDate": "2024-06-22T12:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "db93k79zpqvy269g0u8yqdjis",
+                "ids": [
+                    {
+                        "sourceId": "db93k79zpqvy269g0u8yqdjis",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Zweigen - Giravanz",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-23T05:00:00.000Z",
+                "endDate": "2024-06-23T07:00:00.000Z",
+                "source": "competitor",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": true,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "datpu9a9yrr7qui6iwr3783dg",
+                "ids": [
+                    {
+                        "sourceId": "datpu9a9yrr7qui6iwr3783dg",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Fukushima - Osaka",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-23T05:00:00.000Z",
+                "endDate": "2024-06-23T07:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "dae9i8p0fpg5drx8dn3eq0q38",
+                "ids": [
+                    {
+                        "sourceId": "dae9i8p0fpg5drx8dn3eq0q38",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "YSCC - Vanraure",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-23T05:00:00.000Z",
+                "endDate": "2024-06-23T07:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "dbo8f5qah7c6btudzjtaouhw4",
+                "ids": [
+                    {
+                        "sourceId": "dbo8f5qah7c6btudzjtaouhw4",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Nara - Azul Claro",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-23T09:00:00.000Z",
+                "endDate": "2024-06-23T11:00:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            },
+            {
+                "id": "d251s5bat1dqjau8fyclucxec",
+                "ids": [
+                    {
+                        "sourceId": "d251s5bat1dqjau8fyclucxec",
+                        "sourceName": "Opta"
+                    }
+                ],
+                "title": "Grulla - Toyama",
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "competitionId": "b1rveez5u792gess9w3e7v5le",
+                "competitionName": "Japanese J3 League",
+                "imageId": "its_default",
+                "startDate": "2024-06-26T10:30:00.000Z",
+                "endDate": "2024-06-26T12:30:00.000Z",
+                "source": "competition",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": false,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": true,
+                    "penalties": false
+                }
+            }
+        ]
+    }
+}

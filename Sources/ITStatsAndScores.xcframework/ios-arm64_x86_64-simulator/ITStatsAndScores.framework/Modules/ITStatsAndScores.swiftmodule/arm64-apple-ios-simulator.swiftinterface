@@ -101,7 +101,8 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 #warning("JH - This is not a good solution - should be from Server")
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func pushLiteCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo)
+  public func pushLiteCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -259,7 +260,8 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func pushLiteFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab)
+  public func pushLiteFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
