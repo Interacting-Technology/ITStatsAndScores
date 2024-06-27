@@ -9865,77 +9865,77 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5606,
+      "offset": 5612,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11403,
+      "offset": 11409,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 11549,
+      "offset": 11555,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 22011,
+      "offset": 22017,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22052,
+      "offset": 22058,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22196,
+      "offset": 22202,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22217,
+      "offset": 22223,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22293,
+      "offset": 22299,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22314,
+      "offset": 22320,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22390,
+      "offset": 22396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 22410,
+      "offset": 22416,
       "length": 4,
       "value": "true"
     },
@@ -10167,20 +10167,20 @@
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/URLSession\/URLSessionQueueManager.swift",
       "kind": "IntegerLiteral",
       "offset": 233,
-      "length": 2,
-      "value": "20"
+      "length": 1,
+      "value": "6"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/URLSession\/URLSessionQueueManager.swift",
       "kind": "StringLiteral",
-      "offset": 327,
+      "offset": 326,
       "length": 45,
       "value": "\"com.ITStatsAndScores.URLSessionQueueManager\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/URLSession\/URLSessionQueueManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 575,
+      "offset": 574,
       "length": 5,
       "value": "false"
     },
@@ -12945,21 +12945,35 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 29412,
+      "offset": 30847,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 34692,
+      "offset": 31076,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31126,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 36234,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 36872,
+      "offset": 38610,
       "length": 4,
       "value": "true"
     },
@@ -14387,49 +14401,49 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5229,
+      "offset": 5227,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 9194,
+      "offset": 9187,
       "length": 67,
       "value": "\"https:\/\/stats-scores-bucket.s3.eu-central-1.amazonaws.com\/assets\/\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 9326,
+      "offset": 9319,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "StringLiteral",
-      "offset": 9345,
+      "offset": 9338,
       "length": 1,
       "value": "\"%@\/primary.png\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 12127,
+      "offset": 12120,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 12530,
+      "offset": 12523,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 13604,
+      "offset": 13597,
       "length": 1,
       "value": "1"
     },
@@ -26049,301 +26063,308 @@
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6253,
+      "offset": 6239,
+      "length": 16,
+      "value": "\"competitionTop\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6407,
       "length": 23,
       "value": "\"contestantPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6408,
+      "offset": 6562,
       "length": 13,
       "value": "\"dialogueBox\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6569,
+      "offset": 6723,
       "length": 21,
       "value": "\"exclamationPointBox\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6744,
+      "offset": 6898,
       "length": 24,
       "value": "\"exclamationPointCircle\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6936,
+      "offset": 7090,
       "length": 31,
       "value": "\"liveMatchThumbnailPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7105,
+      "offset": 7259,
       "length": 17,
       "value": "\"logo_frame_DAZN\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7258,
+      "offset": 7412,
       "length": 15,
       "value": "\"penaltyMissed\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7409,
+      "offset": 7563,
       "length": 15,
       "value": "\"penaltyScored\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7564,
+      "offset": 7718,
       "length": 17,
       "value": "\"playMediaCircle\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7725,
+      "offset": 7879,
       "length": 19,
       "value": "\"playerPlaceholder\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7881,
+      "offset": 8035,
       "length": 16,
       "value": "\"radio_selected\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8038,
+      "offset": 8192,
       "length": 18,
       "value": "\"radio_unselected\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8180,
+      "offset": 8334,
       "length": 9,
       "value": "\"redCard\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8323,
+      "offset": 8477,
       "length": 14,
       "value": "\"redCircleBig\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8475,
+      "offset": 8629,
       "length": 16,
       "value": "\"redCircleSmall\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8629,
+      "offset": 8783,
       "length": 16,
       "value": "\"refereeWhistle\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8787,
+      "offset": 8941,
       "length": 18,
       "value": "\"secondYellowCard\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8935,
+      "offset": 9089,
       "length": 12,
       "value": "\"soccerBall\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9083,
+      "offset": 9237,
       "length": 15,
       "value": "\"soccerBallRed\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9250,
+      "offset": 9404,
       "length": 23,
       "value": "\"soccerBallRedAndWhite\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9405,
+      "offset": 9559,
       "length": 13,
       "value": "\"soccerField\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9568,
+      "offset": 9722,
       "length": 22,
       "value": "\"soccerFieldOnStadium\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9726,
+      "offset": 9880,
       "length": 15,
       "value": "\"soccerStadium\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9876,
+      "offset": 10030,
       "length": 15,
       "value": "\"star_selected\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10030,
+      "offset": 10184,
       "length": 17,
       "value": "\"star_unselected\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10181,
+      "offset": 10335,
       "length": 14,
       "value": "\"substitution\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10333,
+      "offset": 10487,
       "length": 16,
       "value": "\"substitutionIn\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10497,
+      "offset": 10651,
       "length": 21,
       "value": "\"substitutionInSmall\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10658,
+      "offset": 10812,
       "length": 17,
       "value": "\"substitutionOut\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10810,
+      "offset": 10964,
       "length": 15,
       "value": "\"ui_actionMenu\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10956,
+      "offset": 11110,
       "length": 13,
       "value": "\"ui_calendar\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11114,
+      "offset": 11268,
       "length": 20,
       "value": "\"ui_circleBackArrow\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11275,
+      "offset": 11429,
       "length": 18,
       "value": "\"ui_circleUpArrow\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11420,
+      "offset": 11574,
       "length": 11,
       "value": "\"ui_filter\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11554,
+      "offset": 11708,
       "length": 9,
       "value": "\"ui_info\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11708,
+      "offset": 11862,
       "length": 20,
       "value": "\"ui_magnifyingGlass\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11853,
+      "offset": 12007,
       "length": 10,
       "value": "\"ui_share\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11986,
+      "offset": 12140,
       "length": 9,
       "value": "\"ui_star\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12153,
+      "offset": 12307,
       "length": 26,
       "value": "\"varVideoAssistantReferee\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12301,
+      "offset": 12455,
       "length": 8,
       "value": "\"xClose\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12446,
+      "offset": 12600,
       "length": 16,
       "value": "\"xDelete_active\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12603,
+      "offset": 12757,
       "length": 18,
       "value": "\"xDelete_inactive\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphonesimulator\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12751,
+      "offset": 12905,
       "length": 12,
       "value": "\"yellowCard\""
     }
