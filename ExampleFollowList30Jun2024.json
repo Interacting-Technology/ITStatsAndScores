@@ -25,6 +25,31 @@
                 "rail": false,
                 "sportId": "289u5typ3vp4ifwh5thalohmq",
                 "sportName": "Football"
+            },
+            {
+                "id": "sr:competitor:4819",
+                "ids": [
+                    {
+                        "sourceName": "sr",
+                        "sourceId": "sr:competitor:4819"
+                    }
+                ],
+                "imageId": null,
+                "name": "Argentina",
+                "notificationPreferences": {
+                    "lineups": false,
+                    "reminder": false,
+                    "kickOff": false,
+                    "halfTime": true,
+                    "fullTime": false,
+                    "goals": false,
+                    "redCards": false,
+                    "penalties": false
+                },
+                "pulse": true,
+                "rail": false,
+                "sportId": "289u5typ3vp4ifwh5thalohmq",
+                "sportName": "Football"
             }
         ],
         "competitions": [
@@ -81,14 +106,14 @@
         ],
         "events": [
             {
-                "id": "d8mnc6jijmwihcfenpukfu2ac",
+                "id": "dciztuef216qxdos2vlt22mtw",
                 "ids": [
                     {
                         "sourceId": "d8mnc6jijmwihcfenpukfu2ac",
                         "sourceName": "Opta"
                     }
                 ],
-                "title": "Parceiro - Toyama",
+                "title": "Osaka-tege",
                 "sportId": "289u5typ3vp4ifwh5thalohmq",
                 "competitionId": "b1rveez5u792gess9w3e7v5le",
                 "competitionName": "Japanese J3 League",
@@ -98,7 +123,7 @@
                 "source": "competition",
                 "notificationPreferences": {
                     "lineups": false,
-                    "reminder": false,
+                    "reminder": true,
                     "kickOff": false,
                     "halfTime": false,
                     "fullTime": false,

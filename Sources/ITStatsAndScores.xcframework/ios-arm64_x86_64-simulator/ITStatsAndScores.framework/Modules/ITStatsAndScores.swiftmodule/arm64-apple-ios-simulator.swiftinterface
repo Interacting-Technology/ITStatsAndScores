@@ -173,6 +173,19 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamTableScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+public enum LiteTeamInfo : Swift.Int {
+  case matches
+  case overview
+  case table
+  case squad
+  case teamStats
+  case playersStats
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamOverviewScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForTeamOverviewScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
@@ -272,6 +285,9 @@ extension ITStatsAndScores.LiteCompetitionInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
+extension ITStatsAndScores.LiteTeamInfo : Swift.Equatable {}
+extension ITStatsAndScores.LiteTeamInfo : Swift.Hashable {}
+extension ITStatsAndScores.LiteTeamInfo : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Equatable {}
 extension ITStatsAndScores.ITNavigationType : Swift.Hashable {}
 extension ITStatsAndScores.ITNavigationType : Swift.RawRepresentable {}
