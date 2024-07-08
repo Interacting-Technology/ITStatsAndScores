@@ -80,6 +80,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -722,53 +739,10 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "Combine",
+        "printedName": "Combine",
         "declKind": "Import",
-        "moduleName": "ITStatsAndScores",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -792,6 +766,46 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -799,6 +813,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -1542,6 +1573,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -6175,6 +6213,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -6386,6 +6441,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -6393,6 +6458,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -8308,6 +8390,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -8516,6 +8615,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -8553,6 +8659,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -9377,6 +9500,23 @@
       },
       {
         "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -9461,6 +9601,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
       },
       {
         "kind": "Import",
@@ -10182,28 +10329,63 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 2238,
+      "offset": 2263,
       "length": 53,
       "value": "\"\/stats_scores\/Competitions\/GetSeasonContestantStats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 2342,
+      "offset": 2367,
       "length": 50,
       "value": "\"\/stats_scores\/Competitions\/GetSeasonAthleteStats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 2477,
+      "offset": 2507,
       "length": 50,
       "value": "\"\/stats_scores\/Teams\/GetTeamAndCompetitionSeasons\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 2602,
+      "offset": 2607,
+      "length": 55,
+      "value": "\"\/stats_scores\/Matches\/GetCompetitionSeasonTeamMatches\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 2696,
+      "length": 37,
+      "value": "\"\/stats_scores\/Teams\/GetTeamOverview\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 2764,
+      "length": 34,
+      "value": "\"\/stats_scores\/Teams\/GetTeamSquad\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 2835,
+      "length": 40,
+      "value": "\"\/stats_scores\/Teams\/GetTeamSeasonStats\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 2920,
+      "length": 48,
+      "value": "\"\/stats_scores\/Teams\/GetTeamSeasonAthletesStats\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/Requests\/RestApiRequestEndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 3043,
       "length": 22,
       "value": "\"\/stats_scores\/search\""
     },
@@ -11741,7 +11923,7 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Models\/InitData.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/InitData\/InitData.swift",
       "kind": "StringLiteral",
       "offset": 180,
       "length": 20,
@@ -12527,126 +12709,126 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 865,
+      "offset": 867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 918,
+      "offset": 920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 978,
+      "offset": 980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1038,
+      "offset": 1040,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1251,
+      "offset": 1253,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1417,
+      "offset": 1419,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11623,
+      "offset": 11828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11634,
+      "offset": 11839,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11649,
+      "offset": 11854,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11670,
+      "offset": 11875,
       "length": 12,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11623,
+      "offset": 11828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11634,
+      "offset": 11839,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11649,
+      "offset": 11854,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11670,
+      "offset": 11875,
       "length": 12,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11623,
+      "offset": 11828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11634,
+      "offset": 11839,
       "length": 5,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11649,
+      "offset": 11854,
       "length": 11,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/ITLiteCompetitionScreen\/ITLiteCompetitionScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11670,
+      "offset": 11875,
       "length": 12,
       "value": "3"
     },
@@ -12714,7 +12896,7 @@
       "value": "32"
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresAccess.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/ITStatsAndScoresAccess.swift",
       "kind": "BooleanLiteral",
       "offset": 722,
       "length": 5,
@@ -13353,35 +13535,35 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 31471,
+      "offset": 32216,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 31700,
+      "offset": 32445,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 31750,
+      "offset": 32495,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 36858,
+      "offset": 37603,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 39773,
+      "offset": 40518,
       "length": 4,
       "value": "true"
     },
@@ -13765,8 +13947,43 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 438,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 656,
+      "offset": 520,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 889,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1311,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1360,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1702,
       "length": 5,
       "value": "false"
     },
@@ -14856,1028 +15073,6 @@
       "value": "\"ITFixtureOverviewScreenScroll\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 494,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 505,
-      "length": 7,
-      "value": "\"jorge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 527,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 547,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 598,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 654,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 665,
-      "length": 6,
-      "value": "\"cgcr\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 686,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 706,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 757,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 813,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 824,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 852,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 872,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 923,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 979,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 990,
-      "length": 9,
-      "value": "\"crgrcgr\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1014,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1034,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1085,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1141,
-      "length": 3,
-      "value": "\"5\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1152,
-      "length": 7,
-      "value": "\"jorge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1174,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1194,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1245,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1301,
-      "length": 3,
-      "value": "\"6\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1312,
-      "length": 6,
-      "value": "\"cgcr\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1333,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1353,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1404,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1460,
-      "length": 3,
-      "value": "\"7\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1471,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1499,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1519,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1570,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1626,
-      "length": 3,
-      "value": "\"8\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1637,
-      "length": 7,
-      "value": "\"jorge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1659,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1679,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1730,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1786,
-      "length": 3,
-      "value": "\"9\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1797,
-      "length": 6,
-      "value": "\"cgcr\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1818,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1838,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1889,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1945,
-      "length": 4,
-      "value": "\"10\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1957,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 1985,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2005,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2056,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2112,
-      "length": 4,
-      "value": "\"10\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2124,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2152,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2172,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2223,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2279,
-      "length": 4,
-      "value": "\"10\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2291,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2319,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2339,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2390,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2446,
-      "length": 4,
-      "value": "\"10\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 13,
-      "value": "\"jorcrgrgrge\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2486,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2506,
-      "length": 38,
-      "value": "\"d2f8e838-87d9-11ee-bd71-00090faa0001\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2557,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2608,
-      "length": 13,
-      "value": "\"Goalkeepers\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2775,
-      "length": 11,
-      "value": "\"Defenders\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Models\/SquadData.swift",
-      "kind": "StringLiteral",
-      "offset": 2917,
-      "length": 13,
-      "value": "\"Midfielders\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1006,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1021,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1100,
-      "length": 9,
-      "value": "\"2023\/24\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1191,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1279,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1371,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1386,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1465,
-      "length": 9,
-      "value": "\"2022\/23\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1556,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1645,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1737,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1752,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1831,
-      "length": 9,
-      "value": "\"2021\/22\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1922,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2011,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2103,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2118,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2197,
-      "length": 9,
-      "value": "\"2020\/21\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2288,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2377,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2469,
-      "length": 3,
-      "value": "\"5\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2484,
-      "length": 3,
-      "value": "\"5\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2563,
-      "length": 9,
-      "value": "\"2019\/20\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2654,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2743,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2810,
-      "length": 9,
-      "value": "\"2023\/24\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3544,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3559,
-      "length": 4,
-      "value": "\"1a\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3639,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3734,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3823,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3916,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3931,
-      "length": 4,
-      "value": "\"2a\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4011,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4106,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4195,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4288,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4303,
-      "length": 4,
-      "value": "\"3a\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4383,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4478,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4567,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4660,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4675,
-      "length": 4,
-      "value": "\"4a\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4755,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4850,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4938,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5031,
-      "length": 3,
-      "value": "\"5\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5046,
-      "length": 4,
-      "value": "\"5a\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5126,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5221,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5310,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5402,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5417,
-      "length": 4,
-      "value": "\"1b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5497,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5592,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5681,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5774,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5789,
-      "length": 4,
-      "value": "\"2b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5869,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5964,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6053,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6146,
-      "length": 3,
-      "value": "\"3\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6161,
-      "length": 4,
-      "value": "\"3b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6241,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6336,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6425,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6518,
-      "length": 3,
-      "value": "\"4\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6533,
-      "length": 4,
-      "value": "\"4b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6613,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6708,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6797,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6890,
-      "length": 3,
-      "value": "\"5\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6905,
-      "length": 4,
-      "value": "\"5b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 6985,
-      "length": 13,
-      "value": "\"Competition\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7080,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7169,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7238,
-      "length": 9,
-      "value": "\"2022\/23\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/BottomSheets\/CompetitionSelect\/Models\/CompetitionSelectCellModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7872,
-      "length": 9,
-      "value": "\"2021\/22\""
-    },
-    {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/SectionPickers\/SectionPickerData.swift",
       "kind": "IntegerLiteral",
       "offset": 333,
@@ -16215,10 +15410,31 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/ITTeamOverviewScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 251,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/ITTeamOverviewScreenModel.swift",
       "kind": "Array",
-      "offset": 446,
+      "offset": 504,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/ITTeamOverviewScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 898,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/ITTeamOverviewScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1144,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/Views\/SquadListView.swift",
@@ -16236,183 +15452,183 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 326,
-      "length": 27,
-      "value": "\"bop6aslxmwvzsapdxsw3xbvfg\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 704,
+      "offset": 865,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 760,
+      "offset": 921,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 814,
+      "offset": 975,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 868,
+      "offset": 1029,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 926,
+      "offset": 1087,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 986,
+      "offset": 1147,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1175,
+      "offset": 1360,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1415,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9527,
+      "offset": 13230,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9538,
+      "offset": 13241,
       "length": 8,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9556,
+      "offset": 13259,
       "length": 5,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9571,
+      "offset": 13274,
       "length": 5,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9586,
+      "offset": 13289,
       "length": 9,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9605,
+      "offset": 13308,
       "length": 12,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9527,
+      "offset": 13230,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9538,
+      "offset": 13241,
       "length": 8,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9556,
+      "offset": 13259,
       "length": 5,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9571,
+      "offset": 13274,
       "length": 5,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9586,
+      "offset": 13289,
       "length": 9,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9605,
+      "offset": 13308,
       "length": 12,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9527,
+      "offset": 13230,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9538,
+      "offset": 13241,
       "length": 8,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9556,
+      "offset": 13259,
       "length": 5,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9571,
+      "offset": 13274,
       "length": 5,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9586,
+      "offset": 13289,
       "length": 9,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/ITLiteTeamScreen\/ITLiteTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9605,
+      "offset": 13308,
       "length": 12,
       "value": "5"
     },
@@ -16448,6 +15664,27 @@
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/CompetitionScreens\/ITCompetitionMatchesScreen\/ITCompetitionMatchesScreenModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1272,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/ITTeamSquadScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 323,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/ITTeamSquadScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 699,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamSquadScreen\/ITTeamSquadScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 939,
       "length": 5,
       "value": "false"
     },
@@ -18524,7 +17761,7 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/ITStatsAndScoresDelegate.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/ITStatsAndScoresDelegate.swift",
       "kind": "StringLiteral",
       "offset": 1109,
       "length": 12,
@@ -23467,87 +22704,108 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 253,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 703,
+      "offset": 760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 728,
+      "offset": 785,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 743,
+      "offset": 800,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 767,
+      "offset": 824,
       "length": 10,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 703,
+      "offset": 760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 728,
+      "offset": 785,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 743,
+      "offset": 800,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 767,
+      "offset": 824,
       "length": 10,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 703,
+      "offset": 760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 728,
+      "offset": 785,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 743,
+      "offset": 800,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 767,
+      "offset": 824,
       "length": 10,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1631,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsTeam\/ITTeamStatsTeamScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1871,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/CompetitionScreens\/ITCompetitionTableScreen\/ITCompetitionTableScreenModel.swift",
@@ -23691,66 +22949,87 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 245,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 817,
+      "offset": 973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 843,
+      "offset": 999,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 858,
+      "offset": 1014,
       "length": 4,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 817,
+      "offset": 973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 843,
+      "offset": 999,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 858,
+      "offset": 1014,
       "length": 4,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 817,
+      "offset": 973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 843,
+      "offset": 999,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 858,
+      "offset": 1014,
       "length": 4,
       "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1959,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamTableScreen\/ITTeamTableScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2217,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/StatTableList\/Models\/TeamTableStatsRow.swift",
@@ -24721,224 +24000,224 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1431,
+      "offset": 1581,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1450,
+      "offset": 1600,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1478,
+      "offset": 1628,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1499,
+      "offset": 1649,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1518,
+      "offset": 1668,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1431,
+      "offset": 1581,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1450,
+      "offset": 1600,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1478,
+      "offset": 1628,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1499,
+      "offset": 1649,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1518,
+      "offset": 1668,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1431,
+      "offset": 1581,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1450,
+      "offset": 1600,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1478,
+      "offset": 1628,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1499,
+      "offset": 1649,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1518,
+      "offset": 1668,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1875,
+      "offset": 2025,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1899,
+      "offset": 2049,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1921,
+      "offset": 2071,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1945,
+      "offset": 2095,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1967,
+      "offset": 2117,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1875,
+      "offset": 2025,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1899,
+      "offset": 2049,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1921,
+      "offset": 2071,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1945,
+      "offset": 2095,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1967,
+      "offset": 2117,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1875,
+      "offset": 2025,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1899,
+      "offset": 2049,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1921,
+      "offset": 2071,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1945,
+      "offset": 2095,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "IntegerLiteral",
-      "offset": 1967,
+      "offset": 2117,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "StringLiteral",
-      "offset": 2377,
+      "offset": 2527,
       "length": 15,
       "value": "\"SquadPosition\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/FixtureStatistics\/FixtureLineups.swift",
       "kind": "StringLiteral",
-      "offset": 2423,
+      "offset": 2573,
       "length": 14,
       "value": "\"PositionSide\""
     },
@@ -25182,87 +24461,108 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 259,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 721,
+      "offset": 886,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 746,
+      "offset": 911,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 761,
+      "offset": 926,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 785,
+      "offset": 950,
       "length": 10,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 721,
+      "offset": 886,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 746,
+      "offset": 911,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 761,
+      "offset": 926,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 785,
+      "offset": 950,
       "length": 10,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 721,
+      "offset": 886,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 746,
+      "offset": 911,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 761,
+      "offset": 926,
       "length": 10,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 785,
+      "offset": 950,
       "length": 10,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1757,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamStatsPlayersScreen\/ITTeamPlayersStatsScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2009,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLineupsScreen\/Cells\/FixtureLineupsSubstitutionCell.swift",

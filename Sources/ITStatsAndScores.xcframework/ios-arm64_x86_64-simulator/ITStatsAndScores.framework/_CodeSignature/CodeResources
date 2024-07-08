@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		VoI0+XGNGwWkiTpNvt77U/6fdIk=
+		E+tURaieEruohmfnWGY3EXqcQeE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jKIpYem9cgqB7Y+jR56fZ7aGLCs=
+		zHZKwGgxkemN4Pkr0CQdnXauyOA=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		VoI0+XGNGwWkiTpNvt77U/6fdIk=
+		E+tURaieEruohmfnWGY3EXqcQeE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3HPhe1KpZtuZ0NQTSFVnkxKIm0s=
+		XvHiXW/jMPRJbmgQ1QwKt3StQno=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,10 +96,6 @@
 		<data>
 		7whTsXSUO1atelT7VNfJnO4nJOY=
 		</data>
-		<key>barcelona_scores.json</key>
-		<data>
-		+ezGvVC+ZeP+3PCfSIUY/bYAIQ8=
-		</data>
 		<key>days_local.json</key>
 		<data>
 		KYZWkosmjtiTf1F6QsXSKlkm2EY=
@@ -108,33 +104,9 @@
 		<data>
 		lM+AMK0MxDzH2gud5MFgc3D9DOE=
 		</data>
-		<key>laliga_scores.json</key>
-		<data>
-		ZD/XfWqs3/Yhy8+Si/Mb/wUmRMI=
-		</data>
-		<key>laliga_stats.json</key>
-		<data>
-		Ne1M1fWPuXSFM5bM/Zig1bPtllw=
-		</data>
-		<key>laliga_table.json</key>
-		<data>
-		T0MNkLMTIJ6nP4kCQtNNsPyDzW8=
-		</data>
 		<key>match.json</key>
 		<data>
 		NrAIdwZe0dygSRcVcUZ3wum86s0=
-		</data>
-		<key>matches_barcelona.json</key>
-		<data>
-		vz8uxPDwUOP7fUrctZMuapStpNw=
-		</data>
-		<key>nextMatch_barcelona.json</key>
-		<data>
-		TGsLC6/UYMwc3XaF2Dk52BkYk+Q=
-		</data>
-		<key>positions_barcelona.json</key>
-		<data>
-		lmrTmveK7udrQyQVb1DuGxmnog4=
 		</data>
 		<key>private_Amazon-Root-CA-1.der</key>
 		<data>
@@ -226,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			btBY7xhSbV0dlcZxXvUkFe/7d4NCfWDRDoHY/H5v/3A=
+			GKgqjfTaHf4k/agixiEuUjjd2bAhRKCzAlfFf7I+/sI=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -254,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhh/GBPkbbSU/r7E91QjWA1LpA1je9oTeRiFA6ExjR0=
+			QI5xY0VRcFzs3aoVMunUM3tuA9XDURDnxQJNcrbiCww=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			btBY7xhSbV0dlcZxXvUkFe/7d4NCfWDRDoHY/H5v/3A=
+			GKgqjfTaHf4k/agixiEuUjjd2bAhRKCzAlfFf7I+/sI=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -289,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tL7UbYUO5Q/LR7pmDFsIx5A7lN7wL5DraloiUDF7q8k=
+			cv5YE0YVnJGDXIKrI2+vNr6Yt7rZ3/aGc8Yj5EbSMjg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -313,13 +285,6 @@
 			apd6rJ1n2V/5pt9h89J1Z/4ErBjvIJY2F6cNGU/Ih+M=
 			</data>
 		</dict>
-		<key>barcelona_scores.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EsOGeSyAEGXrfJtwnXesWl18gW7gmToFb6qPVOHhgI0=
-			</data>
-		</dict>
 		<key>days_local.json</key>
 		<dict>
 			<key>hash2</key>
@@ -334,53 +299,11 @@
 			9qJhZbHp9QlX33IxcgFLANkVqqmb5FzX5VR4lSwDUAM=
 			</data>
 		</dict>
-		<key>laliga_scores.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mv0cY1+MWUSDYs7ueRb/SpPU1rzX6y8YcFCdNTscAs4=
-			</data>
-		</dict>
-		<key>laliga_stats.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mt2SSlSvjMJyZvU2oVaAOyBiSi5wSwfujGQrh5+J2co=
-			</data>
-		</dict>
-		<key>laliga_table.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JdBfjyjGJulpdDJBa+2EuhlYGoAeg4UibahGSYs5oKQ=
-			</data>
-		</dict>
 		<key>match.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			rnURM5//FBqDPp92tgPp/ZSibfT9MyEU8reMVdySoNg=
-			</data>
-		</dict>
-		<key>matches_barcelona.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eBm8Dsu0HIHVBms3/5JpChJd4gBPIfNGFC4uvarX+OU=
-			</data>
-		</dict>
-		<key>nextMatch_barcelona.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nIENIOeZMVwtQ8suO5imzn6ZhRX5co+8qN5SQh+SBYM=
-			</data>
-		</dict>
-		<key>positions_barcelona.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2NsN9zOHE1vBEONEDxVPsEpZNgzS6B3N3+01HX7HaLI=
 			</data>
 		</dict>
 		<key>private_Amazon-Root-CA-1.der</key>
