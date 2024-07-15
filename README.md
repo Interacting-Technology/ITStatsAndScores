@@ -71,7 +71,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 
 ## Search Page
 - [x] Search for Competitions, Teams or Players
-- [x] Select from previous/recent searches
+- [x] Select from previous/recent Searches
 
 ## Limitations
 - [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
