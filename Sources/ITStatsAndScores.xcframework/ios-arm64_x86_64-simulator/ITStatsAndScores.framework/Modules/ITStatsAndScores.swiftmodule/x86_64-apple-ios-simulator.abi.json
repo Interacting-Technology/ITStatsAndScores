@@ -6304,6 +6304,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -19763,637 +19773,637 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20266,
+      "offset": 20432,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20303,
+      "offset": 20469,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20358,
+      "offset": 20524,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20369,
+      "offset": 20535,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20446,
+      "offset": 20612,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20457,
+      "offset": 20623,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20537,
+      "offset": 20703,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 20551,
+      "offset": 20717,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 20698,
+      "offset": 20864,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20753,
+      "offset": 20919,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20793,
+      "offset": 20959,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 20830,
+      "offset": 20996,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 20953,
+      "offset": 21119,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21068,
+      "offset": 21234,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21103,
+      "offset": 21269,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21156,
+      "offset": 21322,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21167,
+      "offset": 21333,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21242,
+      "offset": 21408,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21253,
+      "offset": 21419,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21331,
+      "offset": 21497,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 21345,
+      "offset": 21511,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 21479,
+      "offset": 21645,
       "length": 18,
       "value": "[(\"1\", \"1\"), (\"2\", \"1\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21532,
+      "offset": 21698,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21568,
+      "offset": 21734,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21603,
+      "offset": 21769,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 21720,
+      "offset": 21886,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21835,
+      "offset": 22001,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21870,
+      "offset": 22036,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21923,
+      "offset": 22089,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 21934,
+      "offset": 22100,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22009,
+      "offset": 22175,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22020,
+      "offset": 22186,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22098,
+      "offset": 22264,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 22112,
+      "offset": 22278,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 22246,
+      "offset": 22412,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"2\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22299,
+      "offset": 22465,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22335,
+      "offset": 22501,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22370,
+      "offset": 22536,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 22487,
+      "offset": 22653,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22602,
+      "offset": 22768,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22637,
+      "offset": 22803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22690,
+      "offset": 22856,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22701,
+      "offset": 22867,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22776,
+      "offset": 22942,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22787,
+      "offset": 22953,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 22865,
+      "offset": 23031,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 22879,
+      "offset": 23045,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 23013,
+      "offset": 23179,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"3\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23066,
+      "offset": 23232,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23102,
+      "offset": 23268,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23137,
+      "offset": 23303,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 23254,
+      "offset": 23420,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23369,
+      "offset": 23535,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23404,
+      "offset": 23570,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23457,
+      "offset": 23623,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23468,
+      "offset": 23634,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23543,
+      "offset": 23709,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23554,
+      "offset": 23720,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23632,
+      "offset": 23798,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 23646,
+      "offset": 23812,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 23780,
+      "offset": 23946,
       "length": 18,
       "value": "[(\"1\", \"1\"), (\"2\", \"3\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23833,
+      "offset": 23999,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23869,
+      "offset": 24035,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 23904,
+      "offset": 24070,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 24021,
+      "offset": 24187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24136,
+      "offset": 24302,
       "length": 3,
       "value": "\"6\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24171,
+      "offset": 24337,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24224,
+      "offset": 24390,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24235,
+      "offset": 24401,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24310,
+      "offset": 24476,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24321,
+      "offset": 24487,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24399,
+      "offset": 24565,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 24413,
+      "offset": 24579,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 24547,
+      "offset": 24713,
       "length": 18,
       "value": "[(\"1\", \"0\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24600,
+      "offset": 24766,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24636,
+      "offset": 24802,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24671,
+      "offset": 24837,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 24788,
+      "offset": 24954,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24903,
+      "offset": 25069,
       "length": 3,
       "value": "\"7\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24938,
+      "offset": 25104,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 24991,
+      "offset": 25157,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25002,
+      "offset": 25168,
       "length": 6,
       "value": "\"Some\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25077,
+      "offset": 25243,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25088,
+      "offset": 25254,
       "length": 13,
       "value": "\"Second team\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25166,
+      "offset": 25332,
       "length": 4,
       "value": "\"FT\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 25180,
+      "offset": 25346,
       "length": 18,
       "value": "[(\"1\", \"3\"), (\"2\", \"0\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "Dictionary",
-      "offset": 25314,
+      "offset": 25480,
       "length": 18,
       "value": "[(\"1\", \"0\"), (\"2\", \"1\")]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25367,
+      "offset": 25533,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25403,
+      "offset": 25569,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "StringLiteral",
-      "offset": 25438,
+      "offset": 25604,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/Days\/Match.swift",
       "kind": "BooleanLiteral",
-      "offset": 25555,
+      "offset": 25721,
       "length": 4,
       "value": "true"
     },
