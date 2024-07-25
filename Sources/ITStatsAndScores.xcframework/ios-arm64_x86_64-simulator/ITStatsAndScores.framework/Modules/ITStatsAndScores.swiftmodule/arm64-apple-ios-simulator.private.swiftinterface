@@ -99,7 +99,6 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLiveUpdatesScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
-#warning("JH - This is not a good solution - should be from Server")
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func pushLiteCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
   public func presentLiteCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
@@ -127,6 +126,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionLeagueStatsScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
+#warning("JH - This is not a good solution - should be from Server")
 @frozen public struct ITConfiguration {
   @usableFromInline
   internal let userId: Swift.String
