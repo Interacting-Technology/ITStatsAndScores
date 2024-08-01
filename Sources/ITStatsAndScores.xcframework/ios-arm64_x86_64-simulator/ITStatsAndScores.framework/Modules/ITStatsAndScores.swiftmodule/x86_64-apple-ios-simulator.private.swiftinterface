@@ -16,6 +16,10 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func pushLiteTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForLineupsScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
