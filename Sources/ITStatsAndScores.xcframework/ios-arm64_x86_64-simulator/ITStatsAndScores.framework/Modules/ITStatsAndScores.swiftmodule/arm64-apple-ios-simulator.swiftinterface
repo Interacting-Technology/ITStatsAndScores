@@ -30,7 +30,6 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 public enum AnalyticsEvent : Swift.String {
   case page_load
   case user_Interaction
-  case screen_view
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
