@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.82
+- 0.1.83
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -170,6 +170,7 @@ public enum ITFollowType: String {
 
 ## Dependencies and ThirdParty sdks/libraries/frameworks
 - [x] MQTT-NIO. https://swiftpackageindex.com/sroebert/mqtt-nio
+- [x] Mixpanel. https://github.com/mixpanel/mixpanel-swift
 
 ## Requirements
 
@@ -186,7 +187,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.82)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.83)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -194,6 +195,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - Build project
 
 ## Implementation
+- First set ITStatsAndScoresAccess.shared.followingAndRemindersDelegate -- Then:
 - ITConfiguration properties are: userId, language (ISO 639 alpha-2 code, i.e. 2 letter “en”/”es”/”fr”), country (2 letters like "ES"/"US"/"FR")
 - In UIKit AppDelegate:
 ```
@@ -205,10 +207,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
+        ITStatsAndScoresAccess.shared.followingAndRemindersDelegate = itFollowingAndRemindersManager
+        
         ITStatsAndScoresAccess.shared.configure(with: .init(userId: "<UserId>", language: "<example: \"en\">", country: "<example: \"ES\">"))
         
         // Add delegates:
-        ITStatsAndScoresAccess.shared.followingAndRemindersDelegate = itFollowingAndRemindersManager
+       
         ITStatsAndScoresAccess.shared.navigationDelegate = itNavigationBridgeManager
         ITStatsAndScoresAccess.shared.analyticsDelegate = itAnalytics
         
