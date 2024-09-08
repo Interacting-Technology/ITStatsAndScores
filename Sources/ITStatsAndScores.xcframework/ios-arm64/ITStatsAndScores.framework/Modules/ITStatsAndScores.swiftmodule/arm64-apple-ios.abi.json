@@ -13235,14 +13235,14 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13659,
+      "offset": 13690,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/Views\/DaysPagination\/MatchesScroll\/Cells\/MatchCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 13709,
+      "offset": 13740,
       "length": 3,
       "value": "103"
     },
@@ -25604,7 +25604,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSearch\/Views\/Cells\/SearchResultCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3426,
+      "offset": 3819,
       "length": 2,
       "value": "48"
     },
