@@ -64,21 +64,22 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamPlayersStatsScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
-public struct PublicTestView : SwiftUI.View {
-  public init()
+@_Concurrency.MainActor(unsafe) public struct PublicTestView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public init()
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores14PublicTestViewV4bodyQrvp", 0) __
 }
-public enum LiteCompetitionInfo : Swift.Int {
+public enum LiteCompetitionInfo {
   case matches
   case table
+  case playoffs
   case leagueStats
   case playersStats
-  public init?(rawValue: Swift.Int)
-  public typealias RawValue = Swift.Int
-  public var rawValue: Swift.Int {
+  public static func == (a: ITStatsAndScores.LiteCompetitionInfo, b: ITStatsAndScores.LiteCompetitionInfo) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
     get
   }
 }
@@ -286,7 +287,6 @@ extension ITStatsAndScores.LiteFixtureTab : Swift.Equatable {}
 extension ITStatsAndScores.LiteFixtureTab : Swift.Hashable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
-extension ITStatsAndScores.LiteCompetitionInfo : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Hashable {}
