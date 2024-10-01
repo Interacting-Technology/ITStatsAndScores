@@ -13269,7 +13269,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 9973,
+      "offset": 11541,
       "length": 2,
       "value": "\"\""
     },
@@ -27738,14 +27738,21 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/ITLiteFixtureScreen\/ITLiteFixtureScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2670,
+      "offset": 1579,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/ITLiteFixtureScreen\/ITLiteFixtureScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2732,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/ITLiteFixtureScreen\/ITLiteFixtureScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2703,
+      "offset": 2765,
       "length": 4,
       "value": "true"
     },
