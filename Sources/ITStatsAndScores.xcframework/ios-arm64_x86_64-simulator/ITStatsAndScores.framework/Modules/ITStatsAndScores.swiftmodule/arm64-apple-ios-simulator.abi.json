@@ -13241,37 +13241,65 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 1714,
-      "length": 21,
-      "value": "\"subscriptions.queue\""
+      "offset": 1727,
+      "length": 32,
+      "value": "\"subscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "Array",
-      "offset": 2281,
+      "offset": 2305,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "BooleanLiteral",
-      "offset": 2341,
+      "offset": 2365,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "Array",
-      "offset": 7264,
+      "offset": 7301,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 11541,
+      "offset": 11394,
+      "length": 52,
+      "value": "\"scoreCenterFeedMatchSubscriptionsAccessQueue.queue\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
+      "kind": "StringLiteral",
+      "offset": 11695,
+      "length": 52,
+      "value": "\"scoreCenterFeedSystemSubscriptionAccessQueue.queue\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
+      "kind": "StringLiteral",
+      "offset": 11854,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
+      "kind": "StringLiteral",
+      "offset": 12034,
+      "length": 39,
+      "value": "\"fixtureSubscriptionsAccessQueue.queue\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
+      "kind": "StringLiteral",
+      "offset": 12293,
+      "length": 43,
+      "value": "\"generalMatchSubscriptionAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Extensions\/DateFormatter\/DateFormatter+extension.swift",
