@@ -206,8 +206,10 @@ public enum ITNavigationType : Swift.String {
   case fixture
   case competition
   case contestant
-  public static let jsonParameterKey_externalId: Swift.String
-  public var jsonParameterKey: Swift.String {
+  public var jsonDaznIdParameterKey: Swift.String {
+    get
+  }
+  public var jsonProviderExternalIdParameterKey: Swift.String {
     get
   }
   public init?(rawValue: Swift.String)

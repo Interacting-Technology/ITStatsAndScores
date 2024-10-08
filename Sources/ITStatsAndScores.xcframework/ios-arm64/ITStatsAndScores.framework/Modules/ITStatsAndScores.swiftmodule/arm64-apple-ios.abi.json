@@ -8131,8 +8131,8 @@
           },
           {
             "kind": "Var",
-            "name": "jsonParameterKey_externalId",
-            "printedName": "jsonParameterKey_externalId",
+            "name": "jsonDaznIdParameterKey",
+            "printedName": "jsonDaznIdParameterKey",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8142,18 +8142,13 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:16ITStatsAndScores16ITNavigationTypeO27jsonParameterKey_externalIdSSvpZ",
-            "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO27jsonParameterKey_externalIdSSvpZ",
+            "usr": "s:16ITStatsAndScores16ITNavigationTypeO22jsonDaznIdParameterKeySSvp",
+            "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO22jsonDaznIdParameterKeySSvp",
             "moduleName": "ITStatsAndScores",
-            "static": true,
             "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
               "AccessControl",
               "RawDocComment"
             ],
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -8168,19 +8163,17 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:16ITStatsAndScores16ITNavigationTypeO27jsonParameterKey_externalIdSSvgZ",
-                "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO27jsonParameterKey_externalIdSSvgZ",
+                "usr": "s:16ITStatsAndScores16ITNavigationTypeO22jsonDaznIdParameterKeySSvg",
+                "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO22jsonDaznIdParameterKeySSvg",
                 "moduleName": "ITStatsAndScores",
-                "static": true,
-                "implicit": true,
                 "accessorKind": "get"
               }
             ]
           },
           {
             "kind": "Var",
-            "name": "jsonParameterKey",
-            "printedName": "jsonParameterKey",
+            "name": "jsonProviderExternalIdParameterKey",
+            "printedName": "jsonProviderExternalIdParameterKey",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8190,8 +8183,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:16ITStatsAndScores16ITNavigationTypeO16jsonParameterKeySSvp",
-            "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO16jsonParameterKeySSvp",
+            "usr": "s:16ITStatsAndScores16ITNavigationTypeO34jsonProviderExternalIdParameterKeySSvp",
+            "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO34jsonProviderExternalIdParameterKeySSvp",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl"
@@ -8210,8 +8203,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:16ITStatsAndScores16ITNavigationTypeO16jsonParameterKeySSvg",
-                "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO16jsonParameterKeySSvg",
+                "usr": "s:16ITStatsAndScores16ITNavigationTypeO34jsonProviderExternalIdParameterKeySSvg",
+                "mangledName": "$s16ITStatsAndScores16ITNavigationTypeO34jsonProviderExternalIdParameterKeySSvg",
                 "moduleName": "ITStatsAndScores",
                 "accessorKind": "get"
               }
@@ -13017,7 +13010,7 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Environments\/FrameworkSettings.swift",
       "kind": "StringLiteral",
-      "offset": 3063,
+      "offset": 3080,
       "length": 2,
       "value": "\"\""
     },
@@ -13115,91 +13108,56 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 825,
-      "length": 14,
-      "value": "\"liveStatsITS\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
-      "kind": "StringLiteral",
-      "offset": 859,
-      "length": 10,
-      "value": "\"K8!jr@5b\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
-      "kind": "StringLiteral",
-      "offset": 894,
-      "length": 81,
-      "value": "\"iOS_\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
-      "kind": "StringLiteral",
-      "offset": 974,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
-      "kind": "StringLiteral",
-      "offset": 1727,
+      "offset": 1731,
       "length": 32,
       "value": "\"subscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "Array",
-      "offset": 2305,
+      "offset": 2309,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "BooleanLiteral",
-      "offset": 2365,
+      "offset": 2366,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "Array",
-      "offset": 7428,
+      "offset": 7753,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 11521,
+      "offset": 11867,
       "length": 52,
       "value": "\"scoreCenterFeedMatchSubscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 11822,
+      "offset": 12171,
       "length": 52,
       "value": "\"scoreCenterFeedSystemSubscriptionAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 11981,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
-      "kind": "StringLiteral",
-      "offset": 12161,
+      "offset": 12401,
       "length": 39,
       "value": "\"fixtureSubscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 12420,
+      "offset": 12663,
       "length": 43,
       "value": "\"generalMatchSubscriptionAccessQueue.queue\""
     },
@@ -14893,63 +14851,63 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1275,
+      "offset": 1298,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 7379,
+      "offset": 7402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "Dictionary",
-      "offset": 10370,
+      "offset": 10393,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 17910,
+      "offset": 17933,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18139,
+      "offset": 18162,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18190,
+      "offset": 18213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18247,
+      "offset": 18270,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 23338,
+      "offset": 23361,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 27225,
+      "offset": 27248,
       "length": 4,
       "value": "true"
     },
@@ -17231,14 +17189,14 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/MQTTServiceTopic.swift",
       "kind": "StringLiteral",
-      "offset": 1966,
+      "offset": 1968,
       "length": 11,
       "value": "\"AWSword4U\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/MQTTServiceTopic.swift",
       "kind": "StringLiteral",
-      "offset": 2017,
+      "offset": 2019,
       "length": 1686,
       "value": "\"-----BEGIN RSA PRIVATE KEY-----\nMIIEpgIBAAKCAQEAsmO+MgiLBRikdTLXCy0cRdGI6\/Itz3onqIW1zjjXQFKMdGPa\n7JRzABfs4cSM9zehBh0bsK\/5R4vdRJR0tZr9GCg5sJL7UuNNbHiLTrUq5WlrOBIf\n47kV4gA6tT7ljv\/v3mc14hwvvvAoP97JrTTKQxA3dMbKvM7hhJDPRoHXfUoEXz4N\nb8q5sgQ3mEnl+bPEoXyyBQfE92vCtZ3BU6E76TAQSF6d262VXkxEUvd8L7m2c0E1\n9vzB0tWjSJI6+hpuhLvT54O9GCZrW62BT77UTbUm7Mj5e7tfNF3Wisze+gA2Ho\/R\nTXKI6Vo3W3us8lv27xvQ\/MCNIU1pbLLf+x+SIwIDAQABAoIBAQCVU8FGiLg2z+X6\n5U\/13xEnsLr5J4UJhKvl+eeydQpaob9JPr1oBOwvS9fTNYD7AOoeAAfJ48S8C2xx\nmAQKcW8j5ahFEwSm4fdRsaaLgEQkPhaunR1stuaGhMKgLcJj7gKRHbyRRh8Bqm9G\n5+vSvboCYXTKoA3d9x\/4pG+eCdqk2QYOzQQLvEoPZnG1jP681L8Z1t1imEDCR+zo\n26lhDALzOAll6CMgF0gRixlLS9CCHc6VARQ0Xlsjv8vchs9uOA3Qj\/UK0wbKTFge\n+Ck4OTZkbvaOPNjannBXIaM5ClKSA19fsSng050O74c5ARziePn5DAUdD5ve94Af\nhltmo1YBAoGBAOXUKLayiGBJWC3UMZLzvu8bq+4\/+gHQFvoXvynEMg2x0lxcI5bV\nPoPc+5LWsM4GDIbf1jCSHLQKmn\/8JFst0u0t+U5BG+E7xSLwyUSNs4CBHI9x9lZv\njAUAdwpVesXJ70uSyIVF8tMSkDdtgf9teiG5VWVucLAR2HUqU8L4lfZBAoGBAMa0\nDxKRlHOGDKpPRcFZAKGQY8eDxa2tH6o05BaFYrsD5Al1ZckltNJDDOLh4w\/7DrX5\nckH54+Hx\/brE516SEDxnU6PudHgkfVhElpZQbvilnaLcOSJsvvPQZ3fO5RLqHd0c\nb2SVhOjEC8R+21scqbP5xjRpkxMHkG8tasQGoZdjAoGBAKO2yXm7G2JbXLDoopen\nga8Z6xNAB3sbHALyv32lAHK45Lxd9gwPwwRzedFTlYZs0KeS8ySOMFwf4YahudQp\nhELnqNuRjaaXyQnms7hdqCw1zH5yE6PmubsmZaW61kXmXstat\/QXq62nX4vcOeoV\nthYnyykBzsvdKm\/rwtbz9P8BAoGBAKs0KyRxoLnkzvbS9KRB3mRWd1JJfEJHP1g0\n2C17YfUGxi1MJJYqUeE0el7mB\/EV\/LfYJJUqDSn5igepbjyylyCkWpGNfHaj4gfy\nmNkMloDQmcDgBK5fiiui7fNxpTgl1fNUc7nzhh\/UAtub\/b5ENQfn9tnj+R\/VTaIt\nPKeHmyVHAoGBAJI2gQWnQVbtKJBSLd8CrACr+qf0Z+BeiSM8aneATbvpmyT4UxgP\npiYLONQ\/nO6PHFQRKLQDmu9B+pUmnSAEBPclmyFx3mFl16FF\/HV7dBEIkhrF0efq\ns4SqsT49fVPOwvj2enT\/5hZU+pAJf6+pWraLQ1lFY60\/eQuR1Lho9gyo\n-----END RSA PRIVATE KEY-----\""
     },
@@ -18368,13 +18326,6 @@
       "offset": 17151,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/ITStatsAndScoresDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1109,
-      "length": 12,
-      "value": "\"externalId\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/ViewModifiers\/CalculateHeightView.swift",
@@ -19996,21 +19947,63 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 491,
+      "offset": 480,
+      "length": 81,
+      "value": "\"iOS_\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 49,
+      "value": "\"livegameupdate-i0p83o.a01.euc1.aws.hivemq.cloud\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 682,
+      "length": 6,
+      "value": "\"8883\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 700,
+      "length": 14,
+      "value": "\"liveStatsITS\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 726,
+      "length": 10,
+      "value": "\"K8!jr@5b\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
+      "kind": "StringLiteral",
+      "offset": 772,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 542,
+      "offset": 823,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 7704,
+      "offset": 8651,
       "length": 17,
       "value": "\"ITlocalizations\""
     },
