@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.98
+- 0.1.99
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -79,6 +79,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Initialization and Configuration:
 - [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
 - [x] ITConfiguration(userId: String, language: String, country: String)
+- [x] ITStatsAndScoresAccess.shared.updateFollowingAndReminders() (triggers ITFollowingAndRemindersDelegate getFollowingAndReminders delegate method)
 
 - [x] Delegates:
 - [x] ITNavigationBridgeDelegate:
@@ -123,9 +124,10 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForCompetitionLeagueStatsScreen(competitionId: String, competitionSeasonId: String? = nil, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForCompetitionPlayersStatsScreen(competitionId: String, competitionSeasonId: String? = nil, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 
-- [x] Stand alone Team Pages:
+- [x] LiteTeam Page:
 - [x] pushLiteTeamScreen(externalId: String, selectedTab: LiteTeamInfo, in viewController: UIViewController? = nil)
 - [x] presentLiteTeamScreen(externalId: String, selectedTab: LiteTeamInfo, in viewController: UIViewController? = nil)
+- [x] Stand alone Team Pages:
 - [x] presentTeamMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentTeamOverviewScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentTeamTableScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
@@ -194,7 +196,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.98)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.1.99)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package

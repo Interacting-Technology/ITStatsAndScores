@@ -93,6 +93,7 @@ public enum LiteCompetitionInfo {
     set
   }
   public func configure(with configuration: ITStatsAndScores.ITConfiguration)
+  public func updateFollowingAndReminders()
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {

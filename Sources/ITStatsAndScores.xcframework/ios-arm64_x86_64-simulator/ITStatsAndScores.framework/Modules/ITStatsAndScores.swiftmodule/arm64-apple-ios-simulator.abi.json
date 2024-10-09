@@ -2629,6 +2629,26 @@
           },
           {
             "kind": "Function",
+            "name": "updateFollowingAndReminders",
+            "printedName": "updateFollowingAndReminders()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC015updateFollowingB9RemindersyyF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC015updateFollowingB9RemindersyyF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "pushLiteTeamScreen",
             "printedName": "pushLiteTeamScreen(externalId:selectedTab:in:)",
             "children": [
@@ -13227,35 +13247,35 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "Array",
-      "offset": 7753,
+      "offset": 7745,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 11867,
+      "offset": 11859,
       "length": 52,
       "value": "\"scoreCenterFeedMatchSubscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 12171,
+      "offset": 12163,
       "length": 52,
       "value": "\"scoreCenterFeedSystemSubscriptionAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 12401,
+      "offset": 12393,
       "length": 39,
       "value": "\"fixtureSubscriptionsAccessQueue.queue\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/NewMQTTNIOService.swift",
       "kind": "StringLiteral",
-      "offset": 12663,
+      "offset": 12655,
       "length": 43,
       "value": "\"generalMatchSubscriptionAccessQueue.queue\""
     },
@@ -15348,42 +15368,42 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 17933,
+      "offset": 18150,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18162,
+      "offset": 18379,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18213,
+      "offset": 18430,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 18270,
+      "offset": 18487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 23361,
+      "offset": 23578,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/MatchesProviders\/ScoreCenterFeedMatchesProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 27248,
+      "offset": 27465,
       "length": 4,
       "value": "true"
     },
@@ -17700,14 +17720,14 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/MQTTServiceTopic.swift",
       "kind": "StringLiteral",
-      "offset": 1968,
+      "offset": 2185,
       "length": 11,
       "value": "\"AWSword4U\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/MQTT\/MQTTService\/MQTTServiceTopic.swift",
       "kind": "StringLiteral",
-      "offset": 2019,
+      "offset": 2236,
       "length": 1686,
       "value": "\"-----BEGIN RSA PRIVATE KEY-----\nMIIEpgIBAAKCAQEAsmO+MgiLBRikdTLXCy0cRdGI6\/Itz3onqIW1zjjXQFKMdGPa\n7JRzABfs4cSM9zehBh0bsK\/5R4vdRJR0tZr9GCg5sJL7UuNNbHiLTrUq5WlrOBIf\n47kV4gA6tT7ljv\/v3mc14hwvvvAoP97JrTTKQxA3dMbKvM7hhJDPRoHXfUoEXz4N\nb8q5sgQ3mEnl+bPEoXyyBQfE92vCtZ3BU6E76TAQSF6d262VXkxEUvd8L7m2c0E1\n9vzB0tWjSJI6+hpuhLvT54O9GCZrW62BT77UTbUm7Mj5e7tfNF3Wisze+gA2Ho\/R\nTXKI6Vo3W3us8lv27xvQ\/MCNIU1pbLLf+x+SIwIDAQABAoIBAQCVU8FGiLg2z+X6\n5U\/13xEnsLr5J4UJhKvl+eeydQpaob9JPr1oBOwvS9fTNYD7AOoeAAfJ48S8C2xx\nmAQKcW8j5ahFEwSm4fdRsaaLgEQkPhaunR1stuaGhMKgLcJj7gKRHbyRRh8Bqm9G\n5+vSvboCYXTKoA3d9x\/4pG+eCdqk2QYOzQQLvEoPZnG1jP681L8Z1t1imEDCR+zo\n26lhDALzOAll6CMgF0gRixlLS9CCHc6VARQ0Xlsjv8vchs9uOA3Qj\/UK0wbKTFge\n+Ck4OTZkbvaOPNjannBXIaM5ClKSA19fsSng050O74c5ARziePn5DAUdD5ve94Af\nhltmo1YBAoGBAOXUKLayiGBJWC3UMZLzvu8bq+4\/+gHQFvoXvynEMg2x0lxcI5bV\nPoPc+5LWsM4GDIbf1jCSHLQKmn\/8JFst0u0t+U5BG+E7xSLwyUSNs4CBHI9x9lZv\njAUAdwpVesXJ70uSyIVF8tMSkDdtgf9teiG5VWVucLAR2HUqU8L4lfZBAoGBAMa0\nDxKRlHOGDKpPRcFZAKGQY8eDxa2tH6o05BaFYrsD5Al1ZckltNJDDOLh4w\/7DrX5\nckH54+Hx\/brE516SEDxnU6PudHgkfVhElpZQbvilnaLcOSJsvvPQZ3fO5RLqHd0c\nb2SVhOjEC8R+21scqbP5xjRpkxMHkG8tasQGoZdjAoGBAKO2yXm7G2JbXLDoopen\nga8Z6xNAB3sbHALyv32lAHK45Lxd9gwPwwRzedFTlYZs0KeS8ySOMFwf4YahudQp\nhELnqNuRjaaXyQnms7hdqCw1zH5yE6PmubsmZaW61kXmXstat\/QXq62nX4vcOeoV\nthYnyykBzsvdKm\/rwtbz9P8BAoGBAKs0KyRxoLnkzvbS9KRB3mRWd1JJfEJHP1g0\n2C17YfUGxi1MJJYqUeE0el7mB\/EV\/LfYJJUqDSn5igepbjyylyCkWpGNfHaj4gfy\nmNkMloDQmcDgBK5fiiui7fNxpTgl1fNUc7nzhh\/UAtub\/b5ENQfn9tnj+R\/VTaIt\nPKeHmyVHAoGBAJI2gQWnQVbtKJBSLd8CrACr+qf0Z+BeiSM8aneATbvpmyT4UxgP\npiYLONQ\/nO6PHFQRKLQDmu9B+pUmnSAEBPclmyFx3mFl16FF\/HV7dBEIkhrF0efq\ns4SqsT49fVPOwvj2enT\/5hZU+pAJf6+pWraLQ1lFY60\/eQuR1Lho9gyo\n-----END RSA PRIVATE KEY-----\""
     },
