@@ -209,7 +209,7 @@ public protocol ITFollowingAndRemindersDelegate {
   func setFollowButtonTappedFor(id: Swift.String, sourceName: Swift.String?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
-  func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType)
+  func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType, navigationController: UIKit.UINavigationController?)
 }
 public enum ITNavigationType : Swift.String {
   case fixture
