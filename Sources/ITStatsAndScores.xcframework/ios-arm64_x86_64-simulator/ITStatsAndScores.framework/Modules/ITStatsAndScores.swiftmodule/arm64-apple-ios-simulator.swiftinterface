@@ -110,7 +110,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForHead2HeadScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForHead2HeadScreen(fixtureId: Swift.String, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentHead2HeadScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
@@ -164,7 +164,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionMatchesScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
@@ -193,7 +193,7 @@ public enum LiteTeamInfo : Swift.Int {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamOverviewScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForTeamOverviewScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForTeamOverviewScreen(contestantId: Swift.String, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamOverviewScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
@@ -273,7 +273,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamMatchesScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForTeamMatchesScreen(contestantId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForTeamMatchesScreen(contestantId: Swift.String, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentTeamMatchesScreenView(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable

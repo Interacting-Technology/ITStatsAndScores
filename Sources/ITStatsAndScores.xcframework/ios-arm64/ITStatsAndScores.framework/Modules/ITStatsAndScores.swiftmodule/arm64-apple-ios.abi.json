@@ -3558,7 +3558,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForHead2HeadScreen",
-            "printedName": "getUIViewForHead2HeadScreen(fixtureId:contentHeight:)",
+            "printedName": "getUIViewForHead2HeadScreen(fixtureId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3571,6 +3571,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
               },
               {
                 "kind": "TypeFunc",
@@ -3592,8 +3598,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureId13contentHeightSo0F0CSS_y14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureId13contentHeightSo0F0CSS_y12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC27getUIViewForHead2HeadScreen9fixtureId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -4018,7 +4024,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForCompetitionMatchesScreen",
-            "printedName": "getUIViewForCompetitionMatchesScreen(competitionId:competitionSeasonId:contentHeight:)",
+            "printedName": "getUIViewForCompetitionMatchesScreen(competitionId:competitionSeasonId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4048,6 +4054,12 @@
                 "usr": "s:Sq"
               },
               {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -4067,8 +4079,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC36getUIViewForCompetitionMatchesScreen13competitionId0k6SeasonL013contentHeightSo0F0CSS_SSSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC36getUIViewForCompetitionMatchesScreen13competitionId0k6SeasonL013contentHeightSo0F0CSS_SSSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC36getUIViewForCompetitionMatchesScreen13competitionId0k6SeasonL020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationO0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC36getUIViewForCompetitionMatchesScreen13competitionId0k6SeasonL020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationO0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -4378,7 +4390,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForTeamOverviewScreen",
-            "printedName": "getUIViewForTeamOverviewScreen(contestantId:contentHeight:)",
+            "printedName": "getUIViewForTeamOverviewScreen(contestantId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4391,6 +4403,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
               },
               {
                 "kind": "TypeFunc",
@@ -4412,8 +4430,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC30getUIViewForTeamOverviewScreen12contestantId13contentHeightSo0F0CSS_y14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC30getUIViewForTeamOverviewScreen12contestantId13contentHeightSo0F0CSS_y12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC30getUIViewForTeamOverviewScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC30getUIViewForTeamOverviewScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -5293,7 +5311,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForTeamMatchesScreen",
-            "printedName": "getUIViewForTeamMatchesScreen(contestantId:contentHeight:)",
+            "printedName": "getUIViewForTeamMatchesScreen(contestantId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5306,6 +5324,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
               },
               {
                 "kind": "TypeFunc",
@@ -5327,8 +5351,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC29getUIViewForTeamMatchesScreen12contestantId13contentHeightSo0F0CSS_y14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC29getUIViewForTeamMatchesScreen12contestantId13contentHeightSo0F0CSS_y12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC29getUIViewForTeamMatchesScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC29getUIViewForTeamMatchesScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationN0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
