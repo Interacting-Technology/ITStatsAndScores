@@ -86,7 +86,10 @@ public enum LiteCompetitionInfo {
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
   public var navigationDelegate: (any ITStatsAndScores.ITNavigationBridgeDelegate)?
-  public var followingAndRemindersDelegate: (any ITStatsAndScores.ITFollowingAndRemindersDelegate)?
+  public var followingAndRemindersDelegate: (any ITStatsAndScores.ITFollowingAndRemindersDelegate)? {
+    get
+    set
+  }
   public var analyticsDelegate: (any ITStatsAndScores.ITAnalyticsDelegate)?
   public var disableLogs: Swift.Bool {
     get
