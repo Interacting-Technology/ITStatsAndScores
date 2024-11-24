@@ -289,6 +289,83 @@
             "moduleName": "ITStatsAndScores"
           },
           {
+            "kind": "Var",
+            "name": "page_load",
+            "printedName": "page_load",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.AnalyticsEvent.Type) -> ITStatsAndScores.AnalyticsEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnalyticsEvent",
+                    "printedName": "ITStatsAndScores.AnalyticsEvent",
+                    "usr": "s:16ITStatsAndScores14AnalyticsEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.AnalyticsEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnalyticsEvent",
+                        "printedName": "ITStatsAndScores.AnalyticsEvent",
+                        "usr": "s:16ITStatsAndScores14AnalyticsEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores14AnalyticsEventO9page_loadyA2CmF",
+            "mangledName": "$s16ITStatsAndScores14AnalyticsEventO9page_loadyA2CmF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "user_Interaction",
+            "printedName": "user_Interaction",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.AnalyticsEvent.Type) -> ITStatsAndScores.AnalyticsEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnalyticsEvent",
+                    "printedName": "ITStatsAndScores.AnalyticsEvent",
+                    "usr": "s:16ITStatsAndScores14AnalyticsEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.AnalyticsEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnalyticsEvent",
+                        "printedName": "ITStatsAndScores.AnalyticsEvent",
+                        "usr": "s:16ITStatsAndScores14AnalyticsEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores14AnalyticsEventO16user_InteractionyA2CmF",
+            "mangledName": "$s16ITStatsAndScores14AnalyticsEventO16user_InteractionyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -5538,8 +5615,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MixpanAnalyticsEvent",
-        "printedName": "MixpanAnalyticsEvent",
+        "name": "OldAnalyticsEvent",
+        "printedName": "OldAnalyticsEvent",
         "children": [
           {
             "kind": "Var",
@@ -5549,24 +5626,24 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(ITStatsAndScores.MixpanAnalyticsEvent.Type) -> ITStatsAndScores.MixpanAnalyticsEvent",
+                "printedName": "(ITStatsAndScores.OldAnalyticsEvent.Type) -> ITStatsAndScores.OldAnalyticsEvent",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "MixpanAnalyticsEvent",
-                    "printedName": "ITStatsAndScores.MixpanAnalyticsEvent",
-                    "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO"
+                    "name": "OldAnalyticsEvent",
+                    "printedName": "ITStatsAndScores.OldAnalyticsEvent",
+                    "usr": "s:16ITStatsAndScores17OldAnalyticsEventO"
                   },
                   {
                     "kind": "TypeNominal",
                     "name": "Metatype",
-                    "printedName": "ITStatsAndScores.MixpanAnalyticsEvent.Type",
+                    "printedName": "ITStatsAndScores.OldAnalyticsEvent.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "MixpanAnalyticsEvent",
-                        "printedName": "ITStatsAndScores.MixpanAnalyticsEvent",
-                        "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO"
+                        "name": "OldAnalyticsEvent",
+                        "printedName": "ITStatsAndScores.OldAnalyticsEvent",
+                        "usr": "s:16ITStatsAndScores17OldAnalyticsEventO"
                       }
                     ]
                   }
@@ -5574,8 +5651,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO9page_loadyA2CmF",
-            "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO9page_loadyA2CmF",
+            "usr": "s:16ITStatsAndScores17OldAnalyticsEventO9page_loadyA2CmF",
+            "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO9page_loadyA2CmF",
             "moduleName": "ITStatsAndScores"
           },
           {
@@ -5586,24 +5663,24 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(ITStatsAndScores.MixpanAnalyticsEvent.Type) -> ITStatsAndScores.MixpanAnalyticsEvent",
+                "printedName": "(ITStatsAndScores.OldAnalyticsEvent.Type) -> ITStatsAndScores.OldAnalyticsEvent",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "MixpanAnalyticsEvent",
-                    "printedName": "ITStatsAndScores.MixpanAnalyticsEvent",
-                    "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO"
+                    "name": "OldAnalyticsEvent",
+                    "printedName": "ITStatsAndScores.OldAnalyticsEvent",
+                    "usr": "s:16ITStatsAndScores17OldAnalyticsEventO"
                   },
                   {
                     "kind": "TypeNominal",
                     "name": "Metatype",
-                    "printedName": "ITStatsAndScores.MixpanAnalyticsEvent.Type",
+                    "printedName": "ITStatsAndScores.OldAnalyticsEvent.Type",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "MixpanAnalyticsEvent",
-                        "printedName": "ITStatsAndScores.MixpanAnalyticsEvent",
-                        "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO"
+                        "name": "OldAnalyticsEvent",
+                        "printedName": "ITStatsAndScores.OldAnalyticsEvent",
+                        "usr": "s:16ITStatsAndScores17OldAnalyticsEventO"
                       }
                     ]
                   }
@@ -5611,8 +5688,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO16user_InteractionyA2CmF",
-            "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO16user_InteractionyA2CmF",
+            "usr": "s:16ITStatsAndScores17OldAnalyticsEventO16user_InteractionyA2CmF",
+            "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO16user_InteractionyA2CmF",
             "moduleName": "ITStatsAndScores"
           },
           {
@@ -5623,13 +5700,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "ITStatsAndScores.MixpanAnalyticsEvent?",
+                "printedName": "ITStatsAndScores.OldAnalyticsEvent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "MixpanAnalyticsEvent",
-                    "printedName": "ITStatsAndScores.MixpanAnalyticsEvent",
-                    "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO"
+                    "name": "OldAnalyticsEvent",
+                    "printedName": "ITStatsAndScores.OldAnalyticsEvent",
+                    "usr": "s:16ITStatsAndScores17OldAnalyticsEventO"
                   }
                 ],
                 "usr": "s:Sq"
@@ -5642,8 +5719,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO8rawValueACSgSS_tcfc",
-            "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO8rawValueACSgSS_tcfc",
+            "usr": "s:16ITStatsAndScores17OldAnalyticsEventO8rawValueACSgSS_tcfc",
+            "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO8rawValueACSgSS_tcfc",
             "moduleName": "ITStatsAndScores",
             "implicit": true,
             "init_kind": "Designated"
@@ -5661,8 +5738,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO8rawValueSSvp",
-            "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO8rawValueSSvp",
+            "usr": "s:16ITStatsAndScores17OldAnalyticsEventO8rawValueSSvp",
+            "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO8rawValueSSvp",
             "moduleName": "ITStatsAndScores",
             "implicit": true,
             "accessors": [
@@ -5679,8 +5756,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO8rawValueSSvg",
-                "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO8rawValueSSvg",
+                "usr": "s:16ITStatsAndScores17OldAnalyticsEventO8rawValueSSvg",
+                "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO8rawValueSSvg",
                 "moduleName": "ITStatsAndScores",
                 "implicit": true,
                 "accessorKind": "get"
@@ -5689,8 +5766,8 @@
           }
         ],
         "declKind": "Enum",
-        "usr": "s:16ITStatsAndScores20MixpanAnalyticsEventO",
-        "mangledName": "$s16ITStatsAndScores20MixpanAnalyticsEventO",
+        "usr": "s:16ITStatsAndScores17OldAnalyticsEventO",
+        "mangledName": "$s16ITStatsAndScores17OldAnalyticsEventO",
         "moduleName": "ITStatsAndScores",
         "declAttributes": [
           "AccessControl"
@@ -6765,13 +6842,6 @@
         "kind": "Import",
         "name": "Combine",
         "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "ITStatsAndScores"
       },
@@ -11365,378 +11435,308 @@
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 5022,
-      "length": 11,
-      "value": "\"page view\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5065,
-      "length": 14,
-      "value": "\"filter click\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5117,
-      "length": 20,
-      "value": "\"competition filter\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5655,
-      "length": 19,
-      "value": "\"banner impression\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5707,
-      "length": 16,
-      "value": "\"no live events\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 7230,
+      "offset": 6269,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7291,
+      "offset": 6330,
       "length": 8,
       "value": "\"Monday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7353,
+      "offset": 6392,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7418,
+      "offset": 6457,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7484,
+      "offset": 6523,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7547,
+      "offset": 6586,
       "length": 8,
       "value": "\"Friday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7610,
+      "offset": 6649,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7230,
+      "offset": 6269,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7291,
+      "offset": 6330,
       "length": 8,
       "value": "\"Monday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7353,
+      "offset": 6392,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7418,
+      "offset": 6457,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7484,
+      "offset": 6523,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7547,
+      "offset": 6586,
       "length": 8,
       "value": "\"Friday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 7610,
+      "offset": 6649,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8585,
+      "offset": 7624,
       "length": 5,
       "value": "\"H2H\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8622,
+      "offset": 7661,
       "length": 9,
       "value": "\"Lineups\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8666,
+      "offset": 7705,
       "length": 12,
       "value": "\"Commentary\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8708,
+      "offset": 7747,
       "length": 7,
       "value": "\"Stats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8585,
+      "offset": 7624,
       "length": 5,
       "value": "\"H2H\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8622,
+      "offset": 7661,
       "length": 9,
       "value": "\"Lineups\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8666,
+      "offset": 7705,
       "length": 12,
       "value": "\"Commentary\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8708,
+      "offset": 7747,
       "length": 7,
       "value": "\"Stats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8826,
+      "offset": 7865,
       "length": 9,
       "value": "\"matches\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8865,
+      "offset": 7904,
       "length": 7,
       "value": "\"table\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8908,
+      "offset": 7947,
       "length": 13,
       "value": "\"leaguestats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8957,
+      "offset": 7996,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8826,
+      "offset": 7865,
       "length": 9,
       "value": "\"matches\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8865,
+      "offset": 7904,
       "length": 7,
       "value": "\"table\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8908,
+      "offset": 7947,
       "length": 13,
       "value": "\"leaguestats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 8957,
+      "offset": 7996,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9074,
+      "offset": 8113,
       "length": 9,
       "value": "\"matches\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9116,
+      "offset": 8155,
       "length": 10,
       "value": "\"overview\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9156,
+      "offset": 8195,
       "length": 7,
       "value": "\"table\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9193,
+      "offset": 8232,
       "length": 7,
       "value": "\"squad\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9234,
+      "offset": 8273,
       "length": 11,
       "value": "\"teamstats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9282,
+      "offset": 8321,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9074,
+      "offset": 8113,
       "length": 9,
       "value": "\"matches\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9116,
+      "offset": 8155,
       "length": 10,
       "value": "\"overview\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9156,
+      "offset": 8195,
       "length": 7,
       "value": "\"table\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9193,
+      "offset": 8232,
       "length": 7,
       "value": "\"squad\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9234,
+      "offset": 8273,
       "length": 11,
       "value": "\"teamstats\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 9282,
+      "offset": 8321,
       "length": 13,
       "value": "\"playerstats\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5022,
-      "length": 11,
-      "value": "\"page view\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5065,
-      "length": 14,
-      "value": "\"filter click\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5117,
-      "length": 20,
-      "value": "\"competition filter\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5655,
-      "length": 19,
-      "value": "\"banner impression\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
-      "kind": "StringLiteral",
-      "offset": 5707,
-      "length": 16,
-      "value": "\"no live events\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "Array",
-      "offset": 10695,
+      "offset": 9734,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/Analytics.swift",
       "kind": "IntegerLiteral",
-      "offset": 10785,
+      "offset": 9824,
       "length": 1,
       "value": "0"
     },
@@ -13883,296 +13883,296 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5832,
+      "offset": 6084,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5893,
+      "offset": 6145,
       "length": 8,
       "value": "\"Monday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5955,
+      "offset": 6207,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6020,
+      "offset": 6272,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6086,
+      "offset": 6338,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6149,
+      "offset": 6401,
       "length": 8,
       "value": "\"Friday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6212,
+      "offset": 6464,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5832,
+      "offset": 6084,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5893,
+      "offset": 6145,
       "length": 8,
       "value": "\"Monday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 5955,
+      "offset": 6207,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6020,
+      "offset": 6272,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6086,
+      "offset": 6338,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6149,
+      "offset": 6401,
       "length": 8,
       "value": "\"Friday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 6212,
+      "offset": 6464,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7187,
+      "offset": 7439,
       "length": 5,
       "value": "\"H2H\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7224,
+      "offset": 7476,
       "length": 9,
       "value": "\"Lineups\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7268,
+      "offset": 7520,
       "length": 12,
       "value": "\"Commentary\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7310,
+      "offset": 7562,
       "length": 7,
       "value": "\"Stats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7187,
+      "offset": 7439,
       "length": 5,
       "value": "\"H2H\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7224,
+      "offset": 7476,
       "length": 9,
       "value": "\"Lineups\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7268,
+      "offset": 7520,
       "length": 12,
       "value": "\"Commentary\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7310,
+      "offset": 7562,
       "length": 7,
       "value": "\"Stats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7428,
+      "offset": 7680,
       "length": 9,
       "value": "\"matches\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7467,
+      "offset": 7719,
       "length": 7,
       "value": "\"table\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7510,
+      "offset": 7762,
       "length": 13,
       "value": "\"leaguestats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7559,
+      "offset": 7811,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7428,
+      "offset": 7680,
       "length": 9,
       "value": "\"matches\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7467,
+      "offset": 7719,
       "length": 7,
       "value": "\"table\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7510,
+      "offset": 7762,
       "length": 13,
       "value": "\"leaguestats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7559,
+      "offset": 7811,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7676,
+      "offset": 7928,
       "length": 9,
       "value": "\"matches\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7718,
+      "offset": 7970,
       "length": 10,
       "value": "\"overview\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7758,
+      "offset": 8010,
       "length": 7,
       "value": "\"table\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7795,
+      "offset": 8047,
       "length": 7,
       "value": "\"squad\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7836,
+      "offset": 8088,
       "length": 11,
       "value": "\"teamstats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7884,
+      "offset": 8136,
       "length": 13,
       "value": "\"playerstats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7676,
+      "offset": 7928,
       "length": 9,
       "value": "\"matches\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7718,
+      "offset": 7970,
       "length": 10,
       "value": "\"overview\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7758,
+      "offset": 8010,
       "length": 7,
       "value": "\"table\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7795,
+      "offset": 8047,
       "length": 7,
       "value": "\"squad\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7836,
+      "offset": 8088,
       "length": 11,
       "value": "\"teamstats\""
     },
     {
-      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/MixpanAnalytics.swift",
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/OldAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 7884,
+      "offset": 8136,
       "length": 13,
       "value": "\"playerstats\""
     },
@@ -18042,29 +18042,36 @@
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 451,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 611,
+      "offset": 673,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 670,
+      "offset": 732,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 719,
+      "offset": 781,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 768,
+      "offset": 830,
       "length": 5,
       "value": "false"
     },
@@ -30448,104 +30455,111 @@
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12755,
+      "length": 31,
+      "value": "\"suggestedFollowingMobileFrame\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12954,
       "length": 32,
       "value": "\"suggestedFollowingMobile_us_en\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12922,
+      "offset": 13121,
       "length": 15,
       "value": "\"ui_actionMenu\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13068,
+      "offset": 13267,
       "length": 13,
       "value": "\"ui_calendar\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13226,
+      "offset": 13425,
       "length": 20,
       "value": "\"ui_circleBackArrow\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13387,
+      "offset": 13586,
       "length": 18,
       "value": "\"ui_circleUpArrow\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13532,
+      "offset": 13731,
       "length": 11,
       "value": "\"ui_filter\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13666,
+      "offset": 13865,
       "length": 9,
       "value": "\"ui_info\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13820,
+      "offset": 14019,
       "length": 20,
       "value": "\"ui_magnifyingGlass\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13965,
+      "offset": 14164,
       "length": 10,
       "value": "\"ui_share\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14098,
+      "offset": 14297,
       "length": 9,
       "value": "\"ui_star\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14265,
+      "offset": 14464,
       "length": 26,
       "value": "\"varVideoAssistantReferee\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14413,
+      "offset": 14612,
       "length": 8,
       "value": "\"xClose\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14558,
+      "offset": 14757,
       "length": 16,
       "value": "\"xDelete_active\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14715,
+      "offset": 14914,
       "length": 18,
       "value": "\"xDelete_inactive\""
     },
     {
       "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/ITStatsAndScores-dchxyndynjrotleqbjolsauatfdb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ITStatsAndScores\/IntermediateBuildFilesPath\/ITStatsAndScores.build\/Release-iphoneos\/ITStatsAndScores.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14863,
+      "offset": 15062,
       "length": 12,
       "value": "\"yellowCard\""
     }

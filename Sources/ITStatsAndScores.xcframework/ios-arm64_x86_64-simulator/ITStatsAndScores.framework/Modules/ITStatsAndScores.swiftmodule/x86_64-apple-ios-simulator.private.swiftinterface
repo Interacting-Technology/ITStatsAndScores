@@ -29,6 +29,8 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 public enum AnalyticsEvent : Swift.String {
   case statsandscore_interaction
+  case page_load
+  case user_Interaction
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -98,7 +100,7 @@ public enum LiteCompetitionInfo {
   public func updateFollowingAndReminders()
   @objc deinit
 }
-public enum MixpanAnalyticsEvent : Swift.String {
+public enum OldAnalyticsEvent : Swift.String {
   case page_load
   case user_Interaction
   public init?(rawValue: Swift.String)
@@ -301,9 +303,9 @@ extension ITStatsAndScores.LiteFixtureTab : Swift.Equatable {}
 extension ITStatsAndScores.LiteFixtureTab : Swift.Hashable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
-extension ITStatsAndScores.MixpanAnalyticsEvent : Swift.Equatable {}
-extension ITStatsAndScores.MixpanAnalyticsEvent : Swift.Hashable {}
-extension ITStatsAndScores.MixpanAnalyticsEvent : Swift.RawRepresentable {}
+extension ITStatsAndScores.OldAnalyticsEvent : Swift.Equatable {}
+extension ITStatsAndScores.OldAnalyticsEvent : Swift.Hashable {}
+extension ITStatsAndScores.OldAnalyticsEvent : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Hashable {}
