@@ -8388,7 +8388,7 @@
           {
             "kind": "Function",
             "name": "setFollowButtonTappedFor",
-            "printedName": "setFollowButtonTappedFor(id:sourceName:followType:setFollowTurnOn:)",
+            "printedName": "setFollowButtonTappedFor(id:sourceName:hideBottomSheet:followType:setFollowTurnOn:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8411,6 +8411,20 @@
                     "name": "String",
                     "printedName": "Swift.String",
                     "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
                   }
                 ],
                 "usr": "s:Sq"
@@ -8441,8 +8455,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName10followType0gH6TurnOnySS_SSSgAA08ITFollowP0OySbctF",
-            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName10followType0gH6TurnOnySS_SSSgAA08ITFollowP0OySbctF",
+            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName15hideBottomSheet10followType0gH6TurnOnySS_SSSgSbSgAA08ITFollowS0OySbctF",
+            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName15hideBottomSheet10followType0gH6TurnOnySS_SSSgSbSgAA08ITFollowS0OySbctF",
             "moduleName": "ITStatsAndScores",
             "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
             "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
