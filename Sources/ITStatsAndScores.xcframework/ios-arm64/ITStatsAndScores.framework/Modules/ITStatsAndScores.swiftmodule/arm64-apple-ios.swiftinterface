@@ -109,6 +109,12 @@ public enum OldAnalyticsEvent : Swift.String {
     get
   }
 }
+public struct PublicDebugService {
+  public static var toastMessage: Combine.PassthroughSubject<Swift.String, Swift.Never>
+  public static var lastEnteredLiteFixtueExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
+  public static var lastEnteredCompetitionSeasonId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
+  public static var lastEnteredTeamExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
+}
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentLiveUpdatesScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
   public func getUIViewForLiveUpdatesScreen(fixtureId: Swift.String, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		dBTwjXubpuwaNhXQL4DmzvZMhRo=
+		zzSKWYJZ9ULo85nZCh+KgqSmgtQ=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vAeIgrMo8E5PW+4KN9+nlqWeFig=
+		775f7W2TEJIve4+7Fon4T/YmT6M=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		EfJC3YH8nQe5OgUhevGUzBj5g3M=
+		j9iy6jNqaov7EMoyz+z/x3FTqdc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EfJC3YH8nQe5OgUhevGUzBj5g3M=
+		j9iy6jNqaov7EMoyz+z/x3FTqdc=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PxGKnJ2k641XNjopplk1qYwDpBg=
+		HYt2I2V0hE4hWSU0gVXFJ3arcDg=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vAeIgrMo8E5PW+4KN9+nlqWeFig=
+		775f7W2TEJIve4+7Fon4T/YmT6M=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+mM8VE9Pb81Rb8aZ8HPAyU0mQSg=
+		nxOk0Wq4eECzSVrTWYDmIumh/ao=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+mM8VE9Pb81Rb8aZ8HPAyU0mQSg=
+		nxOk0Wq4eECzSVrTWYDmIumh/ao=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+lOZ+mR5iy8T+hwLNWnlVTSjkqU=
+		U4R22Gmk6yWGICjERdEan5fHjBA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,10 +91,6 @@
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
 		6PyG/Sn5jh81qqGDYJ701GSxHBw=
-		</data>
-		<key>awsiot-identity.p12</key>
-		<data>
-		7whTsXSUO1atelT7VNfJnO4nJOY=
 		</data>
 		<key>days_local.json</key>
 		<data>
@@ -107,14 +103,6 @@
 		<key>match.json</key>
 		<data>
 		NrAIdwZe0dygSRcVcUZ3wum86s0=
-		</data>
-		<key>private_Amazon-Root-CA-1.der</key>
-		<data>
-		jaf5Zexe/DeRDxxuWf3BzGpu3hY=
-		</data>
-		<key>public_device.der</key>
-		<data>
-		4+kqwQpg7BPdl9wbgmw8xjPIHJ8=
 		</data>
 		<key>scores.json</key>
 		<data>
@@ -139,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WlJHAZFRT+FWTIPvHjBggH/wPncpuEjUnSs6I+PxUaA=
+			8IBs1W6AcgD+l3/W7gMDZl5i8gx+OzAMnn+Q1J3RdlA=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -202,14 +190,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SMEFsu/eH36iGBfss3DSGOZFj00Zl3MKZ6nDLRWeoEI=
+			AU15Ew82lJXeeTVrkWCkwo8o1s+3Jxd3BNNafxpUa8s=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MY4k92Fs1Zm2x+otUH8cDdWFcBGphFvhJqfn8udXOk=
+			22Fuw0cToyo2zyoQWQ9cOO5H6KF/L/7dZCYz6ZElMks=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -223,28 +211,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MY4k92Fs1Zm2x+otUH8cDdWFcBGphFvhJqfn8udXOk=
+			22Fuw0cToyo2zyoQWQ9cOO5H6KF/L/7dZCYz6ZElMks=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O5Jo4uEPH7Z0QAKWgrmb9+bpnKRYbq00BXsUyOLqIJ8=
+			iCI9nyLl3HYufjeVx7L221F9NrBI29K12PTxwRak8FE=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SMEFsu/eH36iGBfss3DSGOZFj00Zl3MKZ6nDLRWeoEI=
+			AU15Ew82lJXeeTVrkWCkwo8o1s+3Jxd3BNNafxpUa8s=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zs2hD3M0DSFI8wly2afdlqv5wHVZspGZaWmAUg8qlPU=
+			ruPtfWqZkn7k5EgPelVKDjUk2kuonuEn+yY1tCd1SEc=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -258,14 +246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zs2hD3M0DSFI8wly2afdlqv5wHVZspGZaWmAUg8qlPU=
+			ruPtfWqZkn7k5EgPelVKDjUk2kuonuEn+yY1tCd1SEc=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DLsE6hvQsacAydfrjrQNO7P+5q0PK3joMWvHEOzNTB8=
+			4NQS1Jo5+e4Z2q0zP940RXVxSksT5WU/1tnJMKk5R2U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -280,13 +268,6 @@
 			<key>hash2</key>
 			<data>
 			3I1+H5p9p/M4HzB0a1kgbuYs4iW2n+O8u2YjT4RZvjU=
-			</data>
-		</dict>
-		<key>awsiot-identity.p12</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			apd6rJ1n2V/5pt9h89J1Z/4ErBjvIJY2F6cNGU/Ih+M=
 			</data>
 		</dict>
 		<key>days_local.json</key>
@@ -308,20 +289,6 @@
 			<key>hash2</key>
 			<data>
 			rnURM5//FBqDPp92tgPp/ZSibfT9MyEU8reMVdySoNg=
-			</data>
-		</dict>
-		<key>private_Amazon-Root-CA-1.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			js3miE89h7ESW6Maw/yxPXAW3n9XzJBP4cuXxq6YGW4=
-			</data>
-		</dict>
-		<key>public_device.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			W3rO7SYNMIp4W3Y/TSsuOYF8ky3/O+be7oAlcFvcGDA=
 			</data>
 		</dict>
 		<key>scores.json</key>
