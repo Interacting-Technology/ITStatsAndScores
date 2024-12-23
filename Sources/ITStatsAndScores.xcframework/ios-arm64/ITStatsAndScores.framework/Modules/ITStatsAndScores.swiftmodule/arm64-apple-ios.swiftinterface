@@ -223,9 +223,10 @@ extension UIKit.UIWindow {
 }
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {
-  func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString) -> ())
-  func setReminderButtonTappedFor(fixtureId: Swift.String, sourceName: Swift.String?, setReminderTurnOn: @escaping (Swift.Bool) -> ())
-  func setFollowButtonTappedFor(id: Swift.String, sourceName: Swift.String?, hideBottomSheet: Swift.Bool?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool) -> ())
+  func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString, (any Swift.Error)?) -> ())
+  func setReminderButtonTappedFor(fixtureId: Swift.String, sourceName: Swift.String?, reminderOn: Swift.Bool, setReminderTurnOn: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
+  func setFollowButtonTappedFor(id: Swift.String, sourceName: Swift.String?, isFollow: Swift.Bool, hideBottomSheet: Swift.Bool?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
+  func updateFollows(updatedFollowJSON: Swift.String, completion: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
   func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType, navigationController: UIKit.UINavigationController?)

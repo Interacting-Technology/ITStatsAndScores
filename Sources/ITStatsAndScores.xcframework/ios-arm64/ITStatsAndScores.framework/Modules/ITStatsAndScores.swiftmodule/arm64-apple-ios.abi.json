@@ -8782,7 +8782,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.String) -> ()",
+                "printedName": "(Swift.String, (any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -8791,16 +8791,37 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Tuple",
+                    "printedName": "(Swift.String, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP012getFollowingbE017followingListJSONyySSc_tF",
-            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP012getFollowingbE017followingListJSONyySSc_tF",
+            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP012getFollowingbE017followingListJSONyySS_s5Error_pSgtc_tF",
+            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP012getFollowingbE017followingListJSONyySS_s5Error_pSgtc_tF",
             "moduleName": "ITStatsAndScores",
             "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
             "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
@@ -8811,7 +8832,7 @@
           {
             "kind": "Function",
             "name": "setReminderButtonTappedFor",
-            "printedName": "setReminderButtonTappedFor(fixtureId:sourceName:setReminderTurnOn:)",
+            "printedName": "setReminderButtonTappedFor(fixtureId:sourceName:reminderOn:setReminderTurnOn:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8839,9 +8860,15 @@
                 "usr": "s:Sq"
               },
               {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.Bool) -> ()",
+                "printedName": "(Swift.Bool?, (any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -8850,16 +8877,45 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
+                    "name": "Tuple",
+                    "printedName": "(Swift.Bool?, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Bool?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Bool",
+                            "printedName": "Swift.Bool",
+                            "usr": "s:Sb"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP26setReminderButtonTappedFor9fixtureId10sourceName0gH6TurnOnySS_SSSgySbctF",
-            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP26setReminderButtonTappedFor9fixtureId10sourceName0gH6TurnOnySS_SSSgySbctF",
+            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP26setReminderButtonTappedFor9fixtureId10sourceName10reminderOn0gh4TurnQ0ySS_SSSgSbySbSg_s5Error_pSgtctF",
+            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP26setReminderButtonTappedFor9fixtureId10sourceName10reminderOn0gh4TurnQ0ySS_SSSgSbySbSg_s5Error_pSgtctF",
             "moduleName": "ITStatsAndScores",
             "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
             "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
@@ -8870,7 +8926,7 @@
           {
             "kind": "Function",
             "name": "setFollowButtonTappedFor",
-            "printedName": "setFollowButtonTappedFor(id:sourceName:hideBottomSheet:followType:setFollowTurnOn:)",
+            "printedName": "setFollowButtonTappedFor(id:sourceName:isFollow:hideBottomSheet:followType:setFollowTurnOn:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -8896,6 +8952,12 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -8920,7 +8982,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.Bool) -> ()",
+                "printedName": "(Swift.Bool?, (any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -8929,16 +8991,119 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
+                    "name": "Tuple",
+                    "printedName": "(Swift.Bool?, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Bool?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Bool",
+                            "printedName": "Swift.Bool",
+                            "usr": "s:Sb"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName15hideBottomSheet10followType0gH6TurnOnySS_SSSgSbSgAA08ITFollowS0OySbctF",
-            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName15hideBottomSheet10followType0gH6TurnOnySS_SSSgSbSgAA08ITFollowS0OySbctF",
+            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName02isH015hideBottomSheet10followType0gH6TurnOnySS_SSSgS2bSgAA08ITFollowT0OyAL_s5Error_pSgtctF",
+            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP24setFollowButtonTappedFor2id10sourceName02isH015hideBottomSheet10followType0gH6TurnOnySS_SSSgS2bSgAA08ITFollowT0OyAL_s5Error_pSgtctF",
+            "moduleName": "ITStatsAndScores",
+            "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
+            "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "updateFollows",
+            "printedName": "updateFollows(updatedFollowJSON:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool?, (any Swift.Error)?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Bool?, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Bool?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Bool",
+                            "printedName": "Swift.Bool",
+                            "usr": "s:Sb"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores011ITFollowingB17RemindersDelegateP13updateFollows17updatedFollowJSON10completionySS_ySbSg_s5Error_pSgtctF",
+            "mangledName": "$s16ITStatsAndScores011ITFollowingB17RemindersDelegateP13updateFollows17updatedFollowJSON10completionySS_ySbSg_s5Error_pSgtctF",
             "moduleName": "ITStatsAndScores",
             "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
             "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITFollowingAndRemindersDelegate>",
@@ -18502,7 +18667,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingTeamFollowScreen.swift",
       "kind": "StringLiteral",
-      "offset": 524,
+      "offset": 634,
       "length": 18,
       "value": "\"TeamSearchScroll\""
     },
@@ -18558,9 +18723,51 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/SuggestedFollowingScreens\/SuggestedFollowingCompetitionFollowScreen.swift",
       "kind": "StringLiteral",
-      "offset": 545,
+      "offset": 669,
       "length": 25,
       "value": "\"CompetitionSearchScroll\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 390,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 408,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 425,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 503,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 521,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSuggestedFollowing\/ITSuggestedFollowingScreenModel.swift",
+      "kind": "Array",
+      "offset": 538,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/Views\/TeamOverviewPositionsView.swift",

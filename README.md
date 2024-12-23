@@ -3,11 +3,11 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.3.8
+- 0.3.9
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
-- [x] Since server is http then NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
+- [x] Since server is https then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
 
 ## Score Center Screen Features
 - [x] See scores of past matches
@@ -86,10 +86,10 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] navigateTo(destinationDetails jsonString: String, navigationType: ITNavigationType, navigationController: UINavigationController?)
 
 - [x] ITFollowingAndRemindersDelegate:
-- [x] getFollowingAndReminders(followingListJSON: @escaping (FollowingListJSONString) ->())
-- [x] setReminderButtonTappedFor(fixtureId: String, sourceName: String?, setReminderTurnOn: @escaping (Bool)->())
-- [x] setFollowButtonTappedFor(id: String, sourceName: String?, hideBottomSheet: Bool?, followType: ITFollowType, setFollowTurnOn: @escaping (Bool) -> ())
-
+- [x] getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString, Error?) -> ())
+- [x] setReminderButtonTappedFor(fixtureId: String, sourceName: String?, reminderOn: Bool, setReminderTurnOn: @escaping (Bool?, Error?) -> ())
+- [x] setFollowButtonTappedFor(id: String, sourceName: String?, isFollow: Bool, hideBottomSheet: Bool?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Bool?, Error?) -> ())
+- [x] updateFollows(updatedFollowJSON: String, completion: @escaping (Bool?, Error?) -> ())
 - [x] ITAnalyticsDelegate:
 - [x] report(event: AnalyticsEvent, parameters: [String: Any])
 
@@ -178,7 +178,6 @@ public enum ITFollowType: String {
 - [x] None
 
 ## Dependencies and ThirdParty sdks/libraries/frameworks
-- [x] MQTT-NIO. https://swiftpackageindex.com/sroebert/mqtt-nio
 - [x] Mixpanel. https://github.com/mixpanel/mixpanel-swift
 
 ## Requirements
@@ -196,7 +195,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.3.8)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.3.9)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
