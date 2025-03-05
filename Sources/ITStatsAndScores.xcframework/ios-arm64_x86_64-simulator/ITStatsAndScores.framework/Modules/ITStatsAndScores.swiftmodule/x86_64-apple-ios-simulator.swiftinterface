@@ -16,7 +16,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func pushLiteTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  public func pushLiteTeamScreen(representAsStandalone: Swift.Bool = false, externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
   public func presentLiteTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
@@ -158,7 +158,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   internal var language: Swift.String
   @usableFromInline
   internal var country: Swift.String
-  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String) {
+  @usableFromInline
+  internal var userStatus: ITStatsAndScores.ITConfiguration.UserStatus
+  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String, userStatus: ITStatsAndScores.ITConfiguration.UserStatus) {
         self.userId = userId
         
         let lowercasedCountry = country.lowercased()
@@ -179,7 +181,27 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
         
         self.language = lowercasedLanguage
         self.country = lowercasedCountry
+        self.userStatus = userStatus
     }
+}
+extension ITStatsAndScores.ITConfiguration {
+  public enum UserStatus : Swift.String {
+    case partial
+    case freeTrial
+    case activePaid
+    case activeGrace
+    case frozen
+    case expired
+    case expiredMarketing
+    case blocked
+    case paused
+    case unknown
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -313,7 +335,9 @@ extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.Hashable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.RawRepresentable {}
-extension ITStatsAndScores.ITConfiguration : Swift.Sendable {}
+extension ITStatsAndScores.ITConfiguration.UserStatus : Swift.Equatable {}
+extension ITStatsAndScores.ITConfiguration.UserStatus : Swift.Hashable {}
+extension ITStatsAndScores.ITConfiguration.UserStatus : Swift.RawRepresentable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.Hashable {}
 extension ITStatsAndScores.LiteTeamInfo : Swift.RawRepresentable {}

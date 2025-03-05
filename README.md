@@ -3,10 +3,11 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.4.1
+- 0.4.2
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
+- [x] Added userStatus: UserStatus to ITConfiguration
 - [x] Since server is https then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
 
 ## Score Center Screen Features
@@ -78,7 +79,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 ## Main Public classes/structs, API Calls and Delegates
 - [x] Initialization and Configuration:
 - [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
-- [x] ITConfiguration(userId: String, language: String, country: String)
+- [x] ITConfiguration(userId: String, language: String, country: String, userStatus: UserStatus)
 - [x] ITStatsAndScoresAccess.shared.updateFollowingAndReminders() (triggers ITFollowingAndRemindersDelegate getFollowingAndReminders delegate method)
 
 - [x] Delegates:
@@ -142,6 +143,20 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] getUIViewForTeamStatsTeamScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForTeamPlayersStatsScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 
+```
+    public enum UserStatus: String {
+        case partial = "Partial"
+        case freeTrial = "FreeTrial"
+        case activePaid = "ActivePaid"
+        case activeGrace = "ActiveGrace"
+        case frozen = "Frozen"
+        case expired = "Expired"
+        case expiredMarketing = "ExpiredMarketing"
+        case blocked = "Blocked"
+        case paused = "Paused"
+        case unknown = "_unknown_"
+    }
+```
 
 ```
 public enum ITNavigationType: String {
@@ -174,6 +189,7 @@ public enum ITFollowType: String {
 }
 ```
 
+
 ## Known Issues
 - [x] None
 
@@ -195,7 +211,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.4.1)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.4.2)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
@@ -214,7 +230,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        ITStatsAndScoresAccess.shared.configure(with: .init(userId: "<UserId>", language: "<example: \"en\">", country: "<example: \"ES\">"))
+        ITStatsAndScoresAccess.shared.configure(with: .init(userId: "<UserId>", language: "<example: \"en\">", country: "<example: \"ES\">", userStatus: <.freeTrial>))
         
         // Add delegates:
         ITStatsAndScoresAccess.shared.followingAndRemindersDelegate = itFollowingAndRemindersManager
