@@ -12781,70 +12781,70 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12969,
+      "offset": 12966,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13115,
+      "offset": 13112,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 27116,
+      "offset": 27123,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27157,
+      "offset": 27164,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27301,
+      "offset": 27308,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27322,
+      "offset": 27329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27398,
+      "offset": 27405,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27419,
+      "offset": 27426,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27495,
+      "offset": 27502,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 27515,
+      "offset": 27522,
       "length": 4,
       "value": "true"
     },
@@ -14328,21 +14328,14 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/InitData\/InitData.swift",
       "kind": "StringLiteral",
-      "offset": 274,
-      "length": 26,
-      "value": "\"IT_mixPanelDistinctId_UD\""
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/InitData\/InitData.swift",
-      "kind": "StringLiteral",
-      "offset": 357,
+      "offset": 359,
       "length": 42,
       "value": "\"IT_suggestedFollowingForceLaunchCount_UD\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Models\/InitData\/InitData.swift",
       "kind": "StringLiteral",
-      "offset": 455,
+      "offset": 457,
       "length": 41,
       "value": "\"IT_suggestedFollowingOnboardingCount_UD\""
     },
@@ -17702,7 +17695,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamMatchesScreen\/ITTeamMatchesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 25551,
+      "offset": 25700,
       "length": 42,
       "value": "\"Should poll live matches in Team Matches\""
     },
@@ -20705,7 +20698,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITCompetitions\/CompetitionScreens\/ITCompetitionMatchesScreen\/ITCompetitionMatchesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 24868,
+      "offset": 25017,
       "length": 49,
       "value": "\"Should poll live matches in Competition Matches\""
     },
@@ -21363,70 +21356,63 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 559,
+      "offset": 582,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 651,
+      "offset": 674,
       "length": 9,
       "value": "\"2024\/25\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 754,
+      "offset": 777,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 774,
+      "offset": 797,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 797,
+      "offset": 820,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 1003,
+      "offset": 1026,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 1095,
+      "offset": 1118,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 1187,
+      "offset": 1210,
       "length": 9,
       "value": "\"2023\/24\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 1290,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1311,
+      "offset": 1313,
       "length": 5,
       "value": "false"
     },
@@ -21434,41 +21420,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 1334,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1357,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 1540,
+      "offset": 1563,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 1632,
+      "offset": 1655,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 1724,
+      "offset": 1747,
       "length": 9,
       "value": "\"2022\/23\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 1827,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1848,
+      "offset": 1850,
       "length": 5,
       "value": "false"
     },
@@ -21476,125 +21462,125 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 1871,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1894,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2077,
+      "offset": 2100,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 2169,
+      "offset": 2192,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 2261,
+      "offset": 2284,
       "length": 9,
       "value": "\"2021\/22\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2364,
+      "offset": 2387,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2385,
+      "offset": 2408,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2407,
+      "offset": 2430,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2613,
+      "offset": 2636,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 2715,
+      "offset": 2738,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 2808,
+      "offset": 2831,
       "length": 9,
       "value": "\"2020\/21\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2912,
+      "offset": 2935,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2932,
+      "offset": 2955,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 2955,
+      "offset": 2978,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 3163,
+      "offset": 3186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 3256,
+      "offset": 3279,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 3349,
+      "offset": 3372,
       "length": 9,
       "value": "\"2019\/20\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 3453,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3474,
+      "offset": 3476,
       "length": 5,
       "value": "false"
     },
@@ -21602,41 +21588,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 3497,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3520,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 3705,
+      "offset": 3728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 3798,
+      "offset": 3821,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 3891,
+      "offset": 3914,
       "length": 9,
       "value": "\"2018\/19\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 3995,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4016,
+      "offset": 4018,
       "length": 5,
       "value": "false"
     },
@@ -21644,41 +21630,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 4039,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4062,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4247,
+      "offset": 4270,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 4340,
+      "offset": 4363,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 4433,
+      "offset": 4456,
       "length": 9,
       "value": "\"2017\/18\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4537,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4558,
+      "offset": 4560,
       "length": 5,
       "value": "false"
     },
@@ -21686,41 +21672,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 4581,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4604,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4789,
+      "offset": 4812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 4882,
+      "offset": 4905,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 4975,
+      "offset": 4998,
       "length": 9,
       "value": "\"2016\/17\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 5079,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5100,
+      "offset": 5102,
       "length": 5,
       "value": "false"
     },
@@ -21728,41 +21714,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 5123,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5146,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 5331,
+      "offset": 5354,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 5424,
+      "offset": 5447,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 5517,
+      "offset": 5540,
       "length": 9,
       "value": "\"2015\/16\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 5621,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5642,
+      "offset": 5644,
       "length": 5,
       "value": "false"
     },
@@ -21770,41 +21756,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 5665,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5688,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 5873,
+      "offset": 5896,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 5966,
+      "offset": 5989,
       "length": 3,
       "value": "\"6\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 6059,
+      "offset": 6082,
       "length": 9,
       "value": "\"2014\/15\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 6163,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6184,
+      "offset": 6186,
       "length": 5,
       "value": "false"
     },
@@ -21812,41 +21798,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 6207,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6230,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 6415,
+      "offset": 6438,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 6508,
+      "offset": 6531,
       "length": 3,
       "value": "\"7\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 6601,
+      "offset": 6624,
       "length": 9,
       "value": "\"2013\/14\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 6705,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6726,
+      "offset": 6728,
       "length": 5,
       "value": "false"
     },
@@ -21854,41 +21840,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 6749,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6772,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 6957,
+      "offset": 6980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 7050,
+      "offset": 7073,
       "length": 3,
       "value": "\"8\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 7143,
+      "offset": 7166,
       "length": 9,
       "value": "\"2012\/13\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 7247,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7268,
+      "offset": 7270,
       "length": 5,
       "value": "false"
     },
@@ -21896,41 +21882,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 7291,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7314,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 7499,
+      "offset": 7522,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 7592,
+      "offset": 7615,
       "length": 3,
       "value": "\"9\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 7685,
+      "offset": 7708,
       "length": 9,
       "value": "\"2011\/12\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 7789,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7810,
+      "offset": 7812,
       "length": 5,
       "value": "false"
     },
@@ -21938,41 +21924,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 7833,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7856,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 8041,
+      "offset": 8064,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 8134,
+      "offset": 8157,
       "length": 4,
       "value": "\"10\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 8228,
+      "offset": 8251,
       "length": 9,
       "value": "\"2010\/11\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 8332,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8353,
+      "offset": 8355,
       "length": 5,
       "value": "false"
     },
@@ -21980,41 +21966,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 8376,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8399,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 8584,
+      "offset": 8607,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 8677,
+      "offset": 8700,
       "length": 4,
       "value": "\"11\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 8771,
+      "offset": 8794,
       "length": 9,
       "value": "\"2009\/10\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 8875,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8896,
+      "offset": 8898,
       "length": 5,
       "value": "false"
     },
@@ -22022,41 +22008,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 8919,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8942,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 9127,
+      "offset": 9150,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 9220,
+      "offset": 9243,
       "length": 4,
       "value": "\"12\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 9314,
+      "offset": 9337,
       "length": 9,
       "value": "\"2008\/09\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 9418,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9439,
+      "offset": 9441,
       "length": 5,
       "value": "false"
     },
@@ -22064,41 +22050,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 9462,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9485,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 9670,
+      "offset": 9693,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 9763,
+      "offset": 9786,
       "length": 4,
       "value": "\"13\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 9857,
+      "offset": 9880,
       "length": 9,
       "value": "\"2007\/08\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 9961,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9982,
+      "offset": 9984,
       "length": 5,
       "value": "false"
     },
@@ -22106,41 +22092,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 10005,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10028,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 10213,
+      "offset": 10236,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 10306,
+      "offset": 10329,
       "length": 4,
       "value": "\"14\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 10400,
+      "offset": 10423,
       "length": 9,
       "value": "\"2006\/07\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 10504,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10525,
+      "offset": 10527,
       "length": 5,
       "value": "false"
     },
@@ -22148,41 +22134,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 10548,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10571,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 10756,
+      "offset": 10779,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 10849,
+      "offset": 10872,
       "length": 4,
       "value": "\"15\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 10943,
+      "offset": 10966,
       "length": 9,
       "value": "\"2005\/06\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11047,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11068,
+      "offset": 11070,
       "length": 5,
       "value": "false"
     },
@@ -22190,41 +22176,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 11091,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11114,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11299,
+      "offset": 11322,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 11392,
+      "offset": 11415,
       "length": 4,
       "value": "\"16\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 11486,
+      "offset": 11509,
       "length": 9,
       "value": "\"2004\/05\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11590,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11611,
+      "offset": 11613,
       "length": 5,
       "value": "false"
     },
@@ -22232,41 +22218,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 11634,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11657,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11842,
+      "offset": 11865,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 11935,
+      "offset": 11958,
       "length": 4,
       "value": "\"17\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 12029,
+      "offset": 12052,
       "length": 9,
       "value": "\"2003\/04\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12133,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12154,
+      "offset": 12156,
       "length": 5,
       "value": "false"
     },
@@ -22274,41 +22260,41 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 12177,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12200,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12385,
+      "offset": 12408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 12478,
+      "offset": 12501,
       "length": 4,
       "value": "\"18\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 12572,
+      "offset": 12595,
       "length": 9,
       "value": "\"2002\/03\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12676,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12697,
+      "offset": 12699,
       "length": 5,
       "value": "false"
     },
@@ -22316,85 +22302,85 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
       "offset": 12720,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12743,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12928,
+      "offset": 12951,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 13021,
+      "offset": 13044,
       "length": 4,
       "value": "\"19\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 13115,
+      "offset": 13138,
       "length": 9,
       "value": "\"2001\/02\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 13219,
+      "offset": 13242,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 13240,
+      "offset": 13263,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 13262,
+      "offset": 13285,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 13470,
+      "offset": 13493,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 13587,
+      "offset": 13610,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 13691,
+      "offset": 13714,
       "length": 9,
       "value": "\"2024\/25\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 13810,
+      "offset": 13833,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13830,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
@@ -22405,31 +22391,31 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13876,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 13975,
+      "offset": 13998,
       "length": 4,
       "value": "\"10\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 14104,
+      "offset": 14127,
       "length": 8,
       "value": "\"Laliga\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 14242,
+      "offset": 14265,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14373,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
@@ -22441,35 +22427,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 14559,
+      "offset": 14419,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14582,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 14687,
+      "offset": 14710,
       "length": 4,
       "value": "\"11\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 14816,
+      "offset": 14839,
       "length": 14,
       "value": "\"Copa del Rey\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 14960,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 15097,
+      "offset": 14983,
       "length": 5,
       "value": "false"
     },
@@ -22483,35 +22469,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 15283,
+      "offset": 15143,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15306,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 15411,
+      "offset": 15434,
       "length": 4,
       "value": "\"12\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 15540,
+      "offset": 15563,
       "length": 18,
       "value": "\"Recopa de Espana\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 15688,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 15825,
+      "offset": 15711,
       "length": 5,
       "value": "false"
     },
@@ -22525,84 +22511,84 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16011,
+      "offset": 15871,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16034,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 16139,
+      "offset": 16162,
       "length": 4,
       "value": "\"13\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 16268,
+      "offset": 16291,
       "length": 18,
       "value": "\"Champions League\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16416,
+      "offset": 16439,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16553,
+      "offset": 16576,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16575,
+      "offset": 16598,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16738,
+      "offset": 16761,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 16862,
+      "offset": 16885,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 16965,
+      "offset": 16988,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 17069,
+      "offset": 17092,
       "length": 9,
       "value": "\"2023\/24\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 17184,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17205,
+      "offset": 17207,
       "length": 5,
       "value": "false"
     },
@@ -22615,29 +22601,29 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17251,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 17350,
+      "offset": 17373,
       "length": 4,
       "value": "\"14\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 17479,
+      "offset": 17502,
       "length": 8,
       "value": "\"Laliga\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 17617,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17749,
+      "offset": 17640,
       "length": 5,
       "value": "false"
     },
@@ -22651,35 +22637,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 17935,
+      "offset": 17795,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17958,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 18063,
+      "offset": 18086,
       "length": 4,
       "value": "\"15\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 18192,
+      "offset": 18215,
       "length": 14,
       "value": "\"Copa del Rey\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 18336,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18473,
+      "offset": 18359,
       "length": 5,
       "value": "false"
     },
@@ -22693,35 +22679,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 18659,
+      "offset": 18519,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18682,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 18787,
+      "offset": 18810,
       "length": 4,
       "value": "\"16\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 18916,
+      "offset": 18939,
       "length": 18,
       "value": "\"Recopa de Espana\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 19064,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19201,
+      "offset": 19087,
       "length": 5,
       "value": "false"
     },
@@ -22735,84 +22721,84 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 19387,
+      "offset": 19247,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 19515,
+      "offset": 19538,
       "length": 4,
       "value": "\"17\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 19644,
+      "offset": 19667,
       "length": 18,
       "value": "\"Champions League\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 19792,
+      "offset": 19815,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 19929,
+      "offset": 19952,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 19951,
+      "offset": 19974,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 20114,
+      "offset": 20137,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 20238,
+      "offset": 20261,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 20342,
+      "offset": 20365,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 20446,
+      "offset": 20469,
       "length": 9,
       "value": "\"2022\/23\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 20561,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20582,
+      "offset": 20584,
       "length": 5,
       "value": "false"
     },
@@ -22825,29 +22811,29 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20628,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 20727,
+      "offset": 20750,
       "length": 4,
       "value": "\"18\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 20856,
+      "offset": 20879,
       "length": 8,
       "value": "\"Laliga\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 20994,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21126,
+      "offset": 21017,
       "length": 5,
       "value": "false"
     },
@@ -22861,35 +22847,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 21312,
+      "offset": 21172,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21335,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 21440,
+      "offset": 21463,
       "length": 4,
       "value": "\"19\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 21569,
+      "offset": 21592,
       "length": 14,
       "value": "\"Copa del Rey\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 21713,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21850,
+      "offset": 21736,
       "length": 5,
       "value": "false"
     },
@@ -22903,35 +22889,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 22036,
+      "offset": 21896,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22059,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 22164,
+      "offset": 22187,
       "length": 4,
       "value": "\"20\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 22293,
+      "offset": 22316,
       "length": 18,
       "value": "\"Recopa de Espana\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 22441,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 22578,
+      "offset": 22464,
       "length": 5,
       "value": "false"
     },
@@ -22945,84 +22931,84 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 22764,
+      "offset": 22624,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22787,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 22892,
+      "offset": 22915,
       "length": 4,
       "value": "\"21\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 23021,
+      "offset": 23044,
       "length": 18,
       "value": "\"Champions League\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23169,
+      "offset": 23192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23306,
+      "offset": 23329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23328,
+      "offset": 23351,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23491,
+      "offset": 23514,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23615,
+      "offset": 23638,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 23719,
+      "offset": 23742,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 23823,
+      "offset": 23846,
       "length": 9,
       "value": "\"2021\/22\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 23938,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 23959,
+      "offset": 23961,
       "length": 5,
       "value": "false"
     },
@@ -23035,29 +23021,29 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24005,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 24104,
+      "offset": 24127,
       "length": 4,
       "value": "\"22\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 24233,
+      "offset": 24256,
       "length": 8,
       "value": "\"Laliga\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 24371,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24503,
+      "offset": 24394,
       "length": 5,
       "value": "false"
     },
@@ -23071,35 +23057,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 24689,
+      "offset": 24549,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24712,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 24817,
+      "offset": 24840,
       "length": 4,
       "value": "\"23\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 24946,
+      "offset": 24969,
       "length": 14,
       "value": "\"Copa del Rey\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 25090,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 25227,
+      "offset": 25113,
       "length": 5,
       "value": "false"
     },
@@ -23113,35 +23099,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 25413,
+      "offset": 25273,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25436,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 25541,
+      "offset": 25564,
       "length": 4,
       "value": "\"24\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 25670,
+      "offset": 25693,
       "length": 18,
       "value": "\"Recopa de Espana\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 25818,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 25955,
+      "offset": 25841,
       "length": 5,
       "value": "false"
     },
@@ -23155,119 +23141,119 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26141,
+      "offset": 26001,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26164,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 26269,
+      "offset": 26292,
       "length": 4,
       "value": "\"25\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 26398,
+      "offset": 26421,
       "length": 18,
       "value": "\"Champions League\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26546,
+      "offset": 26569,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26683,
+      "offset": 26706,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26705,
+      "offset": 26728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26868,
+      "offset": 26891,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 26992,
+      "offset": 27015,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 27096,
+      "offset": 27119,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 27200,
+      "offset": 27223,
       "length": 9,
       "value": "\"2020\/21\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 27315,
+      "offset": 27338,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 27336,
+      "offset": 27359,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 27358,
+      "offset": 27381,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 27480,
+      "offset": 27503,
       "length": 4,
       "value": "\"26\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 27609,
+      "offset": 27632,
       "length": 8,
       "value": "\"Laliga\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 27747,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 27879,
+      "offset": 27770,
       "length": 5,
       "value": "false"
     },
@@ -23281,35 +23267,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 28065,
+      "offset": 27925,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28088,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 28193,
+      "offset": 28216,
       "length": 4,
       "value": "\"27\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 28322,
+      "offset": 28345,
       "length": 14,
       "value": "\"Copa del Rey\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 28466,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 28603,
+      "offset": 28489,
       "length": 5,
       "value": "false"
     },
@@ -23323,35 +23309,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 28789,
+      "offset": 28649,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 28917,
+      "offset": 28940,
       "length": 4,
       "value": "\"28\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 29046,
+      "offset": 29069,
       "length": 18,
       "value": "\"Recopa de Espana\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 29194,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
-      "kind": "BooleanLiteral",
-      "offset": 29331,
+      "offset": 29217,
       "length": 5,
       "value": "false"
     },
@@ -23365,56 +23351,63 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 29517,
+      "offset": 29377,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 29540,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 29645,
+      "offset": 29668,
       "length": 4,
       "value": "\"29\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "StringLiteral",
-      "offset": 29774,
+      "offset": 29797,
       "length": 18,
       "value": "\"Champions League\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 29922,
+      "offset": 29945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 30059,
+      "offset": 30082,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 30081,
+      "offset": 30104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 30244,
+      "offset": 30267,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/SharedViewsAndModelsAndContollers\/Views\/DropDownSelector\/Models\/DropDownSelectorCellData.swift",
       "kind": "BooleanLiteral",
-      "offset": 30368,
+      "offset": 30391,
       "length": 5,
       "value": "false"
     },
@@ -23428,154 +23421,154 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9249,
+      "offset": 9899,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9288,
+      "offset": 9938,
       "length": 8,
       "value": "\"Monday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9328,
+      "offset": 9978,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9371,
+      "offset": 10021,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9415,
+      "offset": 10065,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9456,
+      "offset": 10106,
       "length": 8,
       "value": "\"Friday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9497,
+      "offset": 10147,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9249,
+      "offset": 9899,
       "length": 8,
       "value": "\"Sunday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9288,
+      "offset": 9938,
       "length": 8,
       "value": "\"Monday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9328,
+      "offset": 9978,
       "length": 9,
       "value": "\"Tuesday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9371,
+      "offset": 10021,
       "length": 11,
       "value": "\"Wednesday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9415,
+      "offset": 10065,
       "length": 10,
       "value": "\"Thursday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9456,
+      "offset": 10106,
       "length": 8,
       "value": "\"Friday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 9497,
+      "offset": 10147,
       "length": 10,
       "value": "\"Saturday\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10198,
+      "offset": 10848,
       "length": 5,
       "value": "\"H2H\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10235,
+      "offset": 10885,
       "length": 9,
       "value": "\"LINEUPS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10279,
+      "offset": 10929,
       "length": 12,
       "value": "\"COMMENTARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10321,
+      "offset": 10971,
       "length": 7,
       "value": "\"STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10198,
+      "offset": 10848,
       "length": 5,
       "value": "\"H2H\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10235,
+      "offset": 10885,
       "length": 9,
       "value": "\"LINEUPS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10279,
+      "offset": 10929,
       "length": 12,
       "value": "\"COMMENTARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/AnalyticsAndCrashlytics\/SDKTrack.swift",
       "kind": "StringLiteral",
-      "offset": 10321,
+      "offset": 10971,
       "length": 7,
       "value": "\"STATS\""
     },
@@ -32059,70 +32052,70 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11929,
+      "offset": 11995,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11934,
+      "offset": 12000,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11984,
+      "offset": 12050,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11989,
+      "offset": 12055,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12039,
+      "offset": 12105,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12044,
+      "offset": 12110,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 12402,
+      "offset": 12468,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 13067,
+      "offset": 13133,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 15312,
+      "offset": 15378,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureCompareScreen\/ITFixtureCompareScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 15733,
+      "offset": 15799,
       "length": 4,
       "value": "true"
     },
