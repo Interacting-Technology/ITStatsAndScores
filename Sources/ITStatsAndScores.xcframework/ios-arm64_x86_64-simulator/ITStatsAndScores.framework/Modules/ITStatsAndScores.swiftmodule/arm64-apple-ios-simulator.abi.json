@@ -3151,7 +3151,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForTeamPlayersStatsScreen",
-            "printedName": "getUIViewForTeamPlayersStatsScreen(contestantId:contentHeight:)",
+            "printedName": "getUIViewForTeamPlayersStatsScreen(contestantId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3164,6 +3164,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
               },
               {
                 "kind": "TypeFunc",
@@ -3185,8 +3191,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC34getUIViewForTeamPlayersStatsScreen12contestantId13contentHeightSo0F0CSS_y14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC34getUIViewForTeamPlayersStatsScreen12contestantId13contentHeightSo0F0CSS_y12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC34getUIViewForTeamPlayersStatsScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationO0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC34getUIViewForTeamPlayersStatsScreen12contestantId20navigationController13contentHeightSo0F0CSS_So012UINavigationO0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -3835,7 +3841,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForCompetitionLeagueStatsScreen",
-            "printedName": "getUIViewForCompetitionLeagueStatsScreen(competitionId:competitionSeasonId:contentHeight:)",
+            "printedName": "getUIViewForCompetitionLeagueStatsScreen(competitionId:competitionSeasonId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3865,6 +3871,12 @@
                 "usr": "s:Sq"
               },
               {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -3884,8 +3896,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC40getUIViewForCompetitionLeagueStatsScreen13competitionId0l6SeasonM013contentHeightSo0F0CSS_SSSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC40getUIViewForCompetitionLeagueStatsScreen13competitionId0l6SeasonM013contentHeightSo0F0CSS_SSSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC40getUIViewForCompetitionLeagueStatsScreen13competitionId0l6SeasonM020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationP0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC40getUIViewForCompetitionLeagueStatsScreen13competitionId0l6SeasonM020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationP0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -4597,7 +4609,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForCompetitionPlayersStatsScreen",
-            "printedName": "getUIViewForCompetitionPlayersStatsScreen(competitionId:competitionSeasonId:contentHeight:)",
+            "printedName": "getUIViewForCompetitionPlayersStatsScreen(competitionId:competitionSeasonId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4627,6 +4639,12 @@
                 "usr": "s:Sq"
               },
               {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -4646,8 +4664,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC41getUIViewForCompetitionPlayersStatsScreen13competitionId0l6SeasonM013contentHeightSo0F0CSS_SSSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC41getUIViewForCompetitionPlayersStatsScreen13competitionId0l6SeasonM013contentHeightSo0F0CSS_SSSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC41getUIViewForCompetitionPlayersStatsScreen13competitionId0l6SeasonM020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationP0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC41getUIViewForCompetitionPlayersStatsScreen13competitionId0l6SeasonM020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationP0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
