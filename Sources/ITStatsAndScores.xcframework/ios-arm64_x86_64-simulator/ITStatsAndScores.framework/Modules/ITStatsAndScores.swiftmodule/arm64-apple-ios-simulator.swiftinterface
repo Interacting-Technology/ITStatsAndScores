@@ -15,6 +15,8 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os.log
+import os
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func pushLiteTeamScreen(representAsStandalone: Swift.Bool = false, externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
   public func presentLiteTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
