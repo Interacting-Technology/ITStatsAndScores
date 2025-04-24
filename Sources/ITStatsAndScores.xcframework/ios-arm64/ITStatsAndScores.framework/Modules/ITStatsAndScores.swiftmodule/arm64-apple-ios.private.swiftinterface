@@ -102,6 +102,11 @@ public enum LiteCompetitionInfo {
   public func updateFollowingAndReminders()
   @objc deinit
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public var getLangauge: Swift.String? {
+    get
+  }
+}
 public enum OldAnalyticsEvent : Swift.String {
   case page_load
   case user_Interaction
