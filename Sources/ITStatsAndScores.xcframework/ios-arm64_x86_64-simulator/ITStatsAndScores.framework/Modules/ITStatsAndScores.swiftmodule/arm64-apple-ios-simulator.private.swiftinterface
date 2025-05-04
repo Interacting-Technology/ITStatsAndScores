@@ -118,7 +118,8 @@ public enum OldAnalyticsEvent : Swift.String {
 }
 public struct PublicDebugService {
   public static var toastMessage: Combine.PassthroughSubject<Swift.String, Swift.Never>
-  public static var lastEnteredLiteFixtueExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
+  public static var lastEnteredLiteFixtureExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
+  public static var lastEnteredSimulateFixtureDaznExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
   public static var lastEnteredCompetitionSeasonId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
   public static var lastEnteredTeamExternalId: Combine.CurrentValueSubject<Swift.String, Swift.Never>
 }
