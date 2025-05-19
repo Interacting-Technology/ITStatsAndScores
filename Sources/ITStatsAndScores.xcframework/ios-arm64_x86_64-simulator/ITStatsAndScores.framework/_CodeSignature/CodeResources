@@ -46,43 +46,43 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JXT6ATagMRnJG39bgq3VjAsd9hQ=
+		0rRM1RQFsJCBomWx/mCug6qzY9Q=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aPqz6B25e9vNeiPQvjLi6OEh6b8=
+		Cw99QvPbh2/hpKaz1nQ5J65D9wM=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4iOvn8+qHNMipT6iSQTfYbRR0U0=
+		Yp40z/qD4nJWh8HBWYdtckJ0Gy4=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aPqz6B25e9vNeiPQvjLi6OEh6b8=
+		Cw99QvPbh2/hpKaz1nQ5J65D9wM=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xhzyiBVovplpnIClAOuOymnuYGQ=
+		GdzRQX/Wjf1kervfASKHK9fXizY=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JXT6ATagMRnJG39bgq3VjAsd9hQ=
+		0rRM1RQFsJCBomWx/mCug6qzY9Q=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QQwIvf2Vvpox649MHK60ohiqpCc=
+		kWUKCdn/ED2IY6P0X2zdCJBYqDU=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/t0zIu6NulzKXG7HGpnP7/bhLRg=
+		VUEBLD6EsPJBsgOBB87PlDxW0RI=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QQwIvf2Vvpox649MHK60ohiqpCc=
+		kWUKCdn/ED2IY6P0X2zdCJBYqDU=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Twm5l49+sH+iqKMROrz4xHZMoWw=
+		S+y61ZiuArh3iRGIWoIkeMRNRVA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,70 +198,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3aBwnCAiEPOmZAuOZZq9zMDmWOyeEw3QHARXxxtcrjY=
+			S0wfS7cmfQXmkPhxhbQ/29G3Op//DvbtLE1OW1UGh0k=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/bO7VU7HPrDJ7XDAwsrVy9Frig1ulpS8h2dfOd1J9X8=
+			gVsstuDUQSnRBfwr7j61NJB2X5ctzoR96T/KmtL5b/g=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WsJTcmCQoltpknOhSy5fNKn3woeRO9q1Ns06SDjo5Z4=
+			edP1acyPprfVSmYmdBUXIwAX0iL/7+9jNEQ7sJe2Ehg=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/bO7VU7HPrDJ7XDAwsrVy9Frig1ulpS8h2dfOd1J9X8=
+			gVsstuDUQSnRBfwr7j61NJB2X5ctzoR96T/KmtL5b/g=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Da5W9OuxNp4JeeLUC2HSauGRq8LM9E1j8H1xhUGCds8=
+			+jV25C/vP58vNN05HiflNJEB9ocV5d/rzwvuq9hOFyk=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3aBwnCAiEPOmZAuOZZq9zMDmWOyeEw3QHARXxxtcrjY=
+			S0wfS7cmfQXmkPhxhbQ/29G3Op//DvbtLE1OW1UGh0k=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NzCLnX3rLZ16mLwcVIOB2/kv5Iknk5VikK0/9ppJ+Ho=
+			JZZDWjVwlrtZ3g0hH9cgy2klSkN8pZGpXQlbZmEm+Ak=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ds9LnNmep9iYgIALoyAqp8ywqMTUikENkCjNsYgJGGQ=
+			IFIPZ7bsPHQ7wCTbeuInfh10f2d1JoXbuaMQR6WsvU8=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NzCLnX3rLZ16mLwcVIOB2/kv5Iknk5VikK0/9ppJ+Ho=
+			JZZDWjVwlrtZ3g0hH9cgy2klSkN8pZGpXQlbZmEm+Ak=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZoHObOmcqqtkIwIpoe2ikMCHOIzzzyM/Jfr4RmnfRo=
+			5Y9jG4zU+iCRSBEO94l/DTAa1i3Vrgz03/TY8dRhn1Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

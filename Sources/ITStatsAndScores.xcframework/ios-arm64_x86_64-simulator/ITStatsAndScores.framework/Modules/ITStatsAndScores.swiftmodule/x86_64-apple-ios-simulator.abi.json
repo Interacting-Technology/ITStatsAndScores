@@ -5111,7 +5111,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForCompetitionKnockoutScreen",
-            "printedName": "getUIViewForCompetitionKnockoutScreen(competitionId:competitionSeasonId:contentHeight:)",
+            "printedName": "getUIViewForCompetitionKnockoutScreen(competitionId:competitionSeasonId:navigationController:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5141,6 +5141,12 @@
                 "usr": "s:Sq"
               },
               {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -5160,8 +5166,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC37getUIViewForCompetitionKnockoutScreen13competitionId0k6SeasonL013contentHeightSo0F0CSS_SSSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC37getUIViewForCompetitionKnockoutScreen13competitionId0k6SeasonL013contentHeightSo0F0CSS_SSSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC37getUIViewForCompetitionKnockoutScreen13competitionId0k6SeasonL020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationO0Cy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC37getUIViewForCompetitionKnockoutScreen13competitionId0k6SeasonL020navigationController13contentHeightSo0F0CSS_SSSgSo012UINavigationO0Cy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",

@@ -315,7 +315,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentCompetitionKnockoutScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
