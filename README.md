@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.5.3
+- 0.5.4
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -105,6 +105,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+
 - [x] Stand alone Fixture Pages - UIView versions:
 - [x] getUIViewForHead2HeadScreen(fixtureId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
@@ -117,11 +118,17 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Stand alone Competition Pages:
 - [x] presentCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat)
 - [x] presentCompetitionTableScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] presentCompetitionKnockoutScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentCompetitionLeagueStatsScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentCompetitionPlayersStatsScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+
 - [x] Stand alone Competition Pages - UIView versions:
+- [x] getCompetitionDisplaySettings(competitionExternalId: String) async -> CompetitionDisplaySettings?
 - [x] getUIViewForCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForCompetitionTableScreen(competitionId: String, competitionSeasonId: String? = nil, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] getUIViewForCompetitionKnockoutScreen(competitionId: String, competitionSeasonId: String? = nil,
+                                                      navigationController: UINavigationController,
+                                                      contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForCompetitionLeagueStatsScreen(competitionId: String, competitionSeasonId: String? = nil,
                                                navigationController: UINavigationController,
                                                contentHeight: @escaping (CGFloat) -> Void) -> UIView
@@ -139,6 +146,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] presentTeamSquadScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentTeamStatsTeamScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
 - [x] presentTeamPlayersStatsScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+
 - [x] Stand alone Team Pages - UIView versions:
 - [x] getUIViewForTeamMatchesScreen(contestantId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
 - [x] getUIViewForTeamOverviewScreen(contestantId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
@@ -194,6 +202,16 @@ public enum ITFollowType: String {
 }
 ```
 
+```
+public struct CompetitionDisplaySettings: Decodable {
+    let displayMatches: Bool?
+    let displayTable: Bool?
+    let displayKnockout: Bool?
+    let displayTeamStats:Bool?
+    let displayPlayerStats: Bool?
+}
+```
+
 
 ## Known Issues
 - [x] None
@@ -216,7 +234,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.5.3)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.5.4)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
