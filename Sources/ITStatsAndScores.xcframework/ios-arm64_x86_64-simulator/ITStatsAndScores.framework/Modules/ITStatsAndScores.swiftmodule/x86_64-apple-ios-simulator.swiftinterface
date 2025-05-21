@@ -303,6 +303,11 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 public struct CompetitionDisplaySettings : Swift.Decodable {
+  public let displayMatches: Swift.Bool?
+  public let displayTable: Swift.Bool?
+  public let displayKnockout: Swift.Bool?
+  public let displayTeamStats: Swift.Bool?
+  public let displayPlayerStats: Swift.Bool?
   public init(from decoder: any Swift.Decoder) throws
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {

@@ -11040,6 +11040,306 @@
         "printedName": "CompetitionDisplaySettings",
         "children": [
           {
+            "kind": "Var",
+            "name": "displayMatches",
+            "printedName": "displayMatches",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV14displayMatchesSbSgvp",
+            "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV14displayMatchesSbSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV14displayMatchesSbSgvg",
+                "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV14displayMatchesSbSgvg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "displayTable",
+            "printedName": "displayTable",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV12displayTableSbSgvp",
+            "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV12displayTableSbSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV12displayTableSbSgvg",
+                "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV12displayTableSbSgvg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "displayKnockout",
+            "printedName": "displayKnockout",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV15displayKnockoutSbSgvp",
+            "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV15displayKnockoutSbSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV15displayKnockoutSbSgvg",
+                "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV15displayKnockoutSbSgvg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "displayTeamStats",
+            "printedName": "displayTeamStats",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV16displayTeamStatsSbSgvp",
+            "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV16displayTeamStatsSbSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV16displayTeamStatsSbSgvg",
+                "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV16displayTeamStatsSbSgvg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "displayPlayerStats",
+            "printedName": "displayPlayerStats",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV18displayPlayerStatsSbSgvp",
+            "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV18displayPlayerStatsSbSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores26CompetitionDisplaySettingsV18displayPlayerStatsSbSgvg",
+                "mangledName": "$s16ITStatsAndScores26CompetitionDisplaySettingsV18displayPlayerStatsSbSgvg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
