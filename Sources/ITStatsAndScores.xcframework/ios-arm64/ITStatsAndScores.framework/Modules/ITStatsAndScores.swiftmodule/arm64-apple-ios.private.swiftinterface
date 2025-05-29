@@ -9,6 +9,7 @@ import Foundation
 @_exported import ITStatsAndScores
 import MessageUI
 import OSLog
+import Security
 import Swift
 import SwiftUI
 import UIKit
@@ -88,6 +89,9 @@ public enum LiteCompetitionInfo {
 }
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
+  public var isAnonymous: Swift.Bool {
+    get
+  }
   public var navigationDelegate: (any ITStatsAndScores.ITNavigationBridgeDelegate)?
   public var followingAndRemindersDelegate: (any ITStatsAndScores.ITFollowingAndRemindersDelegate)? {
     get
@@ -152,7 +156,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentScoresScreen(in viewController: UIKit.UIViewController)
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentScoresScreenView(in viewController: UIKit.UIViewController) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentScoresScreenView(in viewController: UIKit.UIViewController, loadAgain: Swift.Bool = false) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
