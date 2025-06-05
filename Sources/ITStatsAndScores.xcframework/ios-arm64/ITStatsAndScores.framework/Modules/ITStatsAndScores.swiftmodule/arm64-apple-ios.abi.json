@@ -30245,931 +30245,945 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7812,
+      "offset": 7788,
+      "length": 38,
+      "value": "\"STATIC_SAS_STATS_LINEUPS_LINEUP_INFO\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
+      "kind": "StringLiteral",
+      "offset": 7923,
+      "length": 37,
+      "value": "\"STATIC_SAS_STATS_LINEUPS_SQUAD_INFO\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
+      "kind": "StringLiteral",
+      "offset": 8071,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_TOTAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7902,
+      "offset": 8161,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_HOME\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7991,
+      "offset": 8250,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_AWAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8083,
+      "offset": 8342,
       "length": 42,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_VICTORY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8175,
+      "offset": 8434,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_DRAW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8265,
+      "offset": 8524,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_GOALS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8358,
+      "offset": 8617,
       "length": 37,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8451,
+      "offset": 8710,
       "length": 45,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_ATTACKS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8550,
+      "offset": 8809,
       "length": 43,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_SHOTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8657,
+      "offset": 8916,
       "length": 53,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_SHOTS_ON_TARGET\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8766,
+      "offset": 9025,
       "length": 45,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_CORNERS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8868,
+      "offset": 9127,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_OFFSIDES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8964,
+      "offset": 9223,
       "length": 38,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9059,
+      "offset": 9318,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_BLOCKED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9168,
+      "offset": 9427,
       "length": 52,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_INTERCEPTIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9280,
+      "offset": 9539,
       "length": 49,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_RECOVERIES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9384,
+      "offset": 9643,
       "length": 44,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_SAVES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9485,
+      "offset": 9744,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_TACKLES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9586,
+      "offset": 9845,
       "length": 43,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9692,
+      "offset": 9951,
       "length": 52,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_ACCURACY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9805,
+      "offset": 10064,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_CROSES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9916,
+      "offset": 10175,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_PASSES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10017,
+      "offset": 10276,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10114,
+      "offset": 10373,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_FOULS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10218,
+      "offset": 10477,
       "length": 47,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_YELLOW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10320,
+      "offset": 10579,
       "length": 44,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_RED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10391,
+      "offset": 10650,
       "length": 21,
       "value": "\"STATIC_SAS_JANURARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10434,
+      "offset": 10693,
       "length": 21,
       "value": "\"STATIC_SAS_FEBRUARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10477,
+      "offset": 10736,
       "length": 18,
       "value": "\"STATIC_SAS_MARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10517,
+      "offset": 10776,
       "length": 18,
       "value": "\"STATIC_SAS_APRIL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10557,
+      "offset": 10816,
       "length": 16,
       "value": "\"STATIC_SAS_MAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10595,
+      "offset": 10854,
       "length": 17,
       "value": "\"STATIC_SAS_JUNE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10634,
+      "offset": 10893,
       "length": 17,
       "value": "\"STATIC_SAS_JULY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10673,
+      "offset": 10932,
       "length": 19,
       "value": "\"STATIC_SAS_AUGUST\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10714,
+      "offset": 10973,
       "length": 22,
       "value": "\"STATIC_SAS_SEPTEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10758,
+      "offset": 11017,
       "length": 20,
       "value": "\"STATIC_SAS_OCTOBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10800,
+      "offset": 11059,
       "length": 21,
       "value": "\"STATIC_SAS_NOVEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10843,
+      "offset": 11102,
       "length": 21,
       "value": "\"STATIC_SAS_DECEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10887,
+      "offset": 11146,
       "length": 18,
       "value": "\"STATIC_SAS_TODAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10925,
+      "offset": 11184,
       "length": 19,
       "value": "\"STATIC_SAS_SUNDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10964,
+      "offset": 11223,
       "length": 19,
       "value": "\"STATIC_SAS_MONDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11004,
+      "offset": 11263,
       "length": 20,
       "value": "\"STATIC_SAS_TUESDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11044,
+      "offset": 11303,
       "length": 22,
       "value": "\"STATIC_SAS_WEDNESDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11088,
+      "offset": 11347,
       "length": 21,
       "value": "\"STATIC_SAS_THURSDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11129,
+      "offset": 11388,
       "length": 19,
       "value": "\"STATIC_SAS_FRIDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11168,
+      "offset": 11427,
       "length": 21,
       "value": "\"STATIC_SAS_SATURDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11211,
+      "offset": 11470,
       "length": 17,
       "value": "\"STATIC_SAS_YEAR\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11244,
+      "offset": 11503,
       "length": 16,
       "value": "\"STATIC_SAS_DAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11301,
+      "offset": 11560,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_0_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11387,
+      "offset": 11646,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_1_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11470,
+      "offset": 11729,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_2_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11559,
+      "offset": 11818,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_3_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11647,
+      "offset": 11906,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_4_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11738,
+      "offset": 11997,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_5_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11827,
+      "offset": 12086,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_6_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11918,
+      "offset": 12177,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_7_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12008,
+      "offset": 12267,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_8_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12105,
+      "offset": 12364,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_9_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12193,
+      "offset": 12452,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_10_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12290,
+      "offset": 12549,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_11_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12392,
+      "offset": 12651,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_12_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12489,
+      "offset": 12748,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_13_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12585,
+      "offset": 12844,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_14_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12693,
+      "offset": 12952,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_15_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12776,
+      "offset": 13035,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_16_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12880,
+      "offset": 13139,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_17_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12975,
+      "offset": 13234,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_18_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13071,
+      "offset": 13330,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_19_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13809,
+      "offset": 14068,
       "length": 24,
       "value": "\"STATIC_SAS_STATS_GOALS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13879,
+      "offset": 14138,
       "length": 35,
       "value": "\"STATIC_SAS_STATS_PENALTIES_SCORED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13958,
+      "offset": 14217,
       "length": 33,
       "value": "\"STATIC_SAS_STATS_GOALS_CONCEDED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14036,
+      "offset": 14295,
       "length": 34,
       "value": "\"STATIC_SAS_STATS_PENALTIES_SAVED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14131,
+      "offset": 14390,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_FOULS_WON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14218,
+      "offset": 14477,
       "length": 26,
       "value": "\"STATIC_SAS_STATS_ASSISTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14285,
+      "offset": 14544,
       "length": 30,
       "value": "\"STATIC_SAS_STATS_APPEARANCES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14395,
+      "offset": 14654,
       "length": 30,
       "value": "\"STATIC_SAS_SEARCH_FILTER_ALL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14475,
+      "offset": 14734,
       "length": 32,
       "value": "\"STATIC_SAS_SEARCH_FILTER_ERROR\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14569,
+      "offset": 14828,
       "length": 39,
       "value": "\"STATIC_SAS_SEARCH_FILTER_COMPETITIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14658,
+      "offset": 14917,
       "length": 32,
       "value": "\"STATIC_SAS_SEARCH_FILTER_TEAMS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14735,
+      "offset": 14994,
       "length": 34,
       "value": "\"STATIC_SAS_SEARCH_FILTER_PLAYERS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14824,
+      "offset": 15083,
       "length": 24,
       "value": "\"STATIC_SAS_SEARCH_HINT\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14924,
+      "offset": 15183,
       "length": 35,
       "value": "\"STATIC_SAS_SEARCH_RECENT_SEARCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15000,
+      "offset": 15259,
       "length": 27,
       "value": "\"STATIC_SAS_SEARCH_SEE_ALL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15056,
+      "offset": 15315,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_D\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15110,
+      "offset": 15369,
       "length": 21,
       "value": "\"STATIC_SAS_TABLE_GD\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15165,
+      "offset": 15424,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_L\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15219,
+      "offset": 15478,
       "length": 21,
       "value": "\"STATIC_SAS_TABLE_MP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15276,
+      "offset": 15535,
       "length": 22,
       "value": "\"STATIC_SAS_TABLE_PTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15333,
+      "offset": 15592,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_W\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15399,
+      "offset": 15658,
       "length": 23,
       "value": "\"STATIC_SAS_NEXT_MATCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15473,
+      "offset": 15732,
       "length": 27,
       "value": "\"STATIC_SAS_LAST_5_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15554,
+      "offset": 15813,
       "length": 25,
       "value": "\"STATIC_SAS_LAST_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15688,
+      "offset": 15947,
       "length": 40,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS_PER_GAME\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15771,
+      "offset": 16030,
       "length": 37,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS_TOTAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15856,
+      "offset": 16115,
       "length": 32,
       "value": "\"STATIC_SAS_COMPETITION_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15935,
+      "offset": 16194,
       "length": 30,
       "value": "\"STATIC_SAS_COMPETITION_TABLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16016,
+      "offset": 16275,
       "length": 37,
       "value": "\"STATIC_SAS_COMPETITION_LEAGUE_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16109,
+      "offset": 16368,
       "length": 38,
       "value": "\"STATIC_SAS_COMPETITION_PLAYERS_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16624,
+      "offset": 16883,
       "length": 38,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_SUMMARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16713,
+      "offset": 16972,
       "length": 39,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_COMPLETE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16797,
+      "offset": 17056,
       "length": 35,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_FORM\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16883,
+      "offset": 17142,
       "length": 17,
       "value": "\"STATIC_SAS_RO16\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16952,
+      "offset": 17211,
       "length": 26,
       "value": "\"STATIC_SAS_QUARTER_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17029,
+      "offset": 17288,
       "length": 23,
       "value": "\"STATIC_SAS_SEMI_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17096,
+      "offset": 17355,
       "length": 18,
       "value": "\"STATIC_SAS_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17157,
+      "offset": 17416,
       "length": 22,
       "value": "\"STATIC_SAS_PENALTIES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17226,
+      "offset": 17485,
       "length": 33,
       "value": "\"STATIC_SAS_COMPETITION_KNOCKOUT\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 22978,
+      "offset": 23237,
       "length": 26,
       "value": "\"STATIC_SAS_TEAMS_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23047,
+      "offset": 23306,
       "length": 27,
       "value": "\"STATIC_SAS_TEAMS_OVERVIEW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23115,
+      "offset": 23374,
       "length": 24,
       "value": "\"STATIC_SAS_TEAMS_TABLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23177,
+      "offset": 23436,
       "length": 24,
       "value": "\"STATIC_SAS_TEAMS_SQUAD\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23243,
+      "offset": 23502,
       "length": 31,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23323,
+      "offset": 23582,
       "length": 31,
       "value": "\"STATIC_SAS_TEAMS_PLAYER_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23408,
+      "offset": 23667,
       "length": 32,
       "value": "\"STATIC_SAS_TEAMS_TABLE_SUMMARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23483,
+      "offset": 23742,
       "length": 33,
       "value": "\"STATIC_SAS_TEAMS_TABLE_COMPLETE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23554,
+      "offset": 23813,
       "length": 29,
       "value": "\"STATIC_SAS_TEAMS_TABLE_FORM\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23640,
+      "offset": 23899,
       "length": 29,
       "value": "\"STATIC_SAS_LEAGUE_POSITIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23736,
+      "offset": 23995,
       "length": 33,
       "value": "\"STATIC_SAS_TEAM_NEXT_MATCH_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23883,
+      "offset": 24142,
       "length": 32,
       "value": "\"STATIC_SAS_TEAM_STANDINGS_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24031,
+      "offset": 24290,
       "length": 37,
       "value": "\"STATIC_SAS_TEAM_LAST_5_MATCHES_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24185,
+      "offset": 24444,
       "length": 50,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24279,
+      "offset": 24538,
       "length": 54,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24375,
+      "offset": 24634,
       "length": 51,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24465,
+      "offset": 24724,
       "length": 48,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24559,
+      "offset": 24818,
       "length": 55,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24656,
+      "offset": 24915,
       "length": 52,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24757,
+      "offset": 25016,
       "length": 59,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24856,
+      "offset": 25115,
       "length": 49,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_SEARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24952,
+      "offset": 25211,
       "length": 56,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_SEARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25048,
+      "offset": 25307,
       "length": 49,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25144,
+      "offset": 25403,
       "length": 56,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25233,
+      "offset": 25492,
       "length": 34,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_SKIP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25299,
+      "offset": 25558,
       "length": 48,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_NEW\""
     },
@@ -31862,931 +31876,945 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7812,
+      "offset": 7788,
+      "length": 38,
+      "value": "\"STATIC_SAS_STATS_LINEUPS_LINEUP_INFO\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
+      "kind": "StringLiteral",
+      "offset": 7923,
+      "length": 37,
+      "value": "\"STATIC_SAS_STATS_LINEUPS_SQUAD_INFO\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
+      "kind": "StringLiteral",
+      "offset": 8071,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_TOTAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7902,
+      "offset": 8161,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_HOME\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 7991,
+      "offset": 8250,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_AWAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8083,
+      "offset": 8342,
       "length": 42,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_VICTORY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8175,
+      "offset": 8434,
       "length": 39,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_DRAW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8265,
+      "offset": 8524,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_COMPARE_HISTORY_GOALS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8358,
+      "offset": 8617,
       "length": 37,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8451,
+      "offset": 8710,
       "length": 45,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_ATTACKS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8550,
+      "offset": 8809,
       "length": 43,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_SHOTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8657,
+      "offset": 8916,
       "length": 53,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_SHOTS_ON_TARGET\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8766,
+      "offset": 9025,
       "length": 45,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_CORNERS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8868,
+      "offset": 9127,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_ATTACK_OFFSIDES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 8964,
+      "offset": 9223,
       "length": 38,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9059,
+      "offset": 9318,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_BLOCKED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9168,
+      "offset": 9427,
       "length": 52,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_INTERCEPTIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9280,
+      "offset": 9539,
       "length": 49,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_RECOVERIES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9384,
+      "offset": 9643,
       "length": 44,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_SAVES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9485,
+      "offset": 9744,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DEFENCE_TACKLES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9586,
+      "offset": 9845,
       "length": 43,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9692,
+      "offset": 9951,
       "length": 52,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_ACCURACY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9805,
+      "offset": 10064,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_CROSES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 9916,
+      "offset": 10175,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DISTRIBUTION_PASSES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10017,
+      "offset": 10276,
       "length": 40,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10114,
+      "offset": 10373,
       "length": 46,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_FOULS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10218,
+      "offset": 10477,
       "length": 47,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_YELLOW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10320,
+      "offset": 10579,
       "length": 44,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_RED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10391,
+      "offset": 10650,
       "length": 21,
       "value": "\"STATIC_SAS_JANURARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10434,
+      "offset": 10693,
       "length": 21,
       "value": "\"STATIC_SAS_FEBRUARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10477,
+      "offset": 10736,
       "length": 18,
       "value": "\"STATIC_SAS_MARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10517,
+      "offset": 10776,
       "length": 18,
       "value": "\"STATIC_SAS_APRIL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10557,
+      "offset": 10816,
       "length": 16,
       "value": "\"STATIC_SAS_MAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10595,
+      "offset": 10854,
       "length": 17,
       "value": "\"STATIC_SAS_JUNE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10634,
+      "offset": 10893,
       "length": 17,
       "value": "\"STATIC_SAS_JULY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10673,
+      "offset": 10932,
       "length": 19,
       "value": "\"STATIC_SAS_AUGUST\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10714,
+      "offset": 10973,
       "length": 22,
       "value": "\"STATIC_SAS_SEPTEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10758,
+      "offset": 11017,
       "length": 20,
       "value": "\"STATIC_SAS_OCTOBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10800,
+      "offset": 11059,
       "length": 21,
       "value": "\"STATIC_SAS_NOVEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10843,
+      "offset": 11102,
       "length": 21,
       "value": "\"STATIC_SAS_DECEMBER\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10887,
+      "offset": 11146,
       "length": 18,
       "value": "\"STATIC_SAS_TODAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10925,
+      "offset": 11184,
       "length": 19,
       "value": "\"STATIC_SAS_SUNDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 10964,
+      "offset": 11223,
       "length": 19,
       "value": "\"STATIC_SAS_MONDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11004,
+      "offset": 11263,
       "length": 20,
       "value": "\"STATIC_SAS_TUESDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11044,
+      "offset": 11303,
       "length": 22,
       "value": "\"STATIC_SAS_WEDNESDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11088,
+      "offset": 11347,
       "length": 21,
       "value": "\"STATIC_SAS_THURSDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11129,
+      "offset": 11388,
       "length": 19,
       "value": "\"STATIC_SAS_FRIDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11168,
+      "offset": 11427,
       "length": 21,
       "value": "\"STATIC_SAS_SATURDAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11211,
+      "offset": 11470,
       "length": 17,
       "value": "\"STATIC_SAS_YEAR\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11244,
+      "offset": 11503,
       "length": 16,
       "value": "\"STATIC_SAS_DAY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11301,
+      "offset": 11560,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_0_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11387,
+      "offset": 11646,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_1_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11470,
+      "offset": 11729,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_2_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11559,
+      "offset": 11818,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_3_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11647,
+      "offset": 11906,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_4_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11738,
+      "offset": 11997,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_5_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11827,
+      "offset": 12086,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_6_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 11918,
+      "offset": 12177,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_7_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12008,
+      "offset": 12267,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_8_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12105,
+      "offset": 12364,
       "length": 36,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_9_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12193,
+      "offset": 12452,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_10_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12290,
+      "offset": 12549,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_11_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12392,
+      "offset": 12651,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_12_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12489,
+      "offset": 12748,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_13_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12585,
+      "offset": 12844,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_14_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12693,
+      "offset": 12952,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_15_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12776,
+      "offset": 13035,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_16_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12880,
+      "offset": 13139,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_17_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 12975,
+      "offset": 13234,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_18_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13071,
+      "offset": 13330,
       "length": 37,
       "value": "\"STATIC_SAS_COMMENTARY_TYPE_19_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13809,
+      "offset": 14068,
       "length": 24,
       "value": "\"STATIC_SAS_STATS_GOALS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13879,
+      "offset": 14138,
       "length": 35,
       "value": "\"STATIC_SAS_STATS_PENALTIES_SCORED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 13958,
+      "offset": 14217,
       "length": 33,
       "value": "\"STATIC_SAS_STATS_GOALS_CONCEDED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14036,
+      "offset": 14295,
       "length": 34,
       "value": "\"STATIC_SAS_STATS_PENALTIES_SAVED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14131,
+      "offset": 14390,
       "length": 50,
       "value": "\"STATIC_SAS_STATS_PERFORMENCE_DICIPLINE_FOULS_WON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14218,
+      "offset": 14477,
       "length": 26,
       "value": "\"STATIC_SAS_STATS_ASSISTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14285,
+      "offset": 14544,
       "length": 30,
       "value": "\"STATIC_SAS_STATS_APPEARANCES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14395,
+      "offset": 14654,
       "length": 30,
       "value": "\"STATIC_SAS_SEARCH_FILTER_ALL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14475,
+      "offset": 14734,
       "length": 32,
       "value": "\"STATIC_SAS_SEARCH_FILTER_ERROR\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14569,
+      "offset": 14828,
       "length": 39,
       "value": "\"STATIC_SAS_SEARCH_FILTER_COMPETITIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14658,
+      "offset": 14917,
       "length": 32,
       "value": "\"STATIC_SAS_SEARCH_FILTER_TEAMS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14735,
+      "offset": 14994,
       "length": 34,
       "value": "\"STATIC_SAS_SEARCH_FILTER_PLAYERS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14824,
+      "offset": 15083,
       "length": 24,
       "value": "\"STATIC_SAS_SEARCH_HINT\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 14924,
+      "offset": 15183,
       "length": 35,
       "value": "\"STATIC_SAS_SEARCH_RECENT_SEARCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15000,
+      "offset": 15259,
       "length": 27,
       "value": "\"STATIC_SAS_SEARCH_SEE_ALL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15056,
+      "offset": 15315,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_D\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15110,
+      "offset": 15369,
       "length": 21,
       "value": "\"STATIC_SAS_TABLE_GD\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15165,
+      "offset": 15424,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_L\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15219,
+      "offset": 15478,
       "length": 21,
       "value": "\"STATIC_SAS_TABLE_MP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15276,
+      "offset": 15535,
       "length": 22,
       "value": "\"STATIC_SAS_TABLE_PTS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15333,
+      "offset": 15592,
       "length": 20,
       "value": "\"STATIC_SAS_TABLE_W\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15399,
+      "offset": 15658,
       "length": 23,
       "value": "\"STATIC_SAS_NEXT_MATCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15473,
+      "offset": 15732,
       "length": 27,
       "value": "\"STATIC_SAS_LAST_5_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15554,
+      "offset": 15813,
       "length": 25,
       "value": "\"STATIC_SAS_LAST_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15688,
+      "offset": 15947,
       "length": 40,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS_PER_GAME\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15771,
+      "offset": 16030,
       "length": 37,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS_TOTAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15856,
+      "offset": 16115,
       "length": 32,
       "value": "\"STATIC_SAS_COMPETITION_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 15935,
+      "offset": 16194,
       "length": 30,
       "value": "\"STATIC_SAS_COMPETITION_TABLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16016,
+      "offset": 16275,
       "length": 37,
       "value": "\"STATIC_SAS_COMPETITION_LEAGUE_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16109,
+      "offset": 16368,
       "length": 38,
       "value": "\"STATIC_SAS_COMPETITION_PLAYERS_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16624,
+      "offset": 16883,
       "length": 38,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_SUMMARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16713,
+      "offset": 16972,
       "length": 39,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_COMPLETE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16797,
+      "offset": 17056,
       "length": 35,
       "value": "\"STATIC_SAS_COMPETITION_TABLE_FORM\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16883,
+      "offset": 17142,
       "length": 17,
       "value": "\"STATIC_SAS_RO16\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 16952,
+      "offset": 17211,
       "length": 26,
       "value": "\"STATIC_SAS_QUARTER_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17029,
+      "offset": 17288,
       "length": 23,
       "value": "\"STATIC_SAS_SEMI_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17096,
+      "offset": 17355,
       "length": 18,
       "value": "\"STATIC_SAS_FINAL\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17157,
+      "offset": 17416,
       "length": 22,
       "value": "\"STATIC_SAS_PENALTIES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 17226,
+      "offset": 17485,
       "length": 33,
       "value": "\"STATIC_SAS_COMPETITION_KNOCKOUT\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 22978,
+      "offset": 23237,
       "length": 26,
       "value": "\"STATIC_SAS_TEAMS_MATCHES\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23047,
+      "offset": 23306,
       "length": 27,
       "value": "\"STATIC_SAS_TEAMS_OVERVIEW\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23115,
+      "offset": 23374,
       "length": 24,
       "value": "\"STATIC_SAS_TEAMS_TABLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23177,
+      "offset": 23436,
       "length": 24,
       "value": "\"STATIC_SAS_TEAMS_SQUAD\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23243,
+      "offset": 23502,
       "length": 31,
       "value": "\"STATIC_SAS_TEAMS_LEAGUE_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23323,
+      "offset": 23582,
       "length": 31,
       "value": "\"STATIC_SAS_TEAMS_PLAYER_STATS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23408,
+      "offset": 23667,
       "length": 32,
       "value": "\"STATIC_SAS_TEAMS_TABLE_SUMMARY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23483,
+      "offset": 23742,
       "length": 33,
       "value": "\"STATIC_SAS_TEAMS_TABLE_COMPLETE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23554,
+      "offset": 23813,
       "length": 29,
       "value": "\"STATIC_SAS_TEAMS_TABLE_FORM\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23640,
+      "offset": 23899,
       "length": 29,
       "value": "\"STATIC_SAS_LEAGUE_POSITIONS\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23736,
+      "offset": 23995,
       "length": 33,
       "value": "\"STATIC_SAS_TEAM_NEXT_MATCH_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 23883,
+      "offset": 24142,
       "length": 32,
       "value": "\"STATIC_SAS_TEAM_STANDINGS_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24031,
+      "offset": 24290,
       "length": 37,
       "value": "\"STATIC_SAS_TEAM_LAST_5_MATCHES_INFO\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24185,
+      "offset": 24444,
       "length": 50,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24279,
+      "offset": 24538,
       "length": 54,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24375,
+      "offset": 24634,
       "length": 51,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24465,
+      "offset": 24724,
       "length": 48,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24559,
+      "offset": 24818,
       "length": 55,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24656,
+      "offset": 24915,
       "length": 52,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24757,
+      "offset": 25016,
       "length": 59,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_SUB_TITLE\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24856,
+      "offset": 25115,
       "length": 49,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_SEARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 24952,
+      "offset": 25211,
       "length": 56,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_SEARCH\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25048,
+      "offset": 25307,
       "length": 49,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_TEAMS_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25144,
+      "offset": 25403,
       "length": 56,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_COMPETITIONS_SCREEN_BUTTON\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25233,
+      "offset": 25492,
       "length": 34,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_SKIP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
       "kind": "StringLiteral",
-      "offset": 25299,
+      "offset": 25558,
       "length": 48,
       "value": "\"STATIC_SAS_SUGGESTED_FOLLOW_WELCOME_SCREEN_NEW\""
     },
@@ -33359,43 +33387,22 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5576,
-      "length": 67,
-      "value": "\"https:\/\/stats-scores-bucket.s3.eu-central-1.amazonaws.com\/assets\/\""
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5708,
-      "length": 34,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5727,
-      "length": 1,
-      "value": "\"%@\/primary.png\""
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6741,
+      "offset": 6918,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7144,
+      "offset": 7321,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8218,
+      "offset": 8395,
       "length": 1,
       "value": "1"
     },
