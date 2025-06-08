@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		upZhmjKr6Me/A9N1BDOsOqCFQzU=
+		CvNzN0WJFukXIsrXePomXPq87mE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PABuE1qtgCBqFrhDKPgizkozBfE=
+		hNCuRAXNalYaKFOCUmDc1UZcfOs=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		upZhmjKr6Me/A9N1BDOsOqCFQzU=
+		CvNzN0WJFukXIsrXePomXPq87mE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		N23jnIfg1Xa7JXNWoz3WAVFQKx4=
+		OaOLSqedm2xdRSwbGJzgdJSqPsQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80f3rWMmPjQ1pzSByiT3NSxeWRgkCNkqjjY0AYGJHBk=
+			EKduYsh+uK1kfmIiVZymKC6qkhOZL6fUNlhjVxW1rmY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -226,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rh9qpz4uUe1GBeKs+cw6ZA95H2tupB5R487nlcEtjLY=
+			WHrHhTbLHfVnj2NrAk/wDzuK5LWSy8cmr+JSIv9jAWI=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80f3rWMmPjQ1pzSByiT3NSxeWRgkCNkqjjY0AYGJHBk=
+			EKduYsh+uK1kfmIiVZymKC6qkhOZL6fUNlhjVxW1rmY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7L24pnITepsdg9wr4YceaBDJNC1egMgxP1JtQQZsJJI=
+			wzCHhI2wpYK/Q7DL2sys/++O/jxzP4lHywtmK4/s8BI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
