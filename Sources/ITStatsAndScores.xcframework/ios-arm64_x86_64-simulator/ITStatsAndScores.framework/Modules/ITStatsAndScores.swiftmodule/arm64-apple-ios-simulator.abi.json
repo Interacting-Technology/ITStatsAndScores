@@ -1262,6 +1262,23 @@
       },
       {
         "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1551,6 +1568,23 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "ITStatsAndScores",
         "declAttributes": [
@@ -3357,6 +3391,64 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "getCountry",
+            "printedName": "getCountry",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores0abC6AccessC10getCountrySSSgvp",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC10getCountrySSSgvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores0abC6AccessC10getCountrySSSgvg",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC10getCountrySSSgvg",
+                "moduleName": "ITStatsAndScores",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
           },
           {
             "kind": "Var",
@@ -8713,6 +8805,16 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -10487,6 +10589,30 @@
             ],
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "navigateToRegistration",
+            "printedName": "navigateToRegistration()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistrationyyF",
+            "mangledName": "$s16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistrationyyF",
+            "moduleName": "ITStatsAndScores",
+            "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITNavigationBridgeDelegate>",
+            "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITNavigationBridgeDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Protocol",
@@ -11106,6 +11232,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "CompetitionDisplaySettings",
         "printedName": "CompetitionDisplaySettings",
@@ -11558,6 +11694,16 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -12701,6 +12847,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "ITStatsAndScores",
         "declAttributes": [
@@ -13795,56 +13951,56 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 28187,
+      "offset": 28162,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28228,
+      "offset": 28203,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28372,
+      "offset": 28347,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28393,
+      "offset": 28368,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28469,
+      "offset": 28444,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28490,
+      "offset": 28465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28566,
+      "offset": 28541,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28586,
+      "offset": 28561,
       "length": 4,
       "value": "true"
     },
@@ -15286,7 +15442,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/Cells\/FixtureLiveUpdateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6663,
+      "offset": 6756,
       "length": 2,
       "value": "24"
     },
@@ -24608,6 +24764,55 @@
       "value": "\"ITFixtureOverviewScreenScroll\""
     },
     {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 226,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 338,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 400,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 457,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 512,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
+      "kind": "IntegerLiteral",
+      "offset": 563,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Developer\/Debug\/BottomSheetConsole\/ShakeDetector.swift",
       "kind": "StringLiteral",
       "offset": 261,
@@ -28400,6 +28605,13 @@
       "offset": 391,
       "length": 38,
       "value": "\"85979B4D-182F-4304-95B0-78DBBE898935\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/NewInfoLabelAndIndicatorView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 297,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/UIKitViews\/TableViewUIKit.swift",
@@ -33395,28 +33607,28 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2926,
+      "offset": 2936,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6918,
+      "offset": 6928,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7321,
+      "offset": 7331,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/ImageDownload\/ImagesManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8395,
+      "offset": 8405,
       "length": 1,
       "value": "1"
     },
@@ -35376,23 +35588,779 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/ITFixtureStatisticsScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 769,
+      "offset": 1066,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/ITFixtureStatisticsScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 818,
+      "offset": 1115,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureStatisticsScreen\/ITFixtureStatisticsScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 871,
+      "offset": 1168,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 14,
+      "value": "\"Possession %\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 807,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 896,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 982,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1071,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1156,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1246,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1336,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1428,
+      "length": 14,
+      "value": "\"Possession %\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1530,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1535,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1619,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1706,
+      "length": 5,
+      "value": "\"48%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1792,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 1879,
+      "length": 5,
+      "value": "\"52%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1964,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2053,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2142,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 2243,
+      "length": 14,
+      "value": "\"Possession %\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2353,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2359,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 2451,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 2546,
+      "length": 6,
+      "value": "\"100%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 2641,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 2736,
+      "length": 4,
+      "value": "\"0%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2828,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2925,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3022,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3113,
+      "length": 14,
+      "value": "\"Possession %\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3223,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3227,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3319,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3414,
+      "length": 4,
+      "value": "\"0%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3507,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3602,
+      "length": 6,
+      "value": "\"100%\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3696,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3793,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3889,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 3979,
+      "length": 7,
+      "value": "\"Saves\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4152,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4236,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4317,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4401,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4481,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4566,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4651,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4741,
+      "length": 7,
+      "value": "\"Shots\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4834,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4838,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 4918,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5003,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5085,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5170,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5251,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5338,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5425,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5520,
+      "length": 9,
+      "value": "\"Corners\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5619,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5621,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5705,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5794,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5880,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 5969,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6054,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6145,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6236,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 6331,
+      "length": 9,
+      "value": "\"Corners\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6430,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6432,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 6516,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 6605,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 6691,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 6780,
+      "length": 3,
+      "value": "\"4\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6865,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6956,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7046,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 7146,
+      "length": 8,
+      "value": "\"Blocks\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7249,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7253,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7256,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 7347,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 7441,
+      "length": 4,
+      "value": "\"14\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 7533,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 7627,
+      "length": 4,
+      "value": "\"24\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7718,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7814,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7910,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8008,
+      "length": 14,
+      "value": "\"Interception\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8115,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8118,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8206,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8298,
+      "length": 4,
+      "value": "\"13\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8388,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8480,
+      "length": 4,
+      "value": "\"13\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8569,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8663,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8757,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 8864,
+      "length": 17,
+      "value": "\"Shots on target\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8983,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8987,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8990,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 9088,
+      "length": 9,
+      "value": "\"#F9FAFA\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 9189,
+      "length": 4,
+      "value": "\"25\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 9288,
+      "length": 9,
+      "value": "\"#FFFA00\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "StringLiteral",
+      "offset": 9389,
+      "length": 4,
+      "value": "\"24\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9487,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9590,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/Charts\/TwoSidesCompareBar\/Models\/TwoSidesCompareBarViewData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9693,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/UINavigationHandlers\/ITStatsAndScoresUIStateService.swift",

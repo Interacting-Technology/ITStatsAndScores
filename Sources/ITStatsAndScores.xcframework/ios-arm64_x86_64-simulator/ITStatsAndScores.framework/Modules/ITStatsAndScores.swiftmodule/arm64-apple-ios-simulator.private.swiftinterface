@@ -107,6 +107,9 @@ public enum LiteCompetitionInfo {
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public var getCountry: Swift.String? {
+    get
+  }
   public var getLangauge: Swift.String? {
     get
   }
@@ -269,6 +272,7 @@ public protocol ITFollowingAndRemindersDelegate {
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
   func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType, navigationController: UIKit.UINavigationController?)
+  func navigateToRegistration()
 }
 public enum ITNavigationType : Swift.String {
   case fixture
