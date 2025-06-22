@@ -10579,17 +10579,23 @@
           {
             "kind": "Function",
             "name": "navigateToRegistration",
-            "printedName": "navigateToRegistration()",
+            "printedName": "navigateToRegistration(trigger:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ITNavigateToRegistrationTrigger",
+                "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistrationyyF",
-            "mangledName": "$s16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistrationyyF",
+            "usr": "s:16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistration7triggeryAA010ITNavigatehI7TriggerO_tF",
+            "mangledName": "$s16ITStatsAndScores26ITNavigationBridgeDelegateP22navigateToRegistration7triggeryAA010ITNavigatehI7TriggerO_tF",
             "moduleName": "ITStatsAndScores",
             "genericSig": "<τ_0_0 where τ_0_0 : ITStatsAndScores.ITNavigationBridgeDelegate>",
             "sugared_genericSig": "<Self where Self : ITStatsAndScores.ITNavigationBridgeDelegate>",
@@ -11124,6 +11130,206 @@
             ],
             "usr": "s:SY",
             "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ITNavigateToRegistrationTrigger",
+        "printedName": "ITNavigateToRegistrationTrigger",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "scoreCenterMaxViewAsGuest",
+            "printedName": "scoreCenterMaxViewAsGuest",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.ITNavigateToRegistrationTrigger.Type) -> ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ITNavigateToRegistrationTrigger",
+                    "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                    "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ITNavigateToRegistrationTrigger",
+                        "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                        "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO25scoreCenterMaxViewAsGuestyA2CmF",
+            "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO25scoreCenterMaxViewAsGuestyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Var",
+            "name": "followingClickedAsGuest",
+            "printedName": "followingClickedAsGuest",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ITStatsAndScores.ITNavigateToRegistrationTrigger.Type) -> ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ITNavigateToRegistrationTrigger",
+                    "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                    "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ITNavigateToRegistrationTrigger",
+                        "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                        "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO23followingClickedAsGuestyA2CmF",
+            "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO23followingClickedAsGuestyA2CmF",
+            "moduleName": "ITStatsAndScores"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ITNavigateToRegistrationTrigger",
+                "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ITNavigateToRegistrationTrigger",
+                "printedName": "ITStatsAndScores.ITNavigateToRegistrationTrigger",
+                "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO2eeoiySbAC_ACtFZ",
+            "moduleName": "ITStatsAndScores",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO9hashValueSivp",
+            "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO9hashValueSivp",
+            "moduleName": "ITStatsAndScores",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO9hashValueSivg",
+                "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO9hashValueSivg",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO4hash4intoys6HasherVz_tF",
+            "moduleName": "ITStatsAndScores",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:16ITStatsAndScores31ITNavigateToRegistrationTriggerO",
+        "mangledName": "$s16ITStatsAndScores31ITNavigateToRegistrationTriggerO",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -13909,84 +14115,77 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1761,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6695,
+      "offset": 6635,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 13069,
+      "offset": 13009,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13215,
+      "offset": 13155,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 28194,
+      "offset": 28172,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28235,
+      "offset": 28213,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28379,
+      "offset": 28357,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28400,
+      "offset": 28378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28476,
+      "offset": 28454,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28497,
+      "offset": 28475,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28573,
+      "offset": 28551,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28593,
+      "offset": 28571,
       "length": 4,
       "value": "true"
     },
@@ -19153,6 +19352,13 @@
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/ITFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
       "offset": 741,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Environments\/Storage\/UserDefaultsManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 222,
       "length": 4,
       "value": "true"
     },
