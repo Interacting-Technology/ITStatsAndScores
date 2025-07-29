@@ -21094,7 +21094,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/JsonDataDecoder.swift",
       "kind": "BooleanLiteral",
-      "offset": 4839,
+      "offset": 4905,
       "length": 5,
       "value": "false"
     },
