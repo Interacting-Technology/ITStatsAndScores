@@ -9,6 +9,7 @@ import Foundation
 @_exported import ITStatsAndScores
 import ImageIO
 import MessageUI
+import MetricKit
 import OSLog
 import Swift
 import SwiftUI
