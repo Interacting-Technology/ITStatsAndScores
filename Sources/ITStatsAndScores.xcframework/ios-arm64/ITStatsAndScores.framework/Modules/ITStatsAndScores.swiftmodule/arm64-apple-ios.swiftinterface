@@ -7,10 +7,10 @@ import CoreText
 import DeveloperToolsSupport
 import Foundation
 @_exported import ITStatsAndScores
-import ImageIO
 import MessageUI
 import MetricKit
 import OSLog
+import Security
 import Swift
 import SwiftUI
 import UIKit
@@ -90,9 +90,6 @@ public enum LiteCompetitionInfo {
 }
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
-  public var isAnonymous: Swift.Bool {
-    get
-  }
   public var navigationDelegate: (any ITStatsAndScores.ITNavigationBridgeDelegate)?
   public var followingAndRemindersDelegate: (any ITStatsAndScores.ITFollowingAndRemindersDelegate)? {
     get
@@ -273,7 +270,7 @@ public protocol ITFollowingAndRemindersDelegate {
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
   func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType, navigationController: UIKit.UINavigationController?)
-  func navigateToRegistration(trigger: ITStatsAndScores.ITNavigateToRegistrationTrigger)
+  func navigateToRegistration()
 }
 public enum ITNavigationType : Swift.String {
   case fixture
@@ -297,15 +294,6 @@ public enum ITFollowType : Swift.String {
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
-    get
-  }
-}
-public enum ITNavigateToRegistrationTrigger {
-  case scoreCenterMaxViewAsGuest
-  case followingClickedAsGuest
-  public static func == (a: ITStatsAndScores.ITNavigateToRegistrationTrigger, b: ITStatsAndScores.ITNavigateToRegistrationTrigger) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
     get
   }
 }
@@ -394,5 +382,3 @@ extension ITStatsAndScores.ITNavigationType : Swift.RawRepresentable {}
 extension ITStatsAndScores.ITFollowType : Swift.Equatable {}
 extension ITStatsAndScores.ITFollowType : Swift.Hashable {}
 extension ITStatsAndScores.ITFollowType : Swift.RawRepresentable {}
-extension ITStatsAndScores.ITNavigateToRegistrationTrigger : Swift.Equatable {}
-extension ITStatsAndScores.ITNavigateToRegistrationTrigger : Swift.Hashable {}
