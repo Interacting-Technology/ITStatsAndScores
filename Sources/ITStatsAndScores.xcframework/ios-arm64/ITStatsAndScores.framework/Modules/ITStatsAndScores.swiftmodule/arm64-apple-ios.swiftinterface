@@ -111,9 +111,10 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public var getCountry: Swift.String? {
     get
   }
-  public var getLangauge: Swift.String? {
+  public var getLanguage: Swift.String? {
     get
   }
+  public static func clearAllImagesCache()
 }
 public enum OldAnalyticsEvent : Swift.String {
   case page_load
@@ -263,6 +264,13 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension UIKit.UIWindow {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func motionEnded(_ motion: UIKit.UIEvent.EventSubtype, with event: UIKit.UIEvent?)
+}
+public struct PublicDebugView : SwiftUI.View {
+  public init()
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores15PublicDebugViewV4bodyQrvp", 0) __
 }
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {

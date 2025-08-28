@@ -3459,8 +3459,8 @@
           },
           {
             "kind": "Var",
-            "name": "getLangauge",
-            "printedName": "getLangauge",
+            "name": "getLanguage",
+            "printedName": "getLanguage",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3478,8 +3478,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:16ITStatsAndScores0abC6AccessC11getLangaugeSSSgvp",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC11getLangaugeSSSgvp",
+            "usr": "s:16ITStatsAndScores0abC6AccessC11getLanguageSSSgvp",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC11getLanguageSSSgvp",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl"
@@ -3507,13 +3507,36 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:16ITStatsAndScores0abC6AccessC11getLangaugeSSSgvg",
-                "mangledName": "$s16ITStatsAndScores0abC6AccessC11getLangaugeSSSgvg",
+                "usr": "s:16ITStatsAndScores0abC6AccessC11getLanguageSSSgvg",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC11getLanguageSSSgvg",
                 "moduleName": "ITStatsAndScores",
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
             ]
+          },
+          {
+            "kind": "Function",
+            "name": "clearAllImagesCache",
+            "printedName": "clearAllImagesCache()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC19clearAllImagesCacheyyFZ",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC19clearAllImagesCacheyyFZ",
+            "moduleName": "ITStatsAndScores",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Function",
@@ -10245,6 +10268,138 @@
         "printedName": "Combine",
         "declKind": "Import",
         "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PublicDebugView",
+        "printedName": "PublicDebugView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PublicDebugView",
+                "printedName": "ITStatsAndScores.PublicDebugView",
+                "usr": "s:16ITStatsAndScores15PublicDebugViewV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16ITStatsAndScores15PublicDebugViewVACycfc",
+            "mangledName": "$s16ITStatsAndScores15PublicDebugViewVACycfc",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ITStatsAndScores15PublicDebugViewV4bodyQrvp",
+            "mangledName": "$s16ITStatsAndScores15PublicDebugViewV4bodyQrvp",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ITStatsAndScores15PublicDebugViewV4bodyQrvg",
+                "mangledName": "$s16ITStatsAndScores15PublicDebugViewV4bodyQrvg",
+                "moduleName": "ITStatsAndScores",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:16ITStatsAndScores15PublicDebugViewV",
+        "mangledName": "$s16ITStatsAndScores15PublicDebugViewV",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          }
+        ]
       },
       {
         "kind": "Import",
