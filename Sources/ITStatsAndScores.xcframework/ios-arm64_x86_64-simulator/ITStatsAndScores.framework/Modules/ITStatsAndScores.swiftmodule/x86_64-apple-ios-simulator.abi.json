@@ -22504,13 +22504,6 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLineupsScreenV2\/Views\/FixtureFormation\/FixtureLineupsFormationViewV2.swift",
-      "kind": "FloatLiteral",
-      "offset": 322,
-      "length": 5,
-      "value": "0.739"
-    },
-    {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITSportDetails\/ITTeams\/TeamScreens\/ITTeamOverviewScreen\/ITTeamOverviewScreenModel.swift",
       "kind": "BooleanLiteral",
       "offset": 382,
@@ -28904,168 +28897,168 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 860,
+      "offset": 1333,
       "length": 3,
       "value": "318"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 905,
+      "offset": 1378,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 958,
+      "offset": 1431,
       "length": 3,
       "value": "155"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1013,
+      "offset": 1486,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1074,
+      "offset": 1547,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1457,
+      "offset": 1930,
       "length": 3,
       "value": "343"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1502,
+      "offset": 1975,
       "length": 3,
       "value": "130"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1613,
+      "offset": 2086,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1736,
+      "offset": 2209,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1758,
+      "offset": 2231,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1815,
+      "offset": 2288,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 1935,
+      "offset": 2408,
       "length": 3,
       "value": "108"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2002,
+      "offset": 2475,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2063,
+      "offset": 2536,
       "length": 2,
       "value": "62"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2196,
+      "offset": 2669,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2243,
+      "offset": 2716,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2299,
+      "offset": 2772,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2352,
+      "offset": 2825,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2421,
+      "offset": 2894,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2427,
+      "offset": 2900,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2490,
+      "offset": 2963,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2498,
+      "offset": 2971,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2559,
+      "offset": 3032,
       "length": 3,
       "value": "330"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/DesignSystem.swift",
       "kind": "IntegerLiteral",
-      "offset": 2610,
+      "offset": 3083,
       "length": 3,
       "value": "215"
     },
