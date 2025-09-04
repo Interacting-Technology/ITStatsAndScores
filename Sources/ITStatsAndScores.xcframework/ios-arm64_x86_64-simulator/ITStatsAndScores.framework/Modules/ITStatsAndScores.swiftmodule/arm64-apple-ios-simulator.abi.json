@@ -33545,35 +33545,35 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "BooleanLiteral",
-      "offset": 2693,
+      "offset": 2685,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 10217,
+      "offset": 10209,
       "length": 17,
       "value": "\"ITlocalizations\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 10217,
+      "offset": 10209,
       "length": 17,
       "value": "\"ITlocalizations\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "Dictionary",
-      "offset": 10936,
+      "offset": 10928,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/FrameworkResources.swift",
       "kind": "StringLiteral",
-      "offset": 10985,
+      "offset": 10977,
       "length": 36,
       "value": "\"com.ITStatsAndScores.safeDictQueue\""
     },
