@@ -89,6 +89,7 @@ public enum LiteCompetitionInfo {
   }
 }
 @_hasMissingDesignatedInitializers public class ITStatsAndScoresAccess {
+  final public let sdkVersion: Swift.String
   public static var shared: ITStatsAndScores.ITStatsAndScoresAccess
   public var isAnonymous: Swift.Bool {
     get

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rSX2mRRzDn7/0h/Wx5EnyqGoxqU=
+		bomWfCXSPle6HlZiidvKps9kMdQ=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		rym64buKHgincfk2fittpQce8eY=
+		bHs26kgZF42N6QmAv5CnS/3qNqM=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7HYb4SJqNAvi+hwYQg8b5t5Sjzs=
+		4xHsAKDp/qYImGFUFNNtHVDhutE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7HYb4SJqNAvi+hwYQg8b5t5Sjzs=
+		4xHsAKDp/qYImGFUFNNtHVDhutE=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		niXWZa52ox42r0QgRBJVE55iViU=
+		1+vzZVRHxD+Vxn/X8TsojvZvUf4=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		rym64buKHgincfk2fittpQce8eY=
+		bHs26kgZF42N6QmAv5CnS/3qNqM=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WyNuu/erayfoqg1f/4bFzQqqUqs=
+		Jfk18FfsnXCz3AMCccI2QP75Sf8=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WyNuu/erayfoqg1f/4bFzQqqUqs=
+		Jfk18FfsnXCz3AMCccI2QP75Sf8=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7Ac3RducEtuMh9dbTCk0QWanONY=
+		uCqCc9isZeRt2+/0qsTlVLk6lHk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XN7G4hFWG/+R88m+zjdPxADdIDgroy3xdlnAtonRvZ4=
+			SgJMDUUzNXHJEjRCiX47KpbYB/BDZQXHlI4gvkYhZoI=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -202,14 +202,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x1JYnjQki25Q4WOUxg3Kc5/LKCs0kPkPtLLbsr0iuX8=
+			jglgTjt95EJRmllsX55RCtmZo1XFV4HaetVrDeqKhIs=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FieRHdrQlrIYL7G9MAvA1TlQnNEZljt4sy3Jk4bQuX0=
+			6TSkm4jXD67agmUYq44IGf0/K50delDvTJ7qBVX8RcY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -223,28 +223,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FieRHdrQlrIYL7G9MAvA1TlQnNEZljt4sy3Jk4bQuX0=
+			6TSkm4jXD67agmUYq44IGf0/K50delDvTJ7qBVX8RcY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A+gg2QQGYVFTlSvaxgzgaM47Gz5ItTmBK7CdMMh9fAc=
+			vB5PDA3zY5sGJQJj/TwhRBg//ylVuP0lkbf6d8ZVrCY=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x1JYnjQki25Q4WOUxg3Kc5/LKCs0kPkPtLLbsr0iuX8=
+			jglgTjt95EJRmllsX55RCtmZo1XFV4HaetVrDeqKhIs=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			29B1gLLRyRJmcOuMTnQhO2dBV5J1zpvfRUGmy6S7W/Q=
+			dduYb6PaJ15glUlouJH0nwLp3fAhCQsonxbvb7IlKe4=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -258,14 +258,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			29B1gLLRyRJmcOuMTnQhO2dBV5J1zpvfRUGmy6S7W/Q=
+			dduYb6PaJ15glUlouJH0nwLp3fAhCQsonxbvb7IlKe4=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			583+qYPNR1dE/5MoOO0C4nqNXmBlTOSI0YxMyLh662A=
+			sdqVOkuXIefjptTLjiUTWdJYwz6k1Y7k9uFa0ZV3eJ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
