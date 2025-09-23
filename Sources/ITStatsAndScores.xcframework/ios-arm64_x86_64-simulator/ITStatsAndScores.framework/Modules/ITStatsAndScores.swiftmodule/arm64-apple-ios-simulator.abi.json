@@ -26115,7 +26115,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/V2\/ITFixtureLiveUpdatesScreenV2.swift",
       "kind": "StringLiteral",
-      "offset": 520,
+      "offset": 524,
       "length": 34,
       "value": "\"ITFixtureLiveUpdatesScreenScroll\""
     },
@@ -42453,21 +42453,21 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/V2\/ITFixtureLiveUpdatesScreenModelV2.swift",
       "kind": "BooleanLiteral",
-      "offset": 938,
+      "offset": 1019,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/V2\/ITFixtureLiveUpdatesScreenModelV2.swift",
       "kind": "BooleanLiteral",
-      "offset": 987,
+      "offset": 1068,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITFixtures\/FixtureScreens\/ITFixtureLiveUpdatesScreen\/V2\/ITFixtureLiveUpdatesScreenModelV2.swift",
       "kind": "BooleanLiteral",
-      "offset": 1040,
+      "offset": 1121,
       "length": 4,
       "value": "true"
     },
