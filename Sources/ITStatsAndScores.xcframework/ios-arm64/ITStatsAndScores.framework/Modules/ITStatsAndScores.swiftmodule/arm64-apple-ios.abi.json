@@ -8597,6 +8597,20 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -17334,7 +17348,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITFixtureStatisticsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12257,
+      "offset": 12468,
       "length": 1,
       "value": "0"
     },
