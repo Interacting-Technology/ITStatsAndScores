@@ -8597,20 +8597,6 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "ITStatsAndScores"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -17348,7 +17334,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITFixtureStatisticsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12468,
+      "offset": 11881,
       "length": 1,
       "value": "0"
     },
@@ -20795,6 +20781,13 @@
       "offset": 14148,
       "length": 14,
       "value": "\"19 Jan. 2023\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/UINavigationHandlers\/OrientationDetector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 246,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/DesignSystem\/ColorSpace.swift",
