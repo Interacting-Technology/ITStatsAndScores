@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.8.7
+- 0.8.8
 
 ## Is a HotFix
 - NO 
@@ -12,7 +12,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
 - [x] Added userStatus: UserStatus to ITConfiguration
-- [x] Since server is https then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
+- [x] Since server is http NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
 
 ## Score Center Screen Features
 - [x] See scores of past matches
@@ -20,50 +20,49 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] See times for future matches
 - [x] Select a day with the Day Picker to show matches on that day
 - [x] Jump to past or future matches with a Date Picker
+- [x] Select between sports: Soccer(Football)/Basketball
 - [x] Filter to focus only on live matches
 - [x] Filter by Top Competitions
 - [x] Filter by Followings
 - [x] Filter by All
 - [x] Set Reminders for select matches
 - [x] Click on a match to see the Fixture Pages (Head to Head/comparison, Lineups, Commentaries/Live updates, Statistics)
-- [x] (IN Development):
-- [x] Click on a competition to see the Competition Pages (Matches, Table, League Stats, Player Stats) (IN Development) 
-- [x] Click on Top Competitions Selector to jump to a Competition Page (IN Development) 
-- [x] Click on Search to search for Competitions, Teams or Players (IN Development) 
+- [x] Click on a competition to see the Competition Pages (Matches, Table, Knockouts/Playoffs, League Stats, Player Stats)
+- [x] Click on Top Competitions Selector to jump to a Competition Page
+- [x] Click on Search to search for Competitions or Teams
 
 ## Fixture Pages Features
 - [x] LiteFixture access by clicking on a match in Score Center Screen
 - [x] Fixture page Head to Head: Positions, Historic Rates charts, Momentum, Historic Matches
-- [x] Fixture page Line Ups: Formations, Substitutions, Substitutes, Coaches
+- [x] Fixture page Lineups/BoxScore : Formations, Substitutions, Substitutes, Coaches
 - [x] Fixture page Live Updates: Commentaries
 - [x] Fixture page Statistics: Possession chart, Performance charts, Radar chart
 - [x] Stand alone access to Fixture page Head to Head via API (see: Main Public classes/structs, API Calls and Delegates)
-- [x] Stand alone access to Fixture page Lineups via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Lineups/BoxScore via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Commentaries via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Statistics via API (see: Main Public classes/structs, API Calls and Delegates)
-- [x] (IN Development):
-- [x] Click on Team name/logo in some places to jump to a Team Page (IN Development) 
+- [x] Click on Team name/logo in some places to jump to a Team Page
 
-## Competition Pages Features (IN Development)
+## Competition Pages Features
 - [x] LiteCompetition access by clicking on a competition in Score Center Screen
 - [x] LiteCompetition - Switch between different years of the competition 
 - [x] Competition page Matches: See all matches for the competition based on year and match days
 - [x] Competition page Table: Team Positions and comparisons chart table (Summary/Complete/Form)
+- [x] Competition page Knockouts/Payoffs: Chart
 - [x] Competition page League Stats
 - [x] Competition page Players Stats
-- [x] Click on Team name/logo in some places to jump to a Team Page (IN Development)
 - [x] Stand alone access to Competition page Matches via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page Table via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page League Stats via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Competition page Players Stats via API (see: Main Public classes/structs, API Calls and Delegates)
 
-## Team Pages Features (IN Development)
+## Team Pages Features
 - [x] LiteTeam access by clicking on a team in some places - select between competitions and years
 - [x] LiteTeam - Switch between competitions in different years 
 - [x] Team page Matches: See all matches for the team based on year and match days
 - [x] Team page Overview: See last match, positions and last 5 matches
 - [x] Team page Table: Team Positions and comparisons chart table (Summary/Complete/Form)
-- [x] Team page Squad
+- [x] Team page Squad/Roster
 - [x] Team page Team Stats
 - [x] Team page Players Stats
 - [x] Stand alone access to Team page Matches via API (see: Main Public classes/structs, API Calls and Delegates)
@@ -78,7 +77,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Select from previous/recent Searches
 
 ## Limitations
-- [x] Scores screen Sports Picker supports only Soccer/Football. No bottom sheet selection for sports
+- [x] Scores screen Sports Picker supports only Soccer(Football) and Basketball
 
 ## Main Public classes/structs, API Calls and Delegates
 - [x] Initialization and Configuration:
@@ -102,64 +101,29 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Score Center:
 - [x] presentScoresScreen(in viewController: UIViewController)
 
-- [x] LiteFixture Page:
-- [x] pushLiteFixtureScreen(externalId: String, selectedTab: LiteFixtureTab, in viewController: UIViewController? = nil)
-- [x] presentLiteFixtureScreen(externalId: String, selectedTab: LiteFixtureTab, in viewController: UIViewController? = nil)
-- [x] Stand alone Fixture Pages:
-- [x] presentHead2HeadScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLineupsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentLiveUpdatesScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentStatisticsScreen(fixtureId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] LiteSoccerFixture Page:
+- [x] To Be Updated
 
-- [x] Stand alone Fixture Pages - UIView versions:
-- [x] getUIViewForHead2HeadScreen(fixtureId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForLineupsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForLiveUpdatesScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForStatisticsScreen(fixtureId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] Stand alone Soccer Fixture Pages - UIView versions:
+- [x] To Be Updated
 
-- [x] LiteCompetition Page:
-- [x] pushLiteCompetitionScreen(externalId: String, selectedTab: LiteCompetitionInfo, in viewController: UIViewController? = nil)
-- [x] presentLiteCompetitionScreen(externalId: String, selectedTab: LiteCompetitionInfo, in viewController: UIViewController? = nil)
-- [x] Stand alone Competition Pages:
-- [x] presentCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat)
-- [x] presentCompetitionTableScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentCompetitionKnockoutScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentCompetitionLeagueStatsScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentCompetitionPlayersStatsScreen(competitionId: String, competitionSeasonId: String? = nil, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] Stand alone Soccer Competition Pages - UIView versions:
+- [x] To Be Updated
 
-- [x] Stand alone Competition Pages - UIView versions:
-- [x] getCompetitionDisplaySettings(competitionExternalId: String) async -> CompetitionDisplaySettings?
-- [x] getUIViewForCompetitionMatchesScreen(competitionId: String, competitionSeasonId: String? = nil, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForCompetitionTableScreen(competitionId: String, competitionSeasonId: String? = nil, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForCompetitionKnockoutScreen(competitionId: String, competitionSeasonId: String? = nil,
-                                                      navigationController: UINavigationController,
-                                                      contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForCompetitionLeagueStatsScreen(competitionId: String, competitionSeasonId: String? = nil,
-                                               navigationController: UINavigationController,
-                                               contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForCompetitionPlayersStatsScreen(competitionId: String, competitionSeasonId: String? = nil,
-                                                navigationController: UINavigationController,
-                                                contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] Stand alone Soccer Team Pages - UIView versions:
+- [x] To Be Updated
 
-- [x] LiteTeam Page:
-- [x] pushLiteTeamScreen(externalId: String, selectedTab: LiteTeamInfo, in viewController: UIViewController? = nil)
-- [x] presentLiteTeamScreen(externalId: String, selectedTab: LiteTeamInfo, in viewController: UIViewController? = nil)
-- [x] Stand alone Team Pages:
-- [x] presentTeamMatchesScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentTeamOverviewScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentTeamTableScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentTeamSquadScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentTeamStatsTeamScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
-- [x] presentTeamPlayersStatsScreen(competitionId: String, in viewController: UIViewController, contentHeight: @escaping (CGFloat) -> Void)
+- [x] LiteBasketballFixture Page:
+- [x] To Be Updated
 
-- [x] Stand alone Team Pages - UIView versions:
-- [x] getUIViewForTeamMatchesScreen(contestantId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForTeamOverviewScreen(contestantId: String, navigationController: UINavigationController, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForTeamTableScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForTeamSquadScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForTeamStatsTeamScreen(competitionId: String, contentHeight: @escaping (CGFloat) -> Void) -> UIView
-- [x] getUIViewForTeamPlayersStatsScreen(contestantId: String, navigationController: UINavigationController,
-                                         contentHeight: @escaping (CGFloat) -> Void) -> UIView
+- [x] Stand alone Basketball Fixture Pages - UIView versions:
+- [x] To Be Updated
+
+- [x] Stand alone Basketball Competition Pages - UIView versions:
+- [x] To Be Updated
+
+- [x] Stand alone Basketball Team Pages - UIView versions:
+- [x] To Be Updated
 
 ```
     public enum UserStatus: String {
@@ -244,7 +208,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.8.7)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.8.8)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
