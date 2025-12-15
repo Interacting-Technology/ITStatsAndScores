@@ -14627,169 +14627,281 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 527,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 629,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 731,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 833,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 935,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1037,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1139,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1241,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1343,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1445,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1547,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1649,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1751,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1853,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "Array",
+      "offset": 1955,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 481,
+      "offset": 2088,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 545,
+      "offset": 2152,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 598,
+      "offset": 2205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 665,
+      "offset": 2272,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 722,
+      "offset": 2329,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2384,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 873,
+      "offset": 2535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1254,
+      "offset": 2916,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1308,
+      "offset": 2970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1374,
+      "offset": 3036,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1441,
+      "offset": 3103,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1507,
+      "offset": 3169,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1635,
+      "offset": 3297,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1678,
+      "offset": 3340,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6635,
+      "offset": 8659,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 13009,
+      "offset": 15033,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13155,
+      "offset": 15179,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 28342,
+      "offset": 42317,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28383,
+      "offset": 42358,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28527,
+      "offset": 42502,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28548,
+      "offset": 42523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28624,
+      "offset": 42599,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28645,
+      "offset": 42620,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28721,
+      "offset": 42696,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/ITScores\/ITScoresScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 28741,
+      "offset": 42716,
       "length": 4,
       "value": "true"
     },
@@ -21789,7 +21901,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Cloud\/RestApi\/JsonDataDecoder.swift",
       "kind": "BooleanLiteral",
-      "offset": 4910,
+      "offset": 4979,
       "length": 5,
       "value": "false"
     },
