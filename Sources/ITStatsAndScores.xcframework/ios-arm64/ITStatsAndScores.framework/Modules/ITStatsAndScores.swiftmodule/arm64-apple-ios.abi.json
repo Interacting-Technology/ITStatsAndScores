@@ -32364,6 +32364,20 @@
       "value": "\"LiveMatchFixtureInfo\""
     },
     {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/LivePollingProviders\/PollingLiveMatchFixtureInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 705,
+      "length": 30,
+      "value": "\"com.itstats.pollingLiveMatch\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/LivePollingProviders\/PollingLiveMatchFixtureInfoProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 796,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/FixtureInfoProviders\/FixtureInfoProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 959,
@@ -32376,6 +32390,20 @@
       "offset": 1009,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/FixtureInfoProviders\/FixtureInfoProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1169,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/Providers\/FixtureInfoProviders\/FixtureInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1228,
+      "length": 43,
+      "value": "\"com.itstats.fixtureInfoProvider.lifecycle\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Resources\/Services\/Localization\/LocalizedText.swift",
