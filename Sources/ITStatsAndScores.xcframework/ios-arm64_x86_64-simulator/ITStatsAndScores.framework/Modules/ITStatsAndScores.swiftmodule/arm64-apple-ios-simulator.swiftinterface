@@ -220,6 +220,10 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func pushLiteCompetitionScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteCompetitionScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func pushLiteSoccerCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
   public func presentLiteSoccerCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
   public func pushLiteBasketballCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
@@ -551,8 +555,14 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func pushLiteFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
-  public func presentLiteFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func pushLiteFixtureScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteFixtureScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func pushLiteSoccerFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteSoccerFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func pushLiteBasketballFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  public func presentLiteBaskeballFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
 }
 extension ITStatsAndScores.AnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.AnalyticsEvent : Swift.Hashable {}
