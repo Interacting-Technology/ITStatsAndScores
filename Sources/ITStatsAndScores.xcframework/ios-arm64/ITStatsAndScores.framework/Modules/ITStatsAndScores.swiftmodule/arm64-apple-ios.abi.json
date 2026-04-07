@@ -21616,49 +21616,49 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3057,
+      "offset": 3090,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 52061,
+      "offset": 52094,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 52218,
+      "offset": 52251,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 52308,
+      "offset": 52341,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 53574,
+      "offset": 53607,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 53731,
+      "offset": 53764,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 53821,
+      "offset": 53854,
       "length": 1,
       "value": "1"
     },
@@ -22505,7 +22505,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketballFixtureStatistics\/ITBasketballFixtureStatisticsScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6506,
+      "offset": 6539,
       "length": 5,
       "value": "false"
     },
@@ -22547,21 +22547,21 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLineupsScreenV2\/ITFixtureLineupsScreenModelV2.swift",
       "kind": "StringLiteral",
-      "offset": 36212,
+      "offset": 36245,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLineupsScreenV2\/ITFixtureLineupsScreenModelV2.swift",
       "kind": "IntegerLiteral",
-      "offset": 36369,
+      "offset": 36402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLineupsScreenV2\/ITFixtureLineupsScreenModelV2.swift",
       "kind": "IntegerLiteral",
-      "offset": 36459,
+      "offset": 36492,
       "length": 1,
       "value": "1"
     },
@@ -54691,7 +54691,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITSoccerFixtureStatisticsScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18757,
+      "offset": 18790,
       "length": 5,
       "value": "false"
     },
@@ -56133,595 +56133,595 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4740,
+      "offset": 4773,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4779,
+      "offset": 4812,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5093,
+      "offset": 5126,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5133,
+      "offset": 5166,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5231,
+      "offset": 5264,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5271,
+      "offset": 5304,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5374,
+      "offset": 5407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5413,
+      "offset": 5446,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5520,
+      "offset": 5553,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5559,
+      "offset": 5592,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5664,
+      "offset": 5697,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5703,
+      "offset": 5736,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5806,
+      "offset": 5839,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5845,
+      "offset": 5878,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 6850,
+      "offset": 6883,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 6930,
+      "offset": 6963,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 7067,
+      "offset": 7100,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 7340,
+      "offset": 7373,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 7422,
+      "offset": 7455,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 7561,
+      "offset": 7594,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 7842,
+      "offset": 7875,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7980,
+      "offset": 8013,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 8019,
+      "offset": 8052,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 8556,
+      "offset": 8589,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 8642,
+      "offset": 8675,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 8785,
+      "offset": 8818,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 9075,
+      "offset": 9108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9143,
+      "offset": 9176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9182,
+      "offset": 9215,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 9788,
+      "offset": 9821,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 9880,
+      "offset": 9913,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 10029,
+      "offset": 10062,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 10337,
+      "offset": 10370,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10411,
+      "offset": 10444,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10450,
+      "offset": 10483,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 10980,
+      "offset": 11013,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 11063,
+      "offset": 11096,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 11203,
+      "offset": 11236,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 11484,
+      "offset": 11517,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 11549,
+      "offset": 11582,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 11588,
+      "offset": 11621,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 12109,
+      "offset": 12142,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 12190,
+      "offset": 12223,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 12328,
+      "offset": 12361,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 12678,
+      "offset": 12711,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12834,
+      "offset": 12867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12873,
+      "offset": 12906,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12988,
+      "offset": 13021,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13028,
+      "offset": 13061,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13143,
+      "offset": 13176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13182,
+      "offset": 13215,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13295,
+      "offset": 13328,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13334,
+      "offset": 13367,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13467,
+      "offset": 13500,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13506,
+      "offset": 13539,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13637,
+      "offset": 13670,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13676,
+      "offset": 13709,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13782,
+      "offset": 13815,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 13821,
+      "offset": 13854,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 14720,
+      "offset": 14753,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 14801,
+      "offset": 14834,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 14939,
+      "offset": 14972,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 15322,
+      "offset": 15355,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15386,
+      "offset": 15419,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15425,
+      "offset": 15458,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15535,
+      "offset": 15568,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15575,
+      "offset": 15608,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15686,
+      "offset": 15719,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15726,
+      "offset": 15759,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 16029,
+      "offset": 16062,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 16061,
+      "offset": 16094,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 16075,
+      "offset": 16108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 16405,
+      "offset": 16438,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16496,
+      "offset": 16529,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 16670,
+      "offset": 16703,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 16862,
+      "offset": 16895,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17140,
+      "offset": 17173,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17171,
+      "offset": 17204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17309,
+      "offset": 17342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 17680,
+      "offset": 17713,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18488,
+      "offset": 18521,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18841,
+      "offset": 18874,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18891,
+      "offset": 18924,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18945,
+      "offset": 18978,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLiveUpdatesScreen\/ITSoccerFixtureLiveUpdatesScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 18971,
+      "offset": 19004,
       "length": 5,
       "value": "false"
     },
