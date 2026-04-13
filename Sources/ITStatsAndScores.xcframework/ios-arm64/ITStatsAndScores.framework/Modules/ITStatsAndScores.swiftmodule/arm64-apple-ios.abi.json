@@ -28105,7 +28105,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerTeams\/SoccerTeamScreens\/ITSoccerTeamMatchesScreen\/ITSoccerTeamMatchesScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 30952,
+      "offset": 31025,
       "length": 42,
       "value": "\"Should poll live matches in Team Matches\""
     },
