@@ -174,7 +174,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func getUIViewForFixtureTableScreen(competitionSeasonId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForFixtureTableScreen(competitionSeasonId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 public enum LiteCompetitionInfo {
   case matches

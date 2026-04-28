@@ -6521,7 +6521,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForFixtureTableScreen",
-            "printedName": "getUIViewForFixtureTableScreen(competitionSeasonId:typeOfSport:navigationController:delegate:showMatchOverviewMainEventsSubject:contentHeight:)",
+            "printedName": "getUIViewForFixtureTableScreen(competitionSeasonId:typeOfSport:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -6543,54 +6543,6 @@
                 "usr": "s:16ITStatsAndScores0abC6AccessC11TypeOfSportO"
               },
               {
-                "kind": "TypeNominal",
-                "name": "UINavigationController",
-                "printedName": "UIKit.UINavigationController",
-                "usr": "c:objc(cs)UINavigationController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ITFixtureOverviewScreenDelegate",
-                    "printedName": "any ITStatsAndScores.ITFixtureOverviewScreenDelegate",
-                    "usr": "s:16ITStatsAndScores31ITFixtureOverviewScreenDelegateP"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Combine.PassthroughSubject<Swift.Bool, Swift.Never>?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "PassthroughSubject",
-                    "printedName": "Combine.PassthroughSubject<Swift.Bool, Swift.Never>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Bool",
-                        "printedName": "Swift.Bool",
-                        "usr": "s:Sb"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Never",
-                        "printedName": "Swift.Never",
-                        "usr": "s:s5NeverO"
-                      }
-                    ],
-                    "usr": "s:7Combine18PassthroughSubjectC"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -6610,8 +6562,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC30getUIViewForFixtureTableScreen19competitionSeasonId11typeOfSport20navigationController8delegate34showMatchOverviewMainEventsSubject13contentHeightSo0F0CSS_AC04TypeoP0OSo012UINavigationR0CAA09ITFixturevJ8Delegate_pSg7Combine011PassthroughY0CySbs5NeverOGSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC30getUIViewForFixtureTableScreen19competitionSeasonId11typeOfSport20navigationController8delegate34showMatchOverviewMainEventsSubject13contentHeightSo0F0CSS_AC04TypeoP0OSo012UINavigationR0CAA09ITFixturevJ8Delegate_pSg7Combine011PassthroughY0CySbs5NeverOGSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC30getUIViewForFixtureTableScreen19competitionSeasonId11typeOfSport13contentHeightSo0F0CSS_AC04TypeoP0Oy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC30getUIViewForFixtureTableScreen19competitionSeasonId11typeOfSport13contentHeightSo0F0CSS_AC04TypeoP0Oy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
