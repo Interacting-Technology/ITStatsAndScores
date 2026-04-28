@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.9.5
+- 0.9.51
 
 ## Is a HotFix
 - NO 
@@ -40,6 +40,9 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] Stand alone access to Fixture page Lineups/BoxScore via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Commentaries via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Stand alone access to Fixture page Statistics via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Overview via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Table via API (see: Main Public classes/structs, API Calls and Delegates)
+- [x] Stand alone access to Fixture page Knockout via API (see: Main Public classes/structs, API Calls and Delegates)
 - [x] Click on Team name/logo in some places to jump to a Team Page
 
 ## Competition Pages Features
@@ -195,7 +198,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.9.5)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.9.51)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
