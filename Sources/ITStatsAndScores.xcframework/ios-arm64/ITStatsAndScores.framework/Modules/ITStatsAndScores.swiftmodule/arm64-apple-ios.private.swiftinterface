@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
 // swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name ITStatsAndScores
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import Combine
 import CoreGraphics
 import CoreText
@@ -32,17 +32,27 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerFixtureOverviewScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerFixtureOverviewScreen(fixtureId: Swift.String, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerFixtureOverviewScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteSoccerTeamScreen(representAsStandalone: Swift.Bool = false, externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteSoccerTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteBasketballTeamScreen(representAsStandalone: Swift.Bool = false, externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteBasketballTeamScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteTeamInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerLineupsScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -56,7 +66,9 @@ public enum AnalyticsEvent : Swift.String {
   case statsandscore_interaction
   case page_load
   case user_Interaction
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -71,9 +83,10 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForFixtureOverviewScreen(fixtureId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
-#warning("JH - This is not a good solution - should be from Server")
 public enum LiteFixtureTab {
   case overview
   case compare_h2h
@@ -134,44 +147,74 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores14PublicTestViewV4bodyQrvp", 0) __
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionPlayoffScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForBasketballCompetitionPlayoffScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionPlayoffScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionLeagueStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForBasketballCompetitionLeagueStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionLeagueStatsScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForBasketballCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionMatchesScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionPlayersStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForBasketballCompetitionPlayersStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionPlayersStatsScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionTableScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForBasketballCompetitionTableScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentBasketballCompetitionTableScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func getUIViewForFixtureTableScreen(competitionSeasonId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
@@ -209,12 +252,16 @@ public enum LiteCompetitionInfo {
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public var getCountry: Swift.String? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var getLanguage: Swift.String? {
     get
   }
+  #endif
   public var getCurrentTypeOfType: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport {
     get
   }
@@ -223,7 +270,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
 public enum OldAnalyticsEvent : Swift.String {
   case page_load
   case user_Interaction
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -245,14 +294,26 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteCompetitionScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteCompetitionScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteSoccerCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteSoccerCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteBasketballCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteBasketballCompetitionScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteCompetitionInfo, in viewController: UIKit.UIViewController? = nil)
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func getUIViewForLiveUpdatesScreen(fixtureId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
@@ -284,9 +345,15 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
       get
     }
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getCompetitionDisplaySettings(typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, competitionExternalId: Swift.String) async -> ITStatsAndScores.CompetitionDisplaySettings?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getMatchDisplaySettings(typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, matchExternalId: Swift.String) async -> ITStatsAndScores.FixtureDisplaySettings?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getTeamDisplaySettings(typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, teamExternalId: Swift.String) async -> ITStatsAndScores.TeamDisplaySettings?
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentScoresScreen(in viewController: UIKit.UIViewController)
@@ -296,14 +363,19 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionLeagueStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerCompetitionLeagueStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionLeagueStatsScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
-#warning("JH - This is not a good solution - should be from Server")
 @frozen public struct ITConfiguration {
   @usableFromInline
   internal let userId: Swift.String
@@ -342,7 +414,9 @@ extension ITStatsAndScores.ITConfiguration {
     case blocked
     case paused
     case unknown
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(rawValue: Swift.String)
+    #endif
     public typealias RawValue = Swift.String
     public var rawValue: Swift.String {
       get
@@ -350,34 +424,52 @@ extension ITStatsAndScores.ITConfiguration {
   }
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionMatchesScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 public struct TeamDisplaySettings : Swift.Decodable {
   public let displayTable: Swift.Bool?
   public let displaySquad: Swift.Bool?
   public let displayTeamStats: Swift.Bool?
   public let displayPlayerStats: Swift.Bool?
+  public let competitionExternalId: Swift.String?
+  public let competitionSeasonExternalId: Swift.String?
   public init(from decoder: any Swift.Decoder) throws
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForCompetitionMatchesScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForCompetitionTableScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForCompetitionPlayersStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForCompetitionLeagueStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerTeamTableScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -394,7 +486,9 @@ public enum LiteTeamInfo : Swift.Int {
   case squad
   case teamStats
   case playersStats
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -429,7 +523,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension UIKit.UIWindow {
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func motionEnded(_ motion: UIKit.UIEvent.EventSubtype, with event: UIKit.UIEvent?)
+  #endif
 }
 @_Concurrency.MainActor @preconcurrency public struct PublicDebugView : SwiftUICore.View {
   @_Concurrency.MainActor @preconcurrency public init()
@@ -440,13 +536,23 @@ extension UIKit.UIWindow {
 }
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
   func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString, (any Swift.Error)?) -> ())
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   func setReminderButtonTappedFor(fixtureId: Swift.String, sourceName: Swift.String?, reminderOn: Swift.Bool, setReminderTurnOn: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   func setFollowButtonTappedFor(id: Swift.String, sourceName: Swift.String?, isFollow: Swift.Bool, hideBottomSheet: Swift.Bool?, followType: ITStatsAndScores.ITFollowType, setFollowTurnOn: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   func updateFollows(updatedFollowJSON: Swift.String, completion: @escaping (Swift.Bool?, (any Swift.Error)?) -> ())
+  #endif
 }
 public protocol ITNavigationBridgeDelegate : AnyObject {
+  #if compiler(>=5.3) && $NonescapableTypes
   func navigateTo(destinationDetails jsonString: Swift.String, navigationType: ITStatsAndScores.ITNavigationType, navigationController: UIKit.UINavigationController?)
+  #endif
   func navigateToRegistration(trigger: ITStatsAndScores.ITNavigateToRegistrationTrigger)
 }
 public enum ITNavigationType : Swift.String {
@@ -459,7 +565,9 @@ public enum ITNavigationType : Swift.String {
   public var jsonProviderExternalIdParameterKey: Swift.String {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -468,7 +576,9 @@ public enum ITNavigationType : Swift.String {
 public enum ITFollowType : Swift.String {
   case competition
   case contestant
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -504,12 +614,18 @@ public enum ITFixtureTabs {
   }
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionPlayersStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerCompetitionPlayersStatsScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionPlayersStatsScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 public struct CompetitionDisplaySettings : Swift.Decodable {
   public let displayMatches: Swift.Bool?
@@ -576,12 +692,18 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerCompetitionKnockoutScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionKnockoutScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerTeamStatsTeamScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -610,12 +732,18 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func getUIViewForTeamMatchesScreen(contestantId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionTableScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getUIViewForSoccerCompetitionTableScreen(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentSoccerCompetitionTableScreenView(competitionId: Swift.String, competitionSeasonId: Swift.String? = nil, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func presentSoccerTeamMatchesScreen(contestantId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
@@ -626,14 +754,26 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteFixtureScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteFixtureScreen(externalId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteSoccerFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteSoccerFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func pushLiteBasketballFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentLiteBaskeballFixtureScreen(externalId: Swift.String, selectedTab: ITStatsAndScores.LiteFixtureTab, in viewController: UIKit.UIViewController? = nil)
+  #endif
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
   public func getUIViewForFixtureKnockoutScreen(competitionSeasonId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
