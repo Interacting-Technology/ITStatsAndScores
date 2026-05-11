@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TGvsOeHpG1AiMdUGRQv2rwAB3WQ=
+		ztle9FPOfwe8Y5h49LEr398iLiQ=
 		</data>
 		<key>DAZNTrim-Bold.otf</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZxDCY+hU2hG3G24yzqPbB5axJT8=
+		+ueLmd84/LypJbXgiSacN8JCRFw=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qEV6bPq/i1m+aLgicyrrp9Jtegs=
+		9rJxcLP7E92JU2n/6kvWtBa4Wws=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qEV6bPq/i1m+aLgicyrrp9Jtegs=
+		9rJxcLP7E92JU2n/6kvWtBa4Wws=
 		</data>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VEQrYk/uw0zvmOWRjkAC+Yxt3OzCGBRr2Gp/VeQ/Mew=
+			XITCQp1ATQQtTM8OPh3hnTJPENv7LRlLE2t0KNPS8M0=
 			</data>
 		</dict>
 		<key>DAZNTrim-Bold.otf</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZpIqUPkiq2/OCu3KJT7rNHc5L2Hyy5SIPRb9bCQOLzg=
+			GzjEeVUvWzpx6tswTI2BdrUr5kxV1LwpV9abFIeGXFo=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZpIqUPkiq2/OCu3KJT7rNHc5L2Hyy5SIPRb9bCQOLzg=
+			GzjEeVUvWzpx6tswTI2BdrUr5kxV1LwpV9abFIeGXFo=
 			</data>
 		</dict>
 		<key>Modules/ITStatsAndScores.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

@@ -28027,7 +28027,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureTableScreen\/ITSoccerFixtureTableScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11176,
+      "offset": 11318,
       "length": 1,
       "value": "0"
     },
@@ -49790,7 +49790,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerCompetitions\/SoccerCompetitionScreens\/ITSoccerCompetitionKnockoutMatches\/ITSoccerCompetitionKnockoutScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 17960,
+      "offset": 18018,
       "length": 5,
       "value": "false"
     },
