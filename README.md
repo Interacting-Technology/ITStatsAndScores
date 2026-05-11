@@ -3,11 +3,11 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.9.55
+- 0.9.6
 
 ## Is a HotFix
-- YES
-- For 0.9.5
+- NO
+- For N/A
 
 ## What's New/Fixed & Important changes, additions and notices
 - [x] The SDK is available as a Swift Package on GitHub. https://github.com/Interacting-Technology/ITStatsAndScores
@@ -85,6 +85,7 @@ A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores a
 - [x] ITStatsAndScoresAccess.shared.configure(with configuration: ITConfiguration)
 - [x] ITConfiguration(userId: String, language: String, country: String, userStatus: UserStatus)
 - [x] ITStatsAndScoresAccess.shared.updateFollowingAndReminders() (triggers ITFollowingAndRemindersDelegate getFollowingAndReminders delegate method)
+- [x] ITStatsAndScoresAccess.shared.matchOverviewMainEvents(hide: Bool)
 
 - [x] Delegates:
 - [x] ITNavigationBridgeDelegate:
@@ -197,7 +198,7 @@ You may integrate ITStatsAndScores into your project as a package dependency (Sw
 - In Xcode Project Navigator click on the Project -> Package Dependencies
 - Click the plus button
 - In the search field enter the package URL: https://github.com/Interacting-Technology/ITStatsAndScores
-- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.9.55)
+- Dependency Rule -> Up to Next Major \<major.minor.patch> (example: 0.9.6)
 - Add to Project -> <Your Project>
 - Click Add Package
 - Click Add Package
