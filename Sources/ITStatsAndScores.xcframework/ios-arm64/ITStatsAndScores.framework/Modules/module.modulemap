@@ -7,5 +7,4 @@ framework module ITStatsAndScores {
 
 module ITStatsAndScores.Swift {
   header "ITStatsAndScores-Swift.h"
-  requires objc
 }
