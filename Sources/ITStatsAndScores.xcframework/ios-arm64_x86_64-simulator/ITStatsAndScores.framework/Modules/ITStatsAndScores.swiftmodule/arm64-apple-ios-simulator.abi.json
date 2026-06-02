@@ -23,6 +23,23 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ITStatsAndScores"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -3861,7 +3878,7 @@
           {
             "kind": "Function",
             "name": "presentSoccerFixtureOverviewScreen",
-            "printedName": "presentSoccerFixtureOverviewScreen(fixtureId:in:contentHeight:)",
+            "printedName": "presentSoccerFixtureOverviewScreen(fixtureId:hideMainEvents:in:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3873,6 +3890,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -3900,8 +3923,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC34presentSoccerFixtureOverviewScreen9fixtureId2in13contentHeightySS_So16UIViewControllerCy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC34presentSoccerFixtureOverviewScreen9fixtureId2in13contentHeightySS_So16UIViewControllerCy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC34presentSoccerFixtureOverviewScreen9fixtureId14hideMainEvents2in13contentHeightySS_SbSo16UIViewControllerCy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC34presentSoccerFixtureOverviewScreen9fixtureId14hideMainEvents2in13contentHeightySS_SbSo16UIViewControllerCy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -3913,7 +3936,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForSoccerFixtureOverviewScreen",
-            "printedName": "getUIViewForSoccerFixtureOverviewScreen(fixtureId:navigationController:delegate:showMatchOverviewMainEventsSubject:contentHeight:)",
+            "printedName": "getUIViewForSoccerFixtureOverviewScreen(fixtureId:hideMainEvents:navigationController:delegate:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3926,6 +3949,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -3948,34 +3977,6 @@
                 "usr": "s:Sq"
               },
               {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Combine.PassthroughSubject<Swift.Bool, Swift.Never>?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "PassthroughSubject",
-                    "printedName": "Combine.PassthroughSubject<Swift.Bool, Swift.Never>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Bool",
-                        "printedName": "Swift.Bool",
-                        "usr": "s:Sb"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Never",
-                        "printedName": "Swift.Never",
-                        "usr": "s:s5NeverO"
-                      }
-                    ],
-                    "usr": "s:7Combine18PassthroughSubjectC"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "(CoreGraphics.CGFloat) -> ()",
@@ -3995,8 +3996,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC39getUIViewForSoccerFixtureOverviewScreen9fixtureId20navigationController8delegate09showMatchJ17MainEventsSubject13contentHeightSo0F0CSS_So012UINavigationO0CAA09ITFixturejK8Delegate_pSg7Combine011PassthroughU0CySbs5NeverOGSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC39getUIViewForSoccerFixtureOverviewScreen9fixtureId20navigationController8delegate09showMatchJ17MainEventsSubject13contentHeightSo0F0CSS_So012UINavigationO0CAA09ITFixturejK8Delegate_pSg7Combine011PassthroughU0CySbs5NeverOGSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC39getUIViewForSoccerFixtureOverviewScreen9fixtureId14hideMainEvents20navigationController8delegate13contentHeightSo0F0CSS_SbSo012UINavigationR0CAA09ITFixturejK8Delegate_pSgy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC39getUIViewForSoccerFixtureOverviewScreen9fixtureId14hideMainEvents20navigationController8delegate13contentHeightSo0F0CSS_SbSo012UINavigationR0CAA09ITFixturejK8Delegate_pSgy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -4008,7 +4009,7 @@
           {
             "kind": "Function",
             "name": "presentSoccerFixtureOverviewScreenView",
-            "printedName": "presentSoccerFixtureOverviewScreenView(fixtureId:in:contentHeight:)",
+            "printedName": "presentSoccerFixtureOverviewScreenView(fixtureId:hideMainEvents:in:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4028,6 +4029,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -4055,8 +4062,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC38presentSoccerFixtureOverviewScreenView9fixtureId2in13contentHeightQrSS_So16UIViewControllerCy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC38presentSoccerFixtureOverviewScreenView9fixtureId2in13contentHeightQrSS_So16UIViewControllerCy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC38presentSoccerFixtureOverviewScreenView9fixtureId14hideMainEvents2in13contentHeightQrSS_SbSo16UIViewControllerCy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC38presentSoccerFixtureOverviewScreenView9fixtureId14hideMainEvents2in13contentHeightQrSS_SbSo16UIViewControllerCy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -4596,7 +4603,7 @@
           {
             "kind": "Function",
             "name": "getUIViewForFixtureOverviewScreen",
-            "printedName": "getUIViewForFixtureOverviewScreen(fixtureId:typeOfSport:navigationController:delegate:showMatchOverviewMainEventsSubject:contentHeight:)",
+            "printedName": "getUIViewForFixtureOverviewScreen(fixtureId:hideMainEvents:typeOfSport:navigationController:delegate:showMatchOverviewMainEventsSubject:contentHeight:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4609,6 +4616,12 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeNominal",
@@ -4685,8 +4698,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ITStatsAndScores0abC6AccessC33getUIViewForFixtureOverviewScreen9fixtureId11typeOfSport20navigationController8delegate09showMatchI17MainEventsSubject13contentHeightSo0F0CSS_AC04TypenO0OSo012UINavigationQ0CAA09ITFixtureiJ8Delegate_pSg7Combine011PassthroughW0CySbs5NeverOGSgy14CoreFoundation7CGFloatVctF",
-            "mangledName": "$s16ITStatsAndScores0abC6AccessC33getUIViewForFixtureOverviewScreen9fixtureId11typeOfSport20navigationController8delegate09showMatchI17MainEventsSubject13contentHeightSo0F0CSS_AC04TypenO0OSo012UINavigationQ0CAA09ITFixtureiJ8Delegate_pSg7Combine011PassthroughW0CySbs5NeverOGSgy12CoreGraphics7CGFloatVctF",
+            "usr": "s:16ITStatsAndScores0abC6AccessC33getUIViewForFixtureOverviewScreen9fixtureId14hideMainEvents11typeOfSport20navigationController8delegate09showMatchinO7Subject13contentHeightSo0F0CSS_SbAC04TypeqR0OSo012UINavigationT0CAA09ITFixtureiJ8Delegate_pSg7Combine011PassthroughX0CySbs5NeverOGSgy14CoreFoundation7CGFloatVctF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC33getUIViewForFixtureOverviewScreen9fixtureId14hideMainEvents11typeOfSport20navigationController8delegate09showMatchinO7Subject13contentHeightSo0F0CSS_SbAC04TypeqR0OSo012UINavigationT0CAA09ITFixtureiJ8Delegate_pSg7Combine011PassthroughX0CySbs5NeverOGSgy12CoreGraphics7CGFloatVctF",
             "moduleName": "ITStatsAndScores",
             "declAttributes": [
               "AccessControl",
@@ -23328,6 +23341,62 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "IntegerLiteral",
+      "offset": 487,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "IntegerLiteral",
+      "offset": 532,
+      "length": 2,
+      "value": "52"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "FloatLiteral",
+      "offset": 588,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "FloatLiteral",
+      "offset": 636,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "IntegerLiteral",
+      "offset": 686,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "IntegerLiteral",
+      "offset": 737,
+      "length": 2,
+      "value": "34"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "FloatLiteral",
+      "offset": 785,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitHeightCalculatedSheet.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1115,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/UIKitViews\/GIFAnimationReverseImageView.swift",
       "kind": "Array",
       "offset": 2132,
@@ -29028,7 +29097,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITSoccerFixtureStatisticsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12132,
+      "offset": 12171,
       "length": 1,
       "value": "0"
     },
@@ -38940,14 +39009,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureOverviewScreen\/ITSoccerFixtureOverviewScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2264,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureOverviewScreen\/ITSoccerFixtureOverviewScreenModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 39619,
+      "offset": 39633,
       "length": 5,
       "value": "false"
     },
@@ -44778,7 +44840,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/InfoBottomSheet\/InfoBottomSheetView.swift",
       "kind": "StringLiteral",
-      "offset": 5242,
+      "offset": 5248,
       "length": 446,
       "value": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\""
     },

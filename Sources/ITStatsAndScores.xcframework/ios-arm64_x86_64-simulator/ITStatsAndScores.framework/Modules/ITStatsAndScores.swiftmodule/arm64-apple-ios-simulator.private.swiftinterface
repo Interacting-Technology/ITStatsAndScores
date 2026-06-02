@@ -31,11 +31,11 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentSoccerFixtureOverviewScreen(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
-  public func getUIViewForSoccerFixtureOverviewScreen(fixtureId: Swift.String, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func presentSoccerFixtureOverviewScreen(fixtureId: Swift.String, hideMainEvents: Swift.Bool, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForSoccerFixtureOverviewScreen(fixtureId: Swift.String, hideMainEvents: Swift.Bool, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func presentSoccerFixtureOverviewScreenView(fixtureId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  public func presentSoccerFixtureOverviewScreenView(fixtureId: Swift.String, hideMainEvents: Swift.Bool, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
@@ -71,7 +71,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
-  public func getUIViewForFixtureOverviewScreen(fixtureId: Swift.String, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+  public func getUIViewForFixtureOverviewScreen(fixtureId: Swift.String, hideMainEvents: Swift.Bool, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, navigationController: UIKit.UINavigationController, delegate: (any ITStatsAndScores.ITFixtureOverviewScreenDelegate)?, showMatchOverviewMainEventsSubject: Combine.PassthroughSubject<Swift.Bool, Swift.Never>?, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
 }
 public enum LiteFixtureTab {
   case overview
