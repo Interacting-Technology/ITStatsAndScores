@@ -3711,6 +3711,247 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "TypeDecl",
+            "name": "UserVideoInteraction",
+            "printedName": "UserVideoInteraction",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "tappedExpand",
+                "printedName": "tappedExpand",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction.Type) -> ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UserVideoInteraction",
+                        "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                        "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UserVideoInteraction",
+                            "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                            "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO12tappedExpandyA2EmF",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO12tappedExpandyA2EmF",
+                "moduleName": "ITStatsAndScores"
+              },
+              {
+                "kind": "Var",
+                "name": "tappedMinimize",
+                "printedName": "tappedMinimize",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction.Type) -> ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UserVideoInteraction",
+                        "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                        "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UserVideoInteraction",
+                            "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                            "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO14tappedMinimizeyA2EmF",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO14tappedMinimizeyA2EmF",
+                "moduleName": "ITStatsAndScores"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UserVideoInteraction",
+                    "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                    "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UserVideoInteraction",
+                    "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                    "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO2eeoiySbAE_AEtFZ",
+                "moduleName": "ITStatsAndScores",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO9hashValueSivp",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO9hashValueSivp",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO9hashValueSivg",
+                    "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO9hashValueSivg",
+                    "moduleName": "ITStatsAndScores",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO4hash4intoys6HasherVz_tF",
+                "moduleName": "ITStatsAndScores",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC20UserVideoInteractionO",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "userInteractedWithVideo",
+            "printedName": "userInteractedWithVideo(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UserVideoInteraction",
+                "printedName": "ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction",
+                "usr": "s:16ITStatsAndScores0abC6AccessC20UserVideoInteractionO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ITStatsAndScores0abC6AccessC23userInteractedWithVideoyyAC04UserH11InteractionOF",
+            "mangledName": "$s16ITStatsAndScores0abC6AccessC23userInteractedWithVideoyyAC04UserH11InteractionOF",
+            "moduleName": "ITStatsAndScores",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Function",
             "name": "presentSoccerFixtureKnockoutScreen",
             "printedName": "presentSoccerFixtureKnockoutScreen(competitionSeasonId:in:contentHeight:)",
@@ -26444,7 +26685,14 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLineupsScreenV2\/ITFixtureLineupsScreenV2.swift",
       "kind": "BooleanLiteral",
-      "offset": 497,
+      "offset": 514,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureLineupsScreenV2\/ITFixtureLineupsScreenV2.swift",
+      "kind": "BooleanLiteral",
+      "offset": 589,
       "length": 5,
       "value": "false"
     },
@@ -29090,14 +29338,21 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITSoccerFixtureStatisticsScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 727,
+      "offset": 744,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITSoccerFixtureStatisticsScreen.swift",
+      "kind": "BooleanLiteral",
+      "offset": 819,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureStatisticsScreen\/ITSoccerFixtureStatisticsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 12171,
+      "offset": 12920,
       "length": 1,
       "value": "0"
     },

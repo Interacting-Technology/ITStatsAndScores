@@ -206,6 +206,16 @@ public enum LiteCompetitionInfo {
   public func configure(with configuration: ITStatsAndScores.ITConfiguration)
   public func updateFollowingAndReminders()
   public func matchOverviewMainEvents(hide: Swift.Bool)
+  public enum UserVideoInteraction {
+    case tappedExpand
+    case tappedMinimize
+    public static func == (a: ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction, b: ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public func userInteractedWithVideo(_ userVideoInteraction: ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction)
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
@@ -647,6 +657,8 @@ extension ITStatsAndScores.LiteFixtureTab : Swift.Hashable {}
 extension ITStatsAndScores.PublicTestView : Swift.Sendable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Equatable {}
 extension ITStatsAndScores.LiteCompetitionInfo : Swift.Hashable {}
+extension ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction : Swift.Equatable {}
+extension ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction : Swift.Hashable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.Equatable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.Hashable {}
 extension ITStatsAndScores.OldAnalyticsEvent : Swift.RawRepresentable {}
