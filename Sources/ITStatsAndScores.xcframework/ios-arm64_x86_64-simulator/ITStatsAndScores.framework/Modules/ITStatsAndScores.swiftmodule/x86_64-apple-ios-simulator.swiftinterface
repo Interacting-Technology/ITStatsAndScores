@@ -216,6 +216,17 @@ public enum LiteCompetitionInfo {
     }
   }
   public func userInteractedWithVideo(_ userVideoInteraction: ITStatsAndScores.ITStatsAndScoresAccess.UserVideoInteraction)
+  public var isForcingSearchCountryLanguage: Swift.Bool {
+    get
+  }
+  public var forcingSearchCountryText: Swift.String {
+    get
+  }
+  public var forcingSearchLanguageText: Swift.String {
+    get
+  }
+  public func setForcingSearchCountryLanguage(country: Swift.String, language: Swift.String)
+  public func disableForcingSearchCountryLanguage()
   @objc deinit
 }
 extension ITStatsAndScores.ITStatsAndScoresAccess {
