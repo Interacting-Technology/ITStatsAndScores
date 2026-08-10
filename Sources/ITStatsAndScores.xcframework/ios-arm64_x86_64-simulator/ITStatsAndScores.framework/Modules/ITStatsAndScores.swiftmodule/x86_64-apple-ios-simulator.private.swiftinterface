@@ -465,6 +465,14 @@ extension UIKit.UIWindow {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s16ITStatsAndScores15PublicDebugViewV4bodyQrvp", 0) __
 }
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentBasketballFixtureKnockoutScreen(competitionSeasonId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void)
+  public func getUIViewForBasketballFixtureKnockoutScreen(competitionSeasonId: Swift.String, navigationController: UIKit.UINavigationController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> UIKit.UIView
+}
+extension ITStatsAndScores.ITStatsAndScoresAccess {
+  public func presentBasketballFixtureKnockoutScreenView(competitionSeasonId: Swift.String, in viewController: UIKit.UIViewController, contentHeight: @escaping (CoreFoundation.CGFloat) -> Swift.Void) -> some SwiftUI.UIViewControllerRepresentable
+  
+}
 public typealias FollowingListJSONString = Swift.String
 public protocol ITFollowingAndRemindersDelegate {
   func getFollowingAndReminders(followingListJSON: @escaping (ITStatsAndScores.FollowingListJSONString, (any Swift.Error)?) -> ())
