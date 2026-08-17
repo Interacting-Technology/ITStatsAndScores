@@ -25616,7 +25616,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/ITBasketballCompetitionPlayoffScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 85060,
+      "offset": 85738,
       "length": 50,
       "value": "\"Should poll live matches in Competition Knockout\""
     },
@@ -37887,7 +37887,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureTableScreen\/ITSoccerFixtureTableScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 11668,
+      "offset": 11676,
       "length": 1,
       "value": "0"
     },
@@ -42041,6 +42041,846 @@
       "offset": 262,
       "length": 6,
       "value": "6"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4315,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4561,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4693,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4825,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4990,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5155,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5285,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5417,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5551,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5681,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5698,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5812,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6039,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6171,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6303,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6468,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6633,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6763,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6895,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7029,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7159,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7176,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7291,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7523,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7654,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7786,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7951,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8116,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8246,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8378,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8512,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8642,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8659,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 8778,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9267,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9395,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9523,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9684,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9845,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 9971,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10099,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10229,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10355,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10372,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10745,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11248,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11383,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11518,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11686,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11854,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11987,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12122,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12259,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12392,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12409,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12795,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13302,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13437,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 13572,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 13740,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 13908,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 14041,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 14176,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 14313,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14446,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14463,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14596,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14729,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 14847,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15475,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15610,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15778,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15946,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 16079,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 16214,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 16351,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16484,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16501,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16634,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16767,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 16884,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17381,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17516,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 17651,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 17819,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 17987,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 18120,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 18255,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 18392,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18525,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18542,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18675,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18808,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 18924,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19402,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19537,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 19672,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 19840,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 20008,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 20141,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 20276,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 20413,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20546,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20563,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20696,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20829,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 20944,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21426,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21560,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 21695,
+      "length": 38,
+      "value": "\"e5ecab56-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 21863,
+      "length": 38,
+      "value": "\"ee11e6ae-9c55-11f0-8dc8-00090ffe0001\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 22031,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 22164,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 22299,
+      "length": 5,
+      "value": "\"BLS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "StringLiteral",
+      "offset": 22436,
+      "length": 5,
+      "value": "\"LKS\""
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22569,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22586,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22719,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/BasketballCompetitionScreens\/ITBasketballCompetitionPlayoffScreen\/Models\/BasketballKnockoutMatchCellModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22852,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballTeams\/ITBasketballLiteTeam\/ITBasketballLiteTeamScreenModel.swift",
@@ -60171,6 +61011,20 @@
       "offset": 18018,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketballFixtureTable\/ITBasketballFixtureTableScreen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 450,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketballFixtureTable\/ITBasketballFixtureTableScreen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17305,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Soccer\/ITSoccerFixtures\/SoccerFixtureScreens\/ITSoccerFixtureOverviewScreen\/Views\/OverviewInsightsView.swift",
