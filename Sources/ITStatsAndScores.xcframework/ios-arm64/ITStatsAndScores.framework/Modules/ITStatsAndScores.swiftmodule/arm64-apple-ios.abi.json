@@ -26029,84 +26029,84 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1163,
+      "offset": 1348,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1791,
+      "offset": 2320,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1878,
+      "offset": 2407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1927,
+      "offset": 2456,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1980,
+      "offset": 2509,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3090,
+      "offset": 3619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 59514,
+      "offset": 60696,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 59671,
+      "offset": 60853,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 59761,
+      "offset": 60943,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "StringLiteral",
-      "offset": 61027,
+      "offset": 62209,
       "length": 4,
       "value": "\"NA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 61184,
+      "offset": 62366,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/ITBasketballFixtureBoxScoreScreenModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 61274,
+      "offset": 62456,
       "length": 1,
       "value": "1"
     },
@@ -44278,490 +44278,490 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 702,
+      "offset": 722,
       "length": 9,
       "value": "\"#F9FAFA\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "BooleanLiteral",
-      "offset": 2780,
+      "offset": 2800,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "BooleanLiteral",
-      "offset": 2835,
+      "offset": 2855,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 5999,
+      "offset": 6019,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6014,
+      "offset": 6034,
       "length": 3,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6031,
+      "offset": 6051,
       "length": 3,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6048,
+      "offset": 6068,
       "length": 3,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6065,
+      "offset": 6085,
       "length": 3,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6082,
+      "offset": 6102,
       "length": 3,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6099,
+      "offset": 6119,
       "length": 3,
       "value": "6"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6116,
+      "offset": 6136,
       "length": 2,
       "value": "7"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6132,
+      "offset": 6152,
       "length": 12,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6158,
+      "offset": 6178,
       "length": 2,
       "value": "9"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6174,
+      "offset": 6194,
       "length": 12,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6200,
+      "offset": 6220,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6216,
+      "offset": 6236,
       "length": 12,
       "value": "12"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6242,
+      "offset": 6262,
       "length": 4,
       "value": "13"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6260,
+      "offset": 6280,
       "length": 4,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6278,
+      "offset": 6298,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 6294,
+      "offset": 6314,
       "length": 9,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 11759,
+      "offset": 11779,
       "length": 18,
       "value": "\"DNP_TYPE_PLAYING\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 11829,
+      "offset": 11849,
       "length": 22,
       "value": "\"DNP_TYPE_NOT_ENTERED\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 11940,
+      "offset": 11960,
       "length": 27,
       "value": "\"DNP_TYPE_COACHES_DECISION\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 12056,
+      "offset": 12076,
       "length": 17,
       "value": "\"DNP_TYPE_INJURY\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 12975,
+      "offset": 12995,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 13052,
+      "offset": 13072,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 13118,
+      "offset": 13138,
       "length": 16,
       "value": "\"Michael Jordan\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 13199,
+      "offset": 13219,
       "length": 8,
       "value": "\"Micael\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 13274,
+      "offset": 13294,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 13340,
+      "offset": 13360,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Dictionary",
-      "offset": 13611,
+      "offset": 13631,
       "length": 1205,
       "value": "[(\"Stat.assists.Total\", \"5\"), (\"Stat.blocks.Total\", \"0\"), (\"Stat.defensiveRebounds.Total\", \"5\"), (\"Stat.doubleDouble.Total\", \"0\"), (\"Stat.efficiency.Total\", \"14\"), (\"Stat.fieldGoalPercentage.Total\", \"60\"), (\"Stat.fieldGoalsAttempted.Total\", \"5\"), (\"Stat.fieldGoalsMade.Total\", \"3\"), (\"Stat.freeThrowPercentage.Total\", \"0\"), (\"Stat.freeThrowsAttempted.Total\", \"0\"), (\"Stat.freeThrowsMade.Total\", \"0\"), (\"Stat.minutes.Total\", \"22.03\"), (\"Stat.offensiveRebounds.Total\", \"2\"), (\"Stat.personalFouls.Total\", \"2\"), (\"Stat.plusMinus.Total\", \"16\"), (\"Stat.points.Total\", \"9\"), (\"Stat.rebounds.Total\", \"7\"), (\"Stat.steals.Total\", \"2\"), (\"Stat.threePointersAttempted.Total\", \"5\"), (\"Stat.threePointersMade.Total\", \"3\"), (\"Stat.threePointPercentage.Total\", \"60\"), (\"Stat.tripleDouble.Total\", \"0\"), (\"Stat.turnovers.Total\", \"5\"), (\"Stat.twoPointersAttempted.Total\", \"0\"), (\"Stat.twoPointersMade.Total\", \"0\"), (\"Stat.twoPointPercentage.Total\", \"0\")]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 14942,
+      "offset": 14962,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15019,
+      "offset": 15039,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15086,
+      "offset": 15106,
       "length": 16,
       "value": "\"Michael Jordan\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15167,
+      "offset": 15187,
       "length": 9,
       "value": "\"Michael\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 15243,
+      "offset": 15263,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15309,
+      "offset": 15329,
       "length": 4,
       "value": "\"FP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Array",
-      "offset": 15456,
+      "offset": 15476,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15525,
+      "offset": 15545,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15602,
+      "offset": 15622,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15669,
+      "offset": 15689,
       "length": 12,
       "value": "\"Larry Bird\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15746,
+      "offset": 15766,
       "length": 7,
       "value": "\"Larry\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 15820,
+      "offset": 15840,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 15886,
+      "offset": 15906,
       "length": 4,
       "value": "\"FP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Array",
-      "offset": 16033,
+      "offset": 16053,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16102,
+      "offset": 16122,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16179,
+      "offset": 16199,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16246,
+      "offset": 16266,
       "length": 19,
       "value": "\"Karim Abdul Jabar\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16330,
+      "offset": 16350,
       "length": 7,
       "value": "\"Karim\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 16404,
+      "offset": 16424,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16470,
+      "offset": 16490,
       "length": 4,
       "value": "\"FP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Array",
-      "offset": 16617,
+      "offset": 16637,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16686,
+      "offset": 16706,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16763,
+      "offset": 16783,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16830,
+      "offset": 16850,
       "length": 15,
       "value": "\"Magic Johnson\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 16910,
+      "offset": 16930,
       "length": 7,
       "value": "\"Magic\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 16984,
+      "offset": 17004,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17050,
+      "offset": 17070,
       "length": 4,
       "value": "\"FP\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Array",
-      "offset": 17197,
+      "offset": 17217,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17266,
+      "offset": 17286,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17343,
+      "offset": 17363,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17410,
+      "offset": 17430,
       "length": 15,
       "value": "\"Jonathan Hoch\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17490,
+      "offset": 17510,
       "length": 6,
       "value": "\"King\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "IntegerLiteral",
-      "offset": 17563,
+      "offset": 17583,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 17628,
+      "offset": 17648,
       "length": 4,
       "value": "\"BJ\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "Array",
-      "offset": 17775,
+      "offset": 17795,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 18037,
+      "offset": 18057,
       "length": 5,
       "value": "\"MIN\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "BooleanLiteral",
-      "offset": 18190,
+      "offset": 18210,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "StringLiteral",
-      "offset": 18292,
+      "offset": 18312,
       "length": 5,
       "value": "\"MIN\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballFixtures\/BasketballFixtureScreens\/ITBasketBallFixtureBoxScore\/Models\/BasketballParticipant.swift",
       "kind": "BooleanLiteral",
-      "offset": 18445,
+      "offset": 18465,
       "length": 4,
       "value": "true"
     },
