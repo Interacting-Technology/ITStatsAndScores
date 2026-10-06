@@ -1,0 +1,1779 @@
+{
+    "days": [
+        {
+            "date": "2022-07-06T00:00:00",
+            "dateTitle": "7/6/2022 12:00:00 AM",
+            "sports": [
+                {
+                    "competitions": [
+                        {
+                            "id": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                            "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                            "title": "Premier League",
+                            "description": null,
+                            "rounds": [
+                                {
+                                    "id": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                    "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                    "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                                    "title": "Round 1",
+                                    "startDate": null,
+                                    "endDate": null,
+                                    "number": 1,
+                                    "matches": [
+                                        {
+                                            "id": "db6e8c65-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T17:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9d8881-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Tobol Kostanay"
+                                                },
+                                                {
+                                                    "id": "da6f8fec-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Ferencvarosi Budapest"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9d8881-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9d8881-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9d8881-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da6f8fec-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db6e8c62-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da767208-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "HJK Helsinki"
+                                                },
+                                                {
+                                                    "id": "daa70c3a-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FK Rigas Futbola Skola"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "daa70c3a-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa70c3a-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da767208-56e3-11ee-8100-88b111ac8153": 0,
+                                                "daa70c3a-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8l316h55bv9ebdyafvhxnslck",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db73d043-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da62d6e9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Bodoe/Glimt"
+                                                },
+                                                {
+                                                    "id": "da973db9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "KI Klaksvik"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da973db9-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da973db9-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da62d6e9-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da973db9-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db747ff8-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T20:30:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9b3003-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "F91 Dudelange"
+                                                },
+                                                {
+                                                    "id": "da97fb31-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "KF Tirana"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da97fb31-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da97fb31-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9b3003-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da97fb31-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "9j5qloi0fsdhlkayvasxdho1q",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db79a590-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da96ccec-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "HSK Zrinjski Mostar"
+                                                },
+                                                {
+                                                    "id": "da95f894-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Sheriff Tiraspol"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da96ccec-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da96ccec-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da96ccec-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db79e519-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T21:15:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da7752ed-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "NK Maribor"
+                                                },
+                                                {
+                                                    "id": "da90a37d-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Shakhter Soligorsk"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da90a37d-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da90a37d-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da90a37d-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8l316h55bv9ebdyafvhxnslck",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db80fcb5-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-06T21:30:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da7612be-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "SK Slovan Bratislava"
+                                                },
+                                                {
+                                                    "id": "daa0b201-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Dinamo Batumi"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa0b201-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa0b201-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da7612be-56e3-11ee-8100-88b111ac8153": 0,
+                                                "daa0b201-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "defaultNumberOfRounds": 0,
+                            "defaultStartMonth": 0,
+                            "defaultStartDay": 0,
+                            "defaultEndMonth": 0,
+                            "defaultEndDay": 0
+                        }
+                    ],
+                    "id": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                    "title": "Football"
+                }
+            ],
+            "matches": null
+        },
+        {
+            "date": "2022-07-07T00:00:00",
+            "dateTitle": "7/7/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-08T00:00:00",
+            "dateTitle": "7/8/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-09T00:00:00",
+            "dateTitle": "7/9/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-10T00:00:00",
+            "dateTitle": "7/10/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-11T00:00:00",
+            "dateTitle": "7/11/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-12T00:00:00",
+            "dateTitle": "7/12/2022 12:00:00 AM",
+            "sports": [
+                {
+                    "competitions": [
+                        {
+                            "id": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                            "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                            "title": "Premier League",
+                            "description": null,
+                            "rounds": [
+                                {
+                                    "id": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                    "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                    "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                                    "title": "Round 1",
+                                    "startDate": null,
+                                    "endDate": null,
+                                    "number": 1,
+                                    "matches": [
+                                        {
+                                            "id": "db80dc29-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T18:30:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa70c3a-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FK Rigas Futbola Skola"
+                                                },
+                                                {
+                                                    "id": "da767208-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "HJK Helsinki"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa70c3a-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa70c3a-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa70c3a-56e3-11ee-8100-88b111ac8153": 2,
+                                                "da767208-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8lbvky14fi0lnpotfvuxgb5sk",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db84b352-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9c7304-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Vilnius FK Zalgiris"
+                                                },
+                                                {
+                                                    "id": "daa61f9e-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Ballkani"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c7304-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa61f9e-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c7304-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa61f9e-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9c7304-56e3-11ee-8100-88b111ac8153": 0,
+                                                "daa61f9e-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db85279e-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa1b59a-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Qarabag FK"
+                                                },
+                                                {
+                                                    "id": "da8b8690-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "KKS Lech Poznan"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa1b59a-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da8b8690-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa1b59a-56e3-11ee-8100-88b111ac8153": 3,
+                                                        "da8b8690-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa1b59a-56e3-11ee-8100-88b111ac8153": 3,
+                                                "da8b8690-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8lbvky14fi0lnpotfvuxgb5sk",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db8d0e75-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa6cd35-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Lincoln Red Imps"
+                                                },
+                                                {
+                                                    "id": "daa61dfd-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Shkupi Cair"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa6cd35-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "daa61dfd-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa6cd35-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "daa61dfd-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa6cd35-56e3-11ee-8100-88b111ac8153": 1,
+                                                "daa61dfd-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db8d6191-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T20:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da95f894-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Sheriff Tiraspol"
+                                                },
+                                                {
+                                                    "id": "da96ccec-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "HSK Zrinjski Mostar"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da96ccec-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da96ccec-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da95f894-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da96ccec-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8lv8jaioycgt37i261h16ny1g",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db9418a7-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da97fb31-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "KF Tirana"
+                                                },
+                                                {
+                                                    "id": "da9b3003-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "F91 Dudelange"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da97fb31-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da97fb31-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 2
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da97fb31-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da9b3003-56e3-11ee-8100-88b111ac8153": 2
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db94a059-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9c27aa-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Hibernians FC Paola"
+                                                },
+                                                {
+                                                    "id": "da8baf64-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Shamrock Rovers"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c27aa-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c27aa-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9c27aa-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "aw0of2s48phqwruoawo2l1dqe",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db9c70b6-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T22:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa0b4a2-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FK Sutjeska Niksic"
+                                                },
+                                                {
+                                                    "id": "daa304a6-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "PFC Ludogorets 1945 Razgrad"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa0b4a2-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa304a6-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa0b4a2-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "daa304a6-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa0b4a2-56e3-11ee-8100-88b111ac8153": 0,
+                                                "daa304a6-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "db98eb61-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-12T22:30:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da6f62ae-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Vikingur Reykjavik"
+                                                },
+                                                {
+                                                    "id": "da6e2ca5-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Malmo FF"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f62ae-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da6e2ca5-56e3-11ee-8100-88b111ac8153": 2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f62ae-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da6e2ca5-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da6f62ae-56e3-11ee-8100-88b111ac8153": 2,
+                                                "da6e2ca5-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8klhfgixnixegsv7jmtepkqvo",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "defaultNumberOfRounds": 0,
+                            "defaultStartMonth": 0,
+                            "defaultStartDay": 0,
+                            "defaultEndMonth": 0,
+                            "defaultEndDay": 0
+                        }
+                    ],
+                    "id": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                    "title": "Football"
+                }
+            ],
+            "matches": null
+        },
+        {
+            "date": "2022-07-13T00:00:00",
+            "dateTitle": "7/13/2022 12:00:00 AM",
+            "sports": [
+                {
+                    "competitions": [
+                        {
+                            "id": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                            "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                            "title": "Premier League",
+                            "description": null,
+                            "rounds": [
+                                {
+                                    "id": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                    "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                    "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                                    "title": "Round 1",
+                                    "startDate": null,
+                                    "endDate": null,
+                                    "number": 1,
+                                    "matches": [
+                                        {
+                                            "id": "db9e431a-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T20:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da90a37d-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Shakhter Soligorsk"
+                                                },
+                                                {
+                                                    "id": "da7752ed-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "NK Maribor"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da90a37d-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da90a37d-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da90a37d-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da7752ed-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dba0dc17-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T20:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da973db9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "KI Klaksvik"
+                                                },
+                                                {
+                                                    "id": "da62d6e9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Bodoe/Glimt"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da973db9-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da973db9-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da973db9-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da62d6e9-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8mm35z3ihj2wh53ik92p0isr8",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dba2da75-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T20:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa0b201-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Dinamo Batumi"
+                                                },
+                                                {
+                                                    "id": "da7612be-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "SK Slovan Bratislava"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa0b201-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa0b201-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa0b201-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da7612be-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dba68cf0-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da6f8fec-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Ferencvarosi Budapest"
+                                                },
+                                                {
+                                                    "id": "da9d8881-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Tobol Kostanay"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 3,
+                                                        "da9d8881-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da9d8881-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da6f8fec-56e3-11ee-8100-88b111ac8153": 2,
+                                                "da9d8881-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8kcoiclofj6o7ezjtdx9eb310",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbaaf280-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T21:30:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9c2831-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC CFR 1907 Cluj"
+                                                },
+                                                {
+                                                    "id": "da9ba6d4-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Pyunik Yerevan"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c2831-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da9ba6d4-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c2831-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da9ba6d4-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9c2831-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da9ba6d4-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbaf0672-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "df544309-ff2e-4af9-a7ce-87d71b0a850c",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-13T21:45:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9b7492-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Linfield FC"
+                                                },
+                                                {
+                                                    "id": "da9619bc-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "The New Saints FC"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b7492-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da9619bc-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b7492-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da9619bc-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9b7492-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da9619bc-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8kcoiclofj6o7ezjtdx9eb310",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "defaultNumberOfRounds": 0,
+                            "defaultStartMonth": 0,
+                            "defaultStartDay": 0,
+                            "defaultEndMonth": 0,
+                            "defaultEndDay": 0
+                        }
+                    ],
+                    "id": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                    "title": "Football"
+                }
+            ],
+            "matches": null
+        },
+        {
+            "date": "2022-07-14T00:00:00",
+            "dateTitle": "7/14/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-15T00:00:00",
+            "dateTitle": "7/15/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-16T00:00:00",
+            "dateTitle": "7/16/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-17T00:00:00",
+            "dateTitle": "7/17/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-18T00:00:00",
+            "dateTitle": "7/18/2022 12:00:00 AM",
+            "sports": null,
+            "matches": null
+        },
+        {
+            "date": "2022-07-19T00:00:00",
+            "dateTitle": "7/19/2022 12:00:00 AM",
+            "sports": [
+                {
+                    "competitions": [
+                        {
+                            "id": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                            "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                            "title": "Premier League",
+                            "description": null,
+                            "rounds": [
+                                {
+                                    "id": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                    "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                    "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                                    "title": "Round 2",
+                                    "startDate": null,
+                                    "endDate": null,
+                                    "number": 2,
+                                    "matches": [
+                                        {
+                                            "id": "dbb1cd5c-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa1b59a-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Qarabag FK"
+                                                },
+                                                {
+                                                    "id": "da79f028-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Zurich"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa1b59a-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da79f028-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa1b59a-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da79f028-56e3-11ee-8100-88b111ac8153": 2
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa1b59a-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da79f028-56e3-11ee-8100-88b111ac8153": 2
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbb8fd00-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9ba6d4-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Pyunik Yerevan"
+                                                },
+                                                {
+                                                    "id": "da9b3003-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "F91 Dudelange"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9ba6d4-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9ba6d4-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da9b3003-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9ba6d4-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da9b3003-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "b74g6x8o1fz0a02c2ydxhf8t4",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbbb15b2-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9c7304-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Vilnius FK Zalgiris"
+                                                },
+                                                {
+                                                    "id": "da6e2ca5-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Malmo FF"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c7304-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da6e2ca5-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9c7304-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da6e2ca5-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9c7304-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da6e2ca5-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbb969d9-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T20:45:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da69a82d-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Midtjylland"
+                                                },
+                                                {
+                                                    "id": "da91a429-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "AEK Larnaca"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da69a82d-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da91a429-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da69a82d-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da91a429-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da69a82d-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da91a429-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8lmezj3ionyzcssixw18eulg4",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbbbb1c3-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T20:45:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "daa304a6-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "PFC Ludogorets 1945 Razgrad"
+                                                },
+                                                {
+                                                    "id": "da8baf64-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Shamrock Rovers"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa304a6-56e3-11ee-8100-88b111ac8153": 2,
+                                                        "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "daa304a6-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "daa304a6-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da8baf64-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbc82ec4-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T21:45:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da9b7492-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Linfield FC"
+                                                },
+                                                {
+                                                    "id": "da62d6e9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Bodoe/Glimt"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b7492-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da9b7492-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da62d6e9-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da9b7492-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da62d6e9-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8m46l1jegg6ao1qree97bsiz8",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbc5ffb3-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-19T22:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da70c0bd-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "GNK Dinamo Zagreb"
+                                                },
+                                                {
+                                                    "id": "daa61dfd-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Shkupi Cair"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da70c0bd-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "daa61dfd-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da70c0bd-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "daa61dfd-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da70c0bd-56e3-11ee-8100-88b111ac8153": 1,
+                                                "daa61dfd-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "defaultNumberOfRounds": 0,
+                            "defaultStartMonth": 0,
+                            "defaultStartDay": 0,
+                            "defaultEndMonth": 0,
+                            "defaultEndDay": 0
+                        }
+                    ],
+                    "id": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                    "title": "Football"
+                }
+            ],
+            "matches": null
+        },
+        {
+            "date": "2022-07-20T00:00:00",
+            "dateTitle": "7/20/2022 12:00:00 AM",
+            "sports": [
+                {
+                    "competitions": [
+                        {
+                            "id": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                            "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                            "title": "Premier League",
+                            "description": null,
+                            "rounds": [
+                                {
+                                    "id": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                    "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                    "sportId": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                                    "title": "Round 2",
+                                    "startDate": null,
+                                    "endDate": null,
+                                    "number": 2,
+                                    "matches": [
+                                        {
+                                            "id": "dbc6d719-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-20T19:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da767208-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "HJK Helsinki"
+                                                },
+                                                {
+                                                    "id": "da91a4ef-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Viktoria Plzen"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da91a4ef-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da767208-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da91a4ef-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da767208-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da91a4ef-56e3-11ee-8100-88b111ac8153": 1
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8md7g6vqqoe7sik1mbkrmey38",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbc9692d-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-20T20:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da97f8b9-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Maccabi Haifa FC"
+                                                },
+                                                {
+                                                    "id": "da8c0abb-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Olympiacos Piraeus"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da97f8b9-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da8c0abb-56e3-11ee-8100-88b111ac8153": 1
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da97f8b9-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da8c0abb-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da97f8b9-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da8c0abb-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbd09d98-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-20T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da8cf0da-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Dynamo Kyiv"
+                                                },
+                                                {
+                                                    "id": "da8af3fa-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Fenerbahce Istanbul"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da8cf0da-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da8af3fa-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da8cf0da-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da8af3fa-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da8cf0da-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da8af3fa-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8m46l1jegg6ao1qree97bsiz8",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbd545be-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-20T21:00:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da6f8fec-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "Ferencvarosi Budapest"
+                                                },
+                                                {
+                                                    "id": "da7612be-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "SK Slovan Bratislava"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da6f8fec-56e3-11ee-8100-88b111ac8153": 1,
+                                                        "da7612be-56e3-11ee-8100-88b111ac8153": 2
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da6f8fec-56e3-11ee-8100-88b111ac8153": 1,
+                                                "da7612be-56e3-11ee-8100-88b111ac8153": 2
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": null,
+                                            "thumbnail": null,
+                                            "properties": null
+                                        },
+                                        {
+                                            "id": "dbd71d30-56e3-11ee-8100-88b111ac8153",
+                                            "competitionRoundId": "95019b18-5b5f-4ad7-b979-e9a7c1c29dd5",
+                                            "competitionId": "39e51622-377e-11ee-94ac-3c2c30a03ca9",
+                                            "startsAt": "2022-07-20T21:15:00",
+                                            "contestants": [
+                                                {
+                                                    "id": "da7752ed-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "NK Maribor"
+                                                },
+                                                {
+                                                    "id": "da95f894-56e3-11ee-8100-88b111ac8153",
+                                                    "name": "FC Sheriff Tiraspol"
+                                                }
+                                            ],
+                                            "periods": [
+                                                {
+                                                    "id": "c070b08b-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 1,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8c31dda-40c5-11ee-9c06-88b111ac8153",
+                                                    "number": 2,
+                                                    "title": null,
+                                                    "scores": {
+                                                        "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                        "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                                    }
+                                                }
+                                            ],
+                                            "state": 2,
+                                            "scores": {
+                                                "da7752ed-56e3-11ee-8100-88b111ac8153": 0,
+                                                "da95f894-56e3-11ee-8100-88b111ac8153": 0
+                                            },
+                                            "currentTime": "FT",
+                                            "externalId": "8kubtsi8n1tawq6etfok2u4us",
+                                            "thumbnail": null,
+                                            "properties": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "defaultNumberOfRounds": 0,
+                            "defaultStartMonth": 0,
+                            "defaultStartDay": 0,
+                            "defaultEndMonth": 0,
+                            "defaultEndDay": 0
+                        }
+                    ],
+                    "id": "1ca828cd-377d-11ee-94ac-3c2c30a03ca9",
+                    "title": "Football"
+                }
+            ],
+            "matches": null
+        }
+    ]
+}

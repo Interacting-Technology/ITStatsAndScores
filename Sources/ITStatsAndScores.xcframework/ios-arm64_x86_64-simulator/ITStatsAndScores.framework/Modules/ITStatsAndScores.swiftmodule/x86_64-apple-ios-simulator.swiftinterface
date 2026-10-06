@@ -208,6 +208,8 @@ public enum LiteCompetitionInfo {
     set
   }
   public func configure(with configuration: ITStatsAndScores.ITConfiguration)
+  public func update(userZones: [Swift.String])
+  public var simulateUserZones: Swift.Bool
   public func updateFollowingAndReminders()
   public func matchOverviewMainEvents(hide: Swift.Bool)
   public enum UserVideoInteraction {
@@ -340,7 +342,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   internal var userStatus: ITStatsAndScores.ITConfiguration.UserStatus
   @usableFromInline
   internal var typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport
-  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String, userStatus: ITStatsAndScores.ITConfiguration.UserStatus, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer) {
+  @usableFromInline
+  internal var userZones: [Swift.String]
+  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String, userStatus: ITStatsAndScores.ITConfiguration.UserStatus, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, userZones: [Swift.String]) {
         self.userId = userId
         
         let lowercasedCountry = country.lowercased()
@@ -353,6 +357,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
         self.country = lowercasedCountry
         self.userStatus = userStatus
         self.typeOfSport = typeOfSport
+        self.userZones = userZones
     }
 }
 extension ITStatsAndScores.ITConfiguration {
