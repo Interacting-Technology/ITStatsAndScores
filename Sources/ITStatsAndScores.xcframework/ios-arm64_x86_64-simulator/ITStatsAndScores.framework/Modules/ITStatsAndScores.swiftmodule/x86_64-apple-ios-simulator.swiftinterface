@@ -344,7 +344,9 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
   internal var typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport
   @usableFromInline
   internal var userZones: [Swift.String]
-  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String, userStatus: ITStatsAndScores.ITConfiguration.UserStatus, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, userZones: [Swift.String]) {
+  @usableFromInline
+  internal var enableGlassEffort: Swift.Bool
+  @inlinable public init(userId: Swift.String, language: Swift.String, country: Swift.String, userStatus: ITStatsAndScores.ITConfiguration.UserStatus, typeOfSport: ITStatsAndScores.ITStatsAndScoresAccess.TypeOfSport = .soccer, userZones: [Swift.String], enableGlassEffort: Swift.Bool = true) {
         self.userId = userId
         
         let lowercasedCountry = country.lowercased()
@@ -358,6 +360,7 @@ extension ITStatsAndScores.ITStatsAndScoresAccess {
         self.userStatus = userStatus
         self.typeOfSport = typeOfSport
         self.userZones = userZones
+        self.enableGlassEffort = enableGlassEffort
     }
 }
 extension ITStatsAndScores.ITConfiguration {
