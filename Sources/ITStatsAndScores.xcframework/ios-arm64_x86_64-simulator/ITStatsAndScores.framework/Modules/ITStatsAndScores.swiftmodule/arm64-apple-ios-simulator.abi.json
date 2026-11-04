@@ -67355,20 +67355,6 @@
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitBottomSheetPresenter.swift",
-      "kind": "IntegerLiteral",
-      "offset": 992,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/SharedUI\/Views\/UIKit\/UIKitBottomSheetPresenter.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1050,
-      "length": 1,
-      "value": "0"
-    },
-    {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Screens\/Sports\/Basketball\/ITBasketballCompetitions\/ITBasketballLiteCompetition\/ITBasketballLiteCompetitionScreenModel.swift",
       "kind": "Array",
       "offset": 893,
