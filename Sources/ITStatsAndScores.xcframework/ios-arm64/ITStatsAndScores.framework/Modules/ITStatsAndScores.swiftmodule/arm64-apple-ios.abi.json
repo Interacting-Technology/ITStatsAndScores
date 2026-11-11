@@ -15795,7 +15795,6 @@
                     "usr": "s:SS"
                   }
                 ],
-                "hasDefaultArg": true,
                 "usr": "s:Sa"
               },
               {
@@ -38162,7 +38161,7 @@
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Environments\/FrameworkSettings.swift",
       "kind": "StringLiteral",
-      "offset": 2390,
+      "offset": 2383,
       "length": 2,
       "value": "\"\""
     },
@@ -43894,85 +43893,78 @@
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
-      "kind": "Array",
-      "offset": 1078,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 1135,
+      "offset": 1130,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2100,
+      "offset": 2095,
       "length": 9,
       "value": "\"Partial\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2135,
+      "offset": 2130,
       "length": 11,
       "value": "\"FreeTrial\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2173,
+      "offset": 2168,
       "length": 12,
       "value": "\"ActivePaid\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2213,
+      "offset": 2208,
       "length": 13,
       "value": "\"ActiveGrace\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2249,
+      "offset": 2244,
       "length": 8,
       "value": "\"Frozen\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2281,
+      "offset": 2276,
       "length": 9,
       "value": "\"Expired\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2323,
+      "offset": 2318,
       "length": 18,
       "value": "\"ExpiredMarketing\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2365,
+      "offset": 2360,
       "length": 9,
       "value": "\"Blocked\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2397,
+      "offset": 2392,
       "length": 8,
       "value": "\"Paused\""
     },
     {
       "filePath": "\/Users\/jonathan\/Development\/Production\/IOS\/SDK-StatsAndScores\/Frameworks\/ITStatsAndScores\/ITStatsAndScores\/Services\/InteractingTechnology\/Public_APIS\/Models\/ITConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2429,
+      "offset": 2424,
       "length": 11,
       "value": "\"_unknown_\""
     },
